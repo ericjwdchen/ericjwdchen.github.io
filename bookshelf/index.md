@@ -9,6 +9,8 @@ weight: 1
 - Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
 - A Pattern Language: Towns, Buildings, Construction
 
+<hr>
+
 ### [A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing][Random Walk - Amazon]
 
 #### "...telling most investors that there is no hope of beating the averages is like telling a six-year-old that there is no Santa Claus. It takes the zing out of life."
