@@ -26,6 +26,18 @@ $large-spacing: 2rem;
 $page-width: 90vw;
 $max-page-width: 700px;
 
+/* Components */
+.text-center {
+  text-align: center;
+}
+
+.divider {
+  border-bottom: 3px solid $grey;
+}
+
+.grey {
+  color: $grey;
+}
 
 /* Body resets */
 
@@ -111,10 +123,6 @@ ul, ol, dl {
   margin: 1rem auto;
 }
 
-.grey {
-  color: $grey;
-}
-
 blockquote {
   background-color: $light-grey;
   border-left: 3px solid $grey;
@@ -147,10 +155,8 @@ hr:after {
 /* Header */
 
 header {
-  border-bottom: 3px solid $grey;
   font-size: 1.2rem;
   margin: auto;
-  text-align: center;
 }
 
 .nav-links {
@@ -229,11 +235,6 @@ img + em {
   border-radius: 50%;
   shape-outside: circle();
   margin: 0 0 1em 1em;
-}
-
-/* Paragraph Alignment */
-.center {
-  text-align: center;
 }
 
 /* Tables */

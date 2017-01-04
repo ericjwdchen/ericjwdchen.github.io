@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Book Notes
+title: Bookshelf
 weight: 2
 ---
 
-## [A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing][Random Walk - Amazon]
+### [A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing][Random Walk - Amazon]
 
 #### "...telling most investors that there is no hope of beating the averages is like telling a six-year-old that there is no Santa Claus. It takes the zing out of life."
 

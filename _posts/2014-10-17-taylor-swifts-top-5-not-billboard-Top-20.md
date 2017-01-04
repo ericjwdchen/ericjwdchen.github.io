@@ -13,7 +13,7 @@ There’s no need to beat around the bush; I’m a [Swiftie][swiftie urban dicti
 
 <div class='responsive-container'><iframe src="https://www.youtube.com/embed/GkD20ajVxnY" allowfullscreen></iframe></div>
 
-<div class="center"><p><i>He said the way my blue eyes shined<br>
+<div class="text-center"><p><i>He said the way my blue eyes shined<br>
 Put those Georgia stars to shame that night<br>
 I said: "That's a lie."</i></p></div>
 
@@ -23,7 +23,7 @@ I said: "That's a lie."</i></p></div>
 
 <div class='responsive-container'><iframe src='https://www.youtube.com/embed/D1Xr-JFLxik'  allowfullscreen></iframe></div>
 
-<div class="center"><p><i>I'm not a princess, this ain't a fairy tale,<br>
+<div class="text-center"><p><i>I'm not a princess, this ain't a fairy tale,<br>
 I'm not the one you'll sweep off her feet,<br>
 Lead her up the stairwell.</i></p></div>
 
@@ -31,7 +31,7 @@ Off Taylor’s second studio album Fearless, “White Horse” has brought me cl
 
 ## 3. Enchanted
 
-<div class="center"><p><i>There I was again tonight<br>
+<div class="text-center"><p><i>There I was again tonight<br>
 Forcing laughter, faking smiles<br>
 Same old tired lonely place</i></p></div>
 
@@ -41,7 +41,7 @@ Same old tired lonely place</i></p></div>
 
 <div class='responsive-container'><iframe src='https://www.youtube.com/embed/w1oM3kQpXRo'  allowfullscreen></iframe></div>
 
-<div class="center"><p><i>And all I feel in my stomach is butterflies<br>
+<div class="text-center"><p><i>And all I feel in my stomach is butterflies<br>
 The beautiful kind, making up for lost time,<br>
 Taking flight, making me feel right.</i></p></div>
 
@@ -49,7 +49,7 @@ Taking flight, making me feel right.</i></p></div>
 
 ## 5. Dark Blue Tennessee
 
-<div class="center"><p><i>She almost called him on the night that he wrote<br>
+<div class="text-center"><p><i>She almost called him on the night that he wrote<br>
 These simple words on his goodbye note.</i></p></div>
 
 Because “Dark Blue Tennessee” was never officially released, the only way to listen to it is on YouTube with that terrible pitch shifting. In spite of that, the song still shines. It’s perhaps the most country of any song on this list. Taylor’s voice has a little twang, and the instrumentation is unapologetically small-town southern.
