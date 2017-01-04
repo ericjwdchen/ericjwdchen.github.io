@@ -21,3 +21,6 @@ gems:
 
 sass:
   style: :compressed
+
+variables:
+  primary-color: "#bf1f49"

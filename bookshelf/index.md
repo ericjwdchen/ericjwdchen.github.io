@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bookshelf
-weight: 2
+weight: 1
 ---
 
 ### [A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing][Random Walk - Amazon]

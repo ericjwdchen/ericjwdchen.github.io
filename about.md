@@ -26,7 +26,7 @@ You can find me on [Twitter][twitter], [LinkedIn][linkedin],[^1] and [Github][gi
 
 This site is built on [Jekyll][jekyll], forked originally from [Poole][poole], and generously hosted on [GitHub Pages][gp]. The repository for the website is [here][repo].
 
-Math equations are created using [MathJax][mj]. Syntax highlighting is done with [highlight.js][h.js] using the Solarized Light theme.
+Math equations are created using [MathJax][mj]. Syntax highlighting for code snippets is done with [highlight.js][h.js] using the Solarized Light theme.
 
 The [logo][l] is an homage to the brown [Zune 30][Zune 30], Microsoft's deeply flawed yet iconic iPod competitor and my favorite electronic device. Mine was white, but brown makes for a better logo.
 
