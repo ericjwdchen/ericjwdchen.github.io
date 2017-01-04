@@ -20,7 +20,9 @@ It's also refreshing to see that the current edition of the book, the 11th, is a
 
 [Random Walk - Amazon]: https://www.amazon.com/Random-Walk-down-Wall-Street/dp/0393352242/ref=sr_1_1?ie=UTF8&qid=1474225863&sr=8-1&keywords=random+walk
 
-## [God and Man at Yale][Gamay - Amazon]
+<hr>
+
+### [God and Man at Yale][Gamay - Amazon]
 
 #### "Again, I maintain that most universities have espoused—and continue to do so—collectively, one value as opposed to another."
 
@@ -32,8 +34,9 @@ It's also refreshing to see that the current edition of the book, the 11th, is a
 
 [Gamay - Amazon]: https://www.amazon.com/God-Man-Yale-Superstitions-Academic/dp/089526692X/ref=sr_1_1?ie=UTF8&qid=1467334885&sr=8-1&keywords=god+and+man+at+yale
 
+<hr>
 
-## [On Boxing][On Boxing - Amazon]
+### [On Boxing][On Boxing - Amazon]
 
 #### "...for boxing is about failure far more than it is about success."
 
@@ -51,7 +54,7 @@ To illustrate, Oates in her own words on boxing:
 
 <hr>
 
-## [Flash Boys: A Wall Street Revolt][the flash boys - Amazon]
+### [Flash Boys: A Wall Street Revolt][the flash boys - Amazon]
 
 #### "They traded in the market the way card counters in a casino played blackjack: They played only when they had an edge."
 
