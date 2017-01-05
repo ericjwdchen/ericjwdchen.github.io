@@ -18,7 +18,7 @@ weight: 1
 
 - **A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing** by Burton Malkiel
 
-  *"...telling most investors that there is no hope of beating the averages is like telling a six-year-old that there is no Santa Claus. It takes the zing out of life."*
+  > ...telling most investors that there is no hope of beating the averages is like telling a six-year-old that there is no Santa Claus. It takes the zing out of life.
 
   More than anything else, the highest praise that can be given for *A Random Walk Down Wall Street* is that it is a no-nonsense book. Burton Malkiel advocates that index-based investing ought to form the core of most every individual investor's portfolio. No more stock-picking, investment advisors, or hot gossip about which tech company will be the Facebook from your buddy at the golf course.
 
@@ -30,17 +30,17 @@ weight: 1
 
 - **God and Man at Yale** by William F. Buckley
 
-  *"Again, I maintain that most universities have espoused—and continue to do so—collectively, one value as opposed to another."*
+  > Again, I maintain that most universities have espoused—and continue to do so—collectively, one value as opposed to another.
+
+  While I certainly don't agree with everything in this book, I thought it a worthwhile read. There are many more smart things than dumb things in this book.
 
   > It is plain that the president of a university cannot transmit to the students his own values directly. his duties are so extensive that to conduct classes on a large scale is a practical impossibility. He must therefore utilize intermediaries, men of similar convictions, to do the job. This academic freedom forbids. It is therefore an appalling yet indisputable fact that because of the restraints of "academic freedom," the president of Yale has far less influence on the student body than have scores of influential professors who are allowed—in fact encouraged—to teach just as they will , to traffic, within loose limits, in whatever values they choose.
   >
   >It is curious that the Corporation spends so much time and effort in selecting a president.
 
-  While I certainly don't agree with everything in this book, I thought it a worthwhile read. There are many more smart things than dumb things in this book.
-
 - **On Boxing** by Joyce Carol Oates
 
-  > "...for boxing is about failure far more than it is about success."*
+  > ...for boxing is about failure far more than it is about success.
 
   There are no shortage of reviews and responses to this timeless Joyce Carol Oates anthology of essays about, and on, boxing. And rightly so. For a longtime outsider to the world of combat sports who only started paying more attention recently, beginning with Mayweather vs. Pacquiao last year, *On Boxing* captures perfectly what is so electric and captivating about boxing.
 
