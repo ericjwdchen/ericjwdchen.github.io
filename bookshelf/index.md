@@ -4,6 +4,8 @@ title: Bookshelf
 weight: 1
 ---
 
+I've put one star (★) in front of books I thought were certainly worth reading and two stars (★★) in front of books definitely worth reading.
+
 ## In Progress
 
 - A Pattern Language: Towns, Buildings, Construction
