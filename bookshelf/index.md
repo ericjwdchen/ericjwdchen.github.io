@@ -40,7 +40,7 @@ weight: 1
 
 - **On Boxing** by Joyce Carol Oates
 
-  *"...for boxing is about failure far more than it is about success."*
+  > "...for boxing is about failure far more than it is about success."*
 
   There are no shortage of reviews and responses to this timeless Joyce Carol Oates anthology of essays about, and on, boxing. And rightly so. For a longtime outsider to the world of combat sports who only started paying more attention recently, beginning with Mayweather vs. Pacquiao last year, *On Boxing* captures perfectly what is so electric and captivating about boxing.
 
@@ -50,10 +50,10 @@ weight: 1
 
   > Which returns us to the paradox of boxing: its obsessive appeal for many who find in it not only a spectacle involving sensational feats of physical skill but an emotional experience impossible to convey in words; an art form, as I've suggested, with no natural analogue in the arts. Of course it is primitive, too, as birth, death and erotic love might be said to be primitive, and forces our reluctant acknowledgement of that the most profound experiences of our lives are physical events—though we believe ourselves to be, and surely are, essentially spiritual beings.
 
-### Flash Boys: A Wall Street Revolt
+- **Flash Boys: A Wall Street Revolt** by Michael Lewis
 
-#### "They traded in the market the way card counters in a casino played blackjack: They played only when they had an edge."
+  > They traded in the market the way card counters in a casino played blackjack: They played only when they had an edge.
 
-As the saying goes, don't bring a knife to a gunfight. If you're an individual investor on Wall Street, the lesson from Michael Lewis's *Flash Boys* is that you have the knife, and the high frequency traders have the guns. It's a fools game—no different than roulette at the casino. The house knows the odds, and they're not in your favor.
+  As the saying goes, don't bring a knife to a gunfight. If you're an individual investor on Wall Street, the lesson from Michael Lewis's *Flash Boys* is that you have the knife, and the high frequency traders have the guns. It's a fools game—no different than roulette at the casino. The house knows the odds, and they're not in your favor.
 
-*Flash Boys*, if a little repetitive towards the end, was an enjoyable read written accessibly with solid characters and an easy to follow narrative.
+  *Flash Boys*, if a little repetitive towards the end, was an enjoyable read written accessibly with solid characters and an easy to follow narrative.
