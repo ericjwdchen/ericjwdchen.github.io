@@ -4,7 +4,7 @@ title: Bookshelf
 weight: 1
 ---
 
-One star books (★) are certainly worth reading and two star books (★★) are definitely worth reading.
+One star books (<span class="primary-color">★</span>) are certainly worth reading and two star books (<span class="primary-color">★★</span>) are definitely worth reading.
 
 ## In Progress
 
