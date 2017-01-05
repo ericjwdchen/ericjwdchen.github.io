@@ -10,10 +10,9 @@ weight: 1
 
 ## 2017
 
-### Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
+- **Hillbilly Elegy: A Memoir of a Family and Culture in Crisis**
 
-Hillbilly Elegy is certainly worth a read because of how it describes a a white, working-class culture of Appalachia that isn't often talked about. J.D. Vance manages to describe it well by being nuanced throughout. Very few things are binary, and Vance's description of hillbilly culture is no different. When talking about social issues partisanship and loaded terms (e.g. "welfare queen") often bring conversation to a standstill. But I think that this book does a fine job avoiding those traps.
-
+  Hillbilly Elegy is certainly worth a read because of how it describes a a white, working-class culture of Appalachia that isn't often talked about. J.D. Vance manages to describe it well by being nuanced throughout. Very few things are binary, and Vance's description of hillbilly culture is no different. When talking about social issues partisanship and loaded terms (e.g. "welfare queen") often bring conversation to a standstill. But I think that this book does a fine job avoiding those traps.
 
 ## 2016
 
