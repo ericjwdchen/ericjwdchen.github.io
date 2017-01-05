@@ -4,7 +4,7 @@ title: Bookshelf
 weight: 1
 ---
 
-I've put one star (★) in front of books I thought were certainly worth reading and two stars (★★) in front of books definitely worth reading.
+One star books (★) are certainly worth reading and two star books (★★) are definitely worth reading.
 
 ## In Progress
 
@@ -12,13 +12,13 @@ I've put one star (★) in front of books I thought were certainly worth reading
 
 ## 2017
 
-- **Hillbilly Elegy: A Memoir of a Family and Culture in Crisis** by J.D. Vance
+- **Hillbilly Elegy: A Memoir of a Family and Culture in Crisis** by J.D. Vance <span class="primary-color">★★</span>
 
   Hillbilly Elegy is certainly worth a read because of how it describes a a white, working-class culture of Appalachia that isn't often talked about. J.D. Vance manages to describe it well by being nuanced throughout. Very few things are binary, and Vance's description of hillbilly culture is no different. When talking about social issues partisanship and loaded terms (e.g. "welfare queen") often bring conversation to a standstill. But I think that this book does a fine job avoiding those traps.
 
 ## 2016
 
-- **A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing** by Burton Malkiel
+- **A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing** by Burton Malkiel <span class="primary-color">★★</span>
 
   > ...telling most investors that there is no hope of beating the averages is like telling a six-year-old that there is no Santa Claus. It takes the zing out of life.
 
@@ -30,7 +30,7 @@ I've put one star (★) in front of books I thought were certainly worth reading
 
   It's also refreshing to see that the current edition of the book, the 11th, is a legitimate 11th edition. Too often, textbook publishers create new editions simply by rearranging chapters, reordering exercises, and changing the typesetting of the book—all without one material change to the actual content. In this edition, Malkiel addresses recent challenges to the Efficient-Market Hypothesis, such as behavioral finance and "smart beta." What's more, he includes recent economic data up through 2014, when this edition was published.
 
-- **God and Man at Yale** by William F. Buckley
+- **God and Man at Yale** by William F. Buckley <span class="primary-color">★</span>
 
   > Again, I maintain that most universities have espoused—and continue to do so—collectively, one value as opposed to another.
 
@@ -40,7 +40,7 @@ I've put one star (★) in front of books I thought were certainly worth reading
   >
   >It is curious that the Corporation spends so much time and effort in selecting a president.
 
-- **On Boxing** by Joyce Carol Oates
+- **On Boxing** by Joyce Carol Oates <span class="primary-color">★</span>
 
   > ...for boxing is about failure far more than it is about success.
 
