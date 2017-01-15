@@ -5,7 +5,7 @@ title: Mini-Buses and uberPool
 
 Last month, I started reading *A Pattern Language: Towns, Buildings, Construction*. It's a book about architecture that contains 253 rules for building everything from metropolitan areas (**2. The Distribution of Towns**) to houses (**221. Natural Doors and Windows**).
 
-There's so much to talk about from this book, but one patter in particular caught my attention: **20. Minibuses**. Here's a quote from the passage:
+There's so much to talk about from this book, but one pattern in particular caught my attention: **20. Minibuses**. Here's a quote from the passage:
 
 > Buses and trains, which run along lines, are too far from most origins and destinations to be useful. Taxis, which can go from point to point, are too expensive.
 >
