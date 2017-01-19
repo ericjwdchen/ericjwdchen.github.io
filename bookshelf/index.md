@@ -8,8 +8,8 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## In Progress
 
-- *A Pattern Language: Towns, Buildings, Construction* by Christopher Alexander, Murray Silverstein, and Sara Ishikawa
-- *High Output Management* by Andrew Grove
+- **A Pattern Language: Towns, Buildings, Construction** by Christopher Alexander, Murray Silverstein, and Sara Ishikawa
+- **High Output Management** by Andrew Grove
 
 ## 2017
 
