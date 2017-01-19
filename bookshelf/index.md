@@ -8,7 +8,8 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## In Progress
 
-- A Pattern Language: Towns, Buildings, Construction
+- *A Pattern Language: Towns, Buildings, Construction* by Christopher Alexander, Murray Silverstein, and Sara Ishikawa
+- *High Output Management* by Andrew Grove
 
 ## 2017
 
@@ -17,6 +18,10 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
   *Hillbilly Elegy* is certainly worth a read because of how it describes a a white, working-class culture of Appalachia that isn't often talked about. J.D. Vance manages to describe it well by being nuanced throughout. Very few things are binary, and Vance's description of hillbilly culture is no different. When talking about social issues partisanship and loaded terms (e.g. "welfare queen") often bring conversation to a standstill. But I think that this book does a fine job avoiding those traps.
 
 ## 2016
+
+- **Ready Player One** by Ernest Cline
+
+  I read *Ready Player One* after seeing many recommendations for the book over time. If you are familiar with popular culture from the 1980s, I am quite sure this will be an enjoyable read. If you are not familiar with 80s pop culture, you will be fine for also passing over *Ready Player One*.
 
 - **A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing** by Burton Malkiel <span class="primary-color">★★</span>
 
