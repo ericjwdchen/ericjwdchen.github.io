@@ -45,7 +45,7 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
   >
   >It is curious that the Corporation spends so much time and effort in selecting a president.
 
-- **On Boxing** by Joyce Carol Oates <span class="primary-color">★</span>
+- **On Boxing** by Joyce Carol Oates <span class="primary-color">★★</span>
 
   > ...for boxing is about failure far more than it is about success.
 
