@@ -10,6 +10,7 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 - **A Pattern Language: Towns, Buildings, Construction** by Christopher Alexander, Murray Silverstein, and Sara Ishikawa
 - **High Output Management** by Andrew Grove
+- **The Man Who Knew: The Life and Times of Alan Greenspan** by Sebastian Mallaby
 
 ## 2017
 
