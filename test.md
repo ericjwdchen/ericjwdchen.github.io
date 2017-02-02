@@ -62,11 +62,15 @@ A particular user will often follow general-interest subreddits, but may also fo
 
 Given the focus of Reddit on distinct communities, and with the over 1 million unique subreddit communities on the site, we expect that there will be large variations in communities. There might be countless ways to quantify the differences, but we decided on examining subreddits along two dimensions: individual engagement and community engagement.
 
-Individual engagement is defined as follows for any subreddit: $$\text{individual engagement} = \frac{\sum\limits_{u \in \text{top users}} \frac{u_{\text{posts in this subreddit}}}{u_{\text{total posts}}}}{|\text{top users}|}, \quad \text{individual engagement} \in [0,1].$$
+Individual engagement is defined as follows for any subreddit:
+
+$$\text{individual engagement} = \frac{\sum\limits_{u \in \text{top users}} \frac{u_{\text{posts in this subreddit}}}{u_{\text{total posts}}}}{|\text{top users}|}, \quad \text{individual engagement} \in [0,1].$$
 
 For example, we might look at the top posts of /r/politics and generate and individual engagement score of 0.7. We calculate this number by looking at the users who author the top posts in a subreddit. For each user, we examine their post history, seeing how many posts are in /r/politics and how many posts are in other subreddits. We then calculate the proportion of posts that are in /r/politics for each user, and then average across all of the users who author the top posts in /r/politics to generate the individual engagement for the subreddit. A value of 1 for a given subreddit means that users are very engaged in that subreddit—they only ever post there. Whereas a value of 0.05 means that the top users in that subreddit only post to that subreddit 5\% of the time.
 
-Community engagement is defined as follows for any subreddit: $$\text{community engagement} = \frac{\sum\limits_{p \in \text{top posts}} \frac{p_{\text{upvotes}}}{\text{subreddit subscribers}}}{|\text{top posts}|}.$$
+Community engagement is defined as follows for any subreddit:
+
+$$\text{community engagement} = \frac{\sum\limits_{p \in \text{top posts}} \frac{p_{\text{upvotes}}}{\text{subreddit subscribers}}}{|\text{top posts}|}.$$
 
 The intuition for the metric is as follows: if the top posts in subreddits A and B both receive 1,000 upvotes on average, but if A has 1 million subscribers while B has only 100,000 subscribers, then subreddit B has 10x the community engagement of subreddit A. Similar to individual engagement, community engagement is a metric that is calculated for any particular subreddit. For the top posts in the subreddit, we normalized the upvotes with the number of subscribers to that subreddit. Then, we averaged over all the top posts in the subreddit.
 
@@ -88,7 +92,9 @@ Modeling subreddits as nodes in a network is an extension of Chapter 8: How do I
 
 Because of the lack of real names on Reddit, it is not immediately clear who are the "top users" and who are not. For example, on Twitter, the users with the most followers are often celebrities and public figures. But who are these top users of Reddit, and how dominant are they? Specifically, is it possible for the average user of Reddit to have a post become very popular in a subreddit? Or are the frontpages of subreddits controlled by an elite group of users?
 
-To answer these questions, we were interested in quantifying how good the top users are. To do so, we created the a metric called the Reddit Power Index (RPI). Fundamentally, RPI is a metric that can be calculated on any post, and is defined as follows: $$\text{RPI}_\text{post} = \frac{\text{post upvotes}}{\text{subreddit avg. upvotes}}.$$
+To answer these questions, we were interested in quantifying how good the top users are. To do so, we created the a metric called the Reddit Power Index (RPI). Fundamentally, RPI is a metric that can be calculated on any post, and is defined as follows:
+
+$$\text{RPI}_\text{post} = \frac{\text{post upvotes}}{\text{subreddit avg. upvotes}}.$$
 
 Thus, the RPI for any post is the number of upvotes it has divided by the average number of upvotes for a post in that subreddit. An RPI below 1 means that the post is below average, and any RPI above 1 means that the post is above average.
 
