@@ -6,8 +6,11 @@ weight: 0
 
 *Note:* This analysis of Reddit was created for the final project of [ELE/COS 381][381registrar] taught in Fall 2016. For this project, Alan Chen, Luis Gonzalez, and I decided to apply the topics learned in class to an analysis of Reddit to understand what makes a "good" Reddit post.
 
+The link to the PDF of the report is [here][pdfLink].
+
 [381registrar]: https://registrar.princeton.edu/course-offerings/course_details.xml?courseid=011724&term=1172
 
+[pdfLink]: /assets/2017/02/elecos381/ELECOS381-FinalReport.pdf
 <hr>
 
 # ELE/COS 381 Final Report: What makes a good Reddit Post?
