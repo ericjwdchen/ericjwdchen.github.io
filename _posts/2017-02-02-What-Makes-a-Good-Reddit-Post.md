@@ -7,14 +7,15 @@ title: What makes a good Reddit Post?
 
 The link to the PDF of the report is [here][pdfLink].
 
+<hr>
+
 [381registrar]: https://registrar.princeton.edu/course-offerings/course_details.xml?courseid=011724&term=1172
 
 [pdfLink]: /assets/2017/02/elecos381/ELECOS381-FinalReport.pdf
-<hr>
 
 # ELE/COS 381 Final Report: What makes a good Reddit Post?
 
-Alan Chen, Eric Chen, and Luis Gonzalez-Yante
+By Alan Chen, Eric Chen, and Luis Gonzalez-Yante
 
 ## 1 Introduction
 
@@ -32,7 +33,7 @@ It is important to note that a large component of the Reddit community does invo
 
 We decided to look at three different methods of quantifying what makes a good Reddit post. Reddit contains many emergent phenomena not explicitly designed for in the site and not completely obvious to new users. The site can be difficult to approach from the outside, but from our experience with the site (and one shared by the many frequent users of the site), we believe Reddit can be a funny, insightful, and engaging online community. Thus, ultimately our goals from this analysis were to be able to provide a set of conclusions and actions that might be given to a new user of the site in a "How-to use Reddit" guide.
 
-For questions addressed in sections x.1 and and x.3 that follow, we are interested in characteristics of different types of subreddits. We decided on three types: top 100, small ($< 10,000$ subscribers), and original content.
+For questions addressed in sections x.1 and and x.3 that follow, we are interested in characteristics of different types of subreddits. We decided on three types: top 100, small (< 10,000 subscribers), and original content.
 
 <div class="table-wrapper">
 <table>
@@ -68,7 +69,7 @@ Individual engagement is defined as follows for any subreddit:
 
 $$\text{individual engagement} = \frac{\sum\limits_{u \in \text{top users}} \frac{u_{\text{posts in this subreddit}}}{u_{\text{total posts}}}}{|\text{top users}|}, \quad \text{individual engagement} \in [0,1].$$
 
-For example, we might look at the top posts of /r/politics and generate and individual engagement score of 0.7. We calculate this number by looking at the users who author the top posts in a subreddit. For each user, we examine their post history, seeing how many posts are in /r/politics and how many posts are in other subreddits. We then calculate the proportion of posts that are in /r/politics for each user, and then average across all of the users who author the top posts in /r/politics to generate the individual engagement for the subreddit. A value of 1 for a given subreddit means that users are very engaged in that subreddit—they only ever post there. Whereas a value of 0.05 means that the top users in that subreddit only post to that subreddit 5\% of the time.
+For example, we might look at the top posts of /r/politics and generate and individual engagement score of 0.7. We calculate this number by looking at the users who author the top posts in a subreddit. For each user, we examine their post history, seeing how many posts are in /r/politics and how many posts are in other subreddits. We then calculate the proportion of posts that are in /r/politics for each user, and then average across all of the users who author the top posts in /r/politics to generate the individual engagement for the subreddit. A value of 1 for a given subreddit means that users are very engaged in that subreddit—they only ever post there. Whereas a value of 0.05 means that the top users in that subreddit only post to that subreddit 5% of the time.
 
 Community engagement is defined as follows for any subreddit:
 
@@ -86,7 +87,7 @@ Because subreddits are composed solely through contributions to the subreddit, w
 
 $$\text{participation}_{a \to b} =  \frac{ \sum\limits_{u \in \text{top users}} 4 \cdot \frac{u_{\text{posts in } a}}{u_{\text{total posts}}} \cdot \frac{u_{\text{posts in } b}}{u_{\text{total posts}}}}{|\text{top users}|}, \quad \text{participation}_{a \to b} \in [0,1].$$
 
-By taking the concentration of posts in the first subreddit, taken as a representation of the degree the author is a member of the first subreddit, and multiplying by the concentration of posts in the second subreddit, taken as a representation of the degree the author is a member of the second subreddit, we receive a metric describing the crossover between subreddits for a given author. This participation function is maximized when a user participates 50% in subreddit $a$ and 50\% in subreddit $b$ and contains an extra factor of four to possible values between 0 and 1. The metric for the subreddit is the average of the values for its top users.
+By taking the concentration of posts in the first subreddit, taken as a representation of the degree the author is a member of the first subreddit, and multiplying by the concentration of posts in the second subreddit, taken as a representation of the degree the author is a member of the second subreddit, we receive a metric describing the crossover between subreddits for a given author. This participation function is maximized when a user participates 50% in subreddit a and 50% in subreddit b and contains an extra factor of four to possible values between 0 and 1. The metric for the subreddit is the average of the values for its top users.
 
 Modeling subreddits as nodes in a network is an extension of Chapter 8: How do I influence people on Facebook and Twitter. An important notion from that chapter is that some links between users more important than others, such as links that were included in many shortest paths. Here, we extend that intuition to our participation metric which generates a network of weighted links, and we use the weights to directly infer which links are important in the network representation.
 
