@@ -64,7 +64,7 @@ Given the focus of Reddit on distinct communities, and with the over 1 million u
 
 Individual engagement is defined as follows for any subreddit:
 
-$$\text{individual engagement}$$
+$$\text{individual engagement} = \frac{\sum\limits_{u \in \text{top users}} \frac{u_{\text{posts in this subreddit}}}{u_{\text{total posts}}}}{|\text{top users}|}, \quad \text{individual engagement} \in [0,1].$$
 
 For example, we might look at the top posts of /r/politics and generate and individual engagement score of 0.7. We calculate this number by looking at the users who author the top posts in a subreddit. For each user, we examine their post history, seeing how many posts are in /r/politics and how many posts are in other subreddits. We then calculate the proportion of posts that are in /r/politics for each user, and then average across all of the users who author the top posts in /r/politics to generate the individual engagement for the subreddit. A value of 1 for a given subreddit means that users are very engaged in that subreddit—they only ever post there. Whereas a value of 0.05 means that the top users in that subreddit only post to that subreddit 5\% of the time.
 
