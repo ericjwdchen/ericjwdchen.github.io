@@ -178,6 +178,38 @@ header {
   }
 }
 
+/* Tables */
+.table-wrapper {
+  overflow-x: auto;
+	width: 100%;
+}
+
+table {
+  border: none;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+  min-width: 70%;
+  text-align: right;
+}
+
+td,
+th {
+  padding: .25rem .5rem;
+}
+
+th {
+  border-bottom: 3px solid $grey;
+}
+
+tr {
+  border-bottom: 1px solid $grey;
+}
+
+td:first-child,
+th:first-child {
+  text-align: left!important;
+}
+
 /* Footer */
 
 footer {
