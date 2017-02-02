@@ -104,7 +104,9 @@ Thus, the RPI for any post is the number of upvotes it has divided by the averag
 
 Because we are interested in categorizing subreddits as a whole, we extend the definition of RPI first to users and then to subreddits as follows:
 
-$$\text{RPI}_\text{user} = \frac{ \sum\limits_{p \in \text{posts}} \text{RPI}_{p} }{|\text{posts}|},$$ $$\text{RPI}_\text{subreddit} = \frac{ \sum\limits_{u \in \text{top users}} \text{RPI}_{u} }{|\text{top users}|}.$$
+$$\text{RPI}_\text{user} = \frac{ \sum\limits_{p \in \text{posts}} \text{RPI}_{p} }{|\text{posts}|},$$
+
+$$\text{RPI}_\text{subreddit} = \frac{ \sum\limits_{u \in \text{top users}} \text{RPI}_{u} }{|\text{top users}|}.$$
 
 Naturally, the RPI for a user is the average RPI of its posts, and the RPI for a subreddit is the average RPI of its top users.
 
