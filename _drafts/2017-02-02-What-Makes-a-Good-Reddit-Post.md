@@ -51,7 +51,7 @@ For questions addressed in sections x.1 and and x.3 that follow, we are interest
 </table>
 </div>
 
-<div class="text-center"><em>Three categories of subreddits analyzed in x.1 and x.3</em></div>
+<p class="text-center"><em>Three categories of subreddits analyzed in x.1 and x.3</em></p>
 
 Top 100 subreddits are the biggest 100 subreddits based on the number of subscribers. The largest subreddit on the site is /r/AskReddit with over 15 million subscribers, and the 100th biggest subreddit has just under 500,000 subscribers. In contrast, we sampled 25 small subreddits that were randomly selected among subreddits with less than 10,000 subscribers. Finally, we hand selected 10 subreddits that contained significant amounts of original content, where we defined original content as a post the user creates the material of the post and is not aggregating external content. It is important to note that the original content subreddits had subscriber counts more similar to the small category, as well.
 
@@ -61,11 +61,11 @@ A particular user will often follow general-interest subreddits, but may also fo
 
 Given the focus of Reddit on distinct communities, and with the over 1 million unique subreddit communities on the site, we expect that there will be large variations in communities. There might be countless ways to quantify the differences, but we decided on examining subreddits along two dimensions: individual engagement and community engagement.
 
-Individual engagement is defined as follows for any subreddit: $$\t{individual engagement} = \cfrac{\sum\limits_{u \in \t{top users}} \cfrac{u_{\t{posts in this subreddit}}}{u_{\t{total posts}}}}{|\t{top users}|}, \quad \t{individual engagement} \in [0,1].$$
+Individual engagement is defined as follows for any subreddit: $$\text{individual engagement} = \frac{\sum\limits_{u \in \text{top users}} \frac{u_{\text{posts in this subreddit}}}{u_{\text{total posts}}}}{|\text{top users}|}, \quad \text{individual engagement} \in [0,1].$$
 
 For example, we might look at the top posts of /r/politics and generate and individual engagement score of 0.7. We calculate this number by looking at the users who author the top posts in a subreddit. For each user, we examine their post history, seeing how many posts are in /r/politics and how many posts are in other subreddits. We then calculate the proportion of posts that are in /r/politics for each user, and then average across all of the users who author the top posts in /r/politics to generate the individual engagement for the subreddit. A value of 1 for a given subreddit means that users are very engaged in that subreddit—they only ever post there. Whereas a value of 0.05 means that the top users in that subreddit only post to that subreddit 5\% of the time.
 
-Community engagement is defined as follows for any subreddit: $$\t{community engagement} = \cfrac{\sum\limits_{p \in \t{top posts}} \cfrac{p_{\t{upvotes}}}{\t{subreddit subscribers}}}{|\t{top posts}|}.$$
+Community engagement is defined as follows for any subreddit: $$\text{community engagement} = \frac{\sum\limits_{p \in \text{top posts}} \frac{p_{\text{upvotes}}}{\text{subreddit subscribers}}}{|\text{top posts}|}.$$
 
 The intuition for the metric is as follows: if the top posts in subreddits A and B both receive 1,000 upvotes on average, but if A has 1 million subscribers while B has only 100,000 subscribers, then subreddit B has 10x the community engagement of subreddit A. Similar to individual engagement, community engagement is a metric that is calculated for any particular subreddit. For the top posts in the subreddit, we normalized the upvotes with the number of subscribers to that subreddit. Then, we averaged over all the top posts in the subreddit.
 
@@ -77,7 +77,7 @@ Reddit users are, like most people,  multidimensional and likely to frequent mul
 
 Because subreddits are composed solely through contributions to the subreddit, we implemented a metric that takes the top posts at the current time of the subreddit, and analyzes all the posts of the authors of those top posts—who we call top users—to see how often they post are in the original subreddit a, and how often they post in the target subreddit b.
 
-$$\t{participation}_{a \to b} =  \cfrac{ \sum\limits_{u \in \t{top users}} 4 \cdot \cfrac{u_{\t{posts in } a}}{u_{\t{total posts}}} \cdot \cfrac{u_{\t{posts in } b}}{u_{\t{total posts}}}}{|\t{top users}|}, \quad \t{participation}_{a \to b} \in [0,1].$$
+$$\text{participation}_{a \to b} =  \frac{ \sum\limits_{u \in \text{top users}} 4 \cdot \frac{u_{\text{posts in } a}}{u_{\text{total posts}}} \cdot \frac{u_{\text{posts in } b}}{u_{\text{total posts}}}}{|\text{top users}|}, \quad \text{participation}_{a \to b} \in [0,1].$$
 
 By taking the concentration of posts in the first subreddit, taken as a representation of the degree the author is a member of the first subreddit, and multiplying by the concentration of posts in the second subreddit, taken as a representation of the degree the author is a member of the second subreddit, we receive a metric describing the crossover between subreddits for a given author. This participation function is maximized when a user participates 50% in subreddit $a$ and 50\% in subreddit $b$ and contains an extra factor of four to possible values between 0 and 1. The metric for the subreddit is the average of the values for its top users.
 
@@ -87,13 +87,13 @@ Modeling subreddits as nodes in a network is an extension of Chapter 8: How do I
 
 Because of the lack of real names on Reddit, it is not immediately clear who are the "top users" and who are not. For example, on Twitter, the users with the most followers are often celebrities and public figures. But who are these top users of Reddit, and how dominant are they? Specifically, is it possible for the average user of Reddit to have a post become very popular in a subreddit? Or are the frontpages of subreddits controlled by an elite group of users?
 
-To answer these questions, we were interested in quantifying how good the top users are. To do so, we created the a metric called the Reddit Power Index (RPI). Fundamentally, RPI is a metric that can be calculated on any post, and is defined as follows: $$\t{RPI}_\t{post} = \cfrac{\t{post upvotes}}{\t{subreddit avg. upvotes}}.$$
+To answer these questions, we were interested in quantifying how good the top users are. To do so, we created the a metric called the Reddit Power Index (RPI). Fundamentally, RPI is a metric that can be calculated on any post, and is defined as follows: $$\text{RPI}_\text{post} = \frac{\text{post upvotes}}{\text{subreddit avg. upvotes}}.$$
 
 Thus, the RPI for any post is the number of upvotes it has divided by the average number of upvotes for a post in that subreddit. An RPI below 1 means that the post is below average, and any RPI above 1 means that the post is above average.
 
 ![rpi-gradient.png](/assets/2017/02/elecos381/rpi-gradient.png)
 
-Because we are interested in categorizing subreddits as a whole, we extend the definition of RPI first to users and then to subreddits as follows: $$\t{RPI}_\t{user} = \cfrac{ \sum\limits_{p \in \t{posts}} \t{RPI}_{p} }{|\t{posts}|},$$ $$\t{RPI}_\t{subreddit} = \cfrac{ \sum\limits_{u \in \t{top users}} \t{RPI}_{u} }{|\t{top users}|}.$$
+Because we are interested in categorizing subreddits as a whole, we extend the definition of RPI first to users and then to subreddits as follows: $$\text{RPI}_\text{user} = \frac{ \sum\limits_{p \in \text{posts}} \text{RPI}_{p} }{|\text{posts}|},$$ $$\text{RPI}_\text{subreddit} = \frac{ \sum\limits_{u \in \text{top users}} \text{RPI}_{u} }{|\text{top users}|}.$$
 
 Naturally, the RPI for a user is the average RPI of its posts, and the RPI for a subreddit is the average RPI of its top users.
 
@@ -184,7 +184,7 @@ RPI is a metric we created that can help us pinpoint the difficulty of creating 
 </table>
 </div>
 
-<div class="text-center"><em>RPI scores for the three different categories of subreddits examined.</em></div>
+<p class="text-center"><em>RPI scores for the three different categories of subreddits examined.</em></p>
 
 On the whole, RPI did provide a reasonable number we could use in analysis. We implemented a 10% trimmed mean in calculating the RPI<sub>subreddit</sub> to protect the metric against large outliers. However, there are still cases such as /r/gaming in the Top 100 which had an outlier RPI of 4767 that skewed the average RPI of Top 100 subreddits upwards. This is why we believe that median RPIs are the better way to quanitfy the typical subreddit RPI in our categories.
 
