@@ -5,13 +5,17 @@ title: Two Safari Quibbles
 
 As a student, the flexibility of a PC is indispensable. And judging by the technology used by my peers, this is true of near *every* student. However, it is still true that the majority of my computing (maybe ~60%) happens in the web browser.
 
-On macOS, Safari and Google Chrome are the two powerhouse web browsers. Both have support for modern web standards, and both are very extensible. But Safari has two clear advantages: two-finger scrolling responsiveness and power efficiency. The best comparison I can make between two-finger scrolling in the web browsers is that Chrome feels like scrolling in Android, while Safari feels like scrolling in iOS. That is, if you only ever used Android, then you would think the responsiveness was quite good. But once you tinker around in iOS, you realize how janky Android is (and I even use a Moto X). And there might not be a more important feature than power efficiency. Because of how heavily I use the web browser, the power efficiency of web browser is to a first approximation the power efficiency of my laptop.
+On macOS, Safari and Google Chrome are the two powerhouse web browsers. Both have support for modern web standards, and both are very extensible. But Safari has two clear advantages: two-finger scrolling responsiveness and power efficiency. The best comparison I can make between two-finger scrolling in the two web browsers is scrolling in Android and iOS. Chrome feels like scrolling in Android: not bad, but not good. Safari feels like scrolling in iOS: fantastic. Once you tinker around in iOS, you realize how janky Android scrolling is (I use a Moto X Android phone). And there might not be a more important feature than power efficiency. Because of how heavily I use the web browser it is often the largest consumer of battery life.
 
 Having listed Safari's advantages over Chrome, there are still two quibbles I have with Safari that keep me using Chrome. And both have to do with the way tabs are displayed in Safari.
 
+![safari-tabs.png](/assets/2017/02/safari-tabs.png)*Safari tabs.*
+
+![chrome-tabs.png](/assets/2017/02/chrome-tabs.png)*Chrome tabs.*
+
 ## 1. Lower Contrast Text
 
-First, the text contrast of website titles in Safari is lower than in Chrome, which makes it harder to read website titles. This quibble might be a function of using a non-retina MacBook Air, as I could see a sharper, more color accurate screen alleviating these issues. Even though Safari has lower contrast than Chrome, its text contrast is still above the 7:1 contrast ratio [recommended by Apple][apple contrast ratio].
+First, the text contrast of website titles in Safari is lower than in Chrome, which makes them harder to read. This quibble might be a function of using a non-retina MacBook Air, as I could see a sharper, more color accurate screen alleviating these issues. Even though Safari has lower contrast than Chrome, its text contrast is still above the 7:1 contrast ratio [recommended by Apple][apple contrast ratio].
 
 <div class="table-wrapper">
 <table>
@@ -60,7 +64,7 @@ To my point, where appropriate, Apple features icons on many other labels around
 
 ![mac-icons.png](/assets/2017/02/mac-icons.png)*Icons used in System Preferences, Finder, and the "Command-Tab" Application Switcher.*
 
-Even Safari uses the touchbar to display favicons, not text labels.
+Even Safari uses the Touch Bar to display favicons, not text labels.
 
 ![macbookpro-touch-bar-safari-favorites.png](/assets/2017/02/macbookpro-touch-bar-safari-favorites.png)*Image from [Apple](https://support.apple.com/en-us/HT207055).*
 
