@@ -9,7 +9,8 @@ On macOS, Safari and Google Chrome are the two powerhouse web browsers. Both hav
 
 Having listed Safari's advantages over Chrome, there are still two quibbles I have with Safari that keep me using Chrome. And both have to do with the way tabs are displayed in Safari.
 
-First, the text on tabs in Safari is lower than in Chrome. This quibble might be a function of using a non-retina MacBook Air, as I could see a sharper, more color accurate screen alleviating these issues.
+First, the text contrast of website titles in Safari is lower than in Chrome, which makes it harder to read website titles. This quibble might be a function of using a non-retina MacBook Air, as I could see a sharper, more color accurate screen alleviating these issues. Even though Safari has lower contrast than Chrome, its text contrast is still above the 7:1 contrast ratio [recommended by Apple][apple contrast ratio].
+
 
 Background Chrome: 14.3:1
 Text: rgb(0, 0, 0)
@@ -19,6 +20,18 @@ Foreground Chrome: 19.1:1
 Text: rgb(0, 0, 0)
 Background: rgb(243, 243, 243)
 
+Background Safari: 10.7
+Text: rgb(0, 0, 0)
+Background: rgb(185, 185, 185)
+
+Foreground Safari: 14.4
+Text: rgb(0, 0, 0)
+Background: rgb(214, 214, 214)
+
+The decreased legibility of Safari tab labels is exacerbated by my second quibble: no favicons next to website titles. 
+
+
+[apple contrast ratio]: https://developer.apple.com/ios/human-interface-guidelines/visual-design/color/
 	- Tab bars are not distinct
 		- no favicons
 	- No built in flash
