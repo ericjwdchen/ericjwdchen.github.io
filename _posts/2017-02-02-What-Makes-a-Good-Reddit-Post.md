@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What makes a good Reddit Post?
+title: What Makes a Good Reddit Post?
 ---
 
 *Note:* This analysis of Reddit was created for the final project of [ELE/COS 381][381registrar] taught in Fall 2016. For this project, Alan Chen, Luis Gonzalez, and I decided to apply the topics learned in class to an analysis of Reddit to understand what makes a "good" Reddit post.
