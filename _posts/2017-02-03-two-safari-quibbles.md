@@ -7,7 +7,7 @@ As a student, the flexibility of a PC is indispensable. And judging by the techn
 
 On macOS, Safari and Google Chrome are the two powerhouse web browsers. Both have support for modern web standards, and both are very extensible. But Safari has two clear advantages: two-finger scrolling responsiveness and power efficiency. The best comparison I can make between two-finger scrolling in the two web browsers is scrolling in Android and iOS. Chrome feels like scrolling in Android: not bad, but not good. Safari feels like scrolling in iOS: fantastic. Once you tinker around in iOS, you realize how janky Android scrolling is (I use a Moto X Android phone). And there might not be a more important feature than power efficiency. Because of how heavily I use the web browser it is often the largest consumer of battery life.
 
-Having listed Safari's advantages over Chrome, there are still two quibbles I have with Safari that keep me using Chrome. And both have to do with the way tabs are displayed in Safari.
+Having listed Safari's advantages over Chrome, there are still two quibbles I have with Safari that keep me using Chrome. And both have to do with the way tabs are displayed in Safari. Note that I have Increase Contrast selected in Accessibility.
 
 ![safari-tabs.png](/assets/2017/02/safari-tabs.png)*Safari tabs.*
 
