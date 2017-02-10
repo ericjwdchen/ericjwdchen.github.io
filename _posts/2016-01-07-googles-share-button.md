@@ -55,6 +55,12 @@ This icon is worse than being obscure. It’s confusing because it's almost iden
 
 A bad icon points in the general direction of its functionality. A terrible icon boldly points in the wrong way.
 
+<hr>
+
+UPDATE: It is now 2017, and Youtube still uses the reverse reply icon as its non-conforming share button. The Youtube app on Android just updated a couple of days ago, and now it even has the text "SHARE" below the icon. 😕
+
+![Still the wrong share button](/assets/2017/02/2017_wrong_share_button_youtube.png)
+
 [^1]: Google Trends also [falls victim][fv] to the non-standard share icon. [YouTube on the web][yt] does as well (it's under the subscribe button).
 [gz]: https://www.reddit.com/r/Android/comments/3zze4q/google_standardize_the_youtube_share_button/cyqk7j3
 [fv]: https://www.google.com/trends/story/US_cu_94uFDVIBAAAgBM_en?hl=en-US&s=1
