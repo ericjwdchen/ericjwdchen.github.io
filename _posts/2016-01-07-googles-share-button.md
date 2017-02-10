@@ -57,7 +57,7 @@ A bad icon points in the general direction of its functionality. A terrible icon
 
 <hr>
 
-UPDATE: It is now 2017, and Youtube still uses the reverse reply icon as its non-conforming share button. The Youtube app on Android just updated a couple of days ago, and now it even has the text "SHARE" below the icon. 😕
+UPDATE: It is now 2017, and Youtube still uses the reverse reply icon as its non-conforming share button. The Youtube app on Android just updated a couple of days ago, and now it even has the text "Share" below the icon. 😕
 
 ![Still the wrong share button](/assets/2017/02/2017_wrong_share_button_youtube.png)
 
