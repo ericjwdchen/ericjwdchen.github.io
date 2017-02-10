@@ -10,11 +10,16 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 - **A Pattern Language: Towns, Buildings, Construction** by Christopher Alexander, Murray Silverstein, and Sara Ishikawa
 - **High Output Management** by Andrew Grove
-- **The Man Who Knew: The Life and Times of Alan Greenspan** by Sebastian Mallaby
 
 ## 2017
 
-- **Hillbilly Elegy: A Memoir of a Family and Culture in Crisis** by J.D. Vance <span class="primary-color">★★</span>
+- **The Man Who Knew: The Life and Times of Alan Greenspan** by Sebastian Mallaby <span class="primary-color">★</span>
+
+  Sebastien Mallaby goes to great lengths in this biography to support his hypothesis that Alan Greenspan is, and has always been, less caricature than he has been made out to be. Whether it be the "maestro" who received bi-partisan support during his tenure, or the post-2008 revisionist perspective of a ideological to a fault laissez-faire libertarian, Mallaby makes a strong case that the truth—as it often does—lies somewhere in the middle.
+
+  I am quite partial to Mallaby's rejection of the Great Man Theory when characterizing Greenspan. I believe that we over-index on individual agency when explaining both success and failure. It leads to false hope and inevitable disappointment in politics. And it often creates a dangerous culture of hubris.
+
+- **Hillbilly Elegy: A Memoir of a Family and Culture in Crisis** by J.D. Vance <span class="primary-color">★</span>
 
   *Hillbilly Elegy* is certainly worth a read because of how it describes a a white, working-class culture of Appalachia that isn't often talked about. J.D. Vance manages to describe it well by being nuanced throughout. Very few things are binary, and Vance's description of hillbilly culture is no different. When talking about social issues partisanship and loaded terms (e.g. "welfare queen") often bring conversation to a standstill. But I think that this book does a fine job avoiding those traps.
 
