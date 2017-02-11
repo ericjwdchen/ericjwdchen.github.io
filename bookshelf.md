@@ -4,12 +4,14 @@ title: Bookshelf
 weight: 1
 ---
 
-One star books (<span class="primary-color">★</span>) are certainly worth reading, and two star books (<span class="primary-color">★★</span>) are definitely worth reading.
+One star books (<span class="primary-color">★</span>) are certainly worth reading if you have prior interest in the subject matter, and two star books (<span class="primary-color">★★</span>) are definitely worth reading regardless.
 
 ## In Progress
 
 - **A Pattern Language: Towns, Buildings, Construction** by Christopher Alexander, Murray Silverstein, and Sara Ishikawa
 - **High Output Management** by Andrew Grove
+- **Sum** by David Eagleman
+- **Whistlestop: My Favorite Stories from Presidential Campaign History** by John Dickerson
 
 ## 2017
 
