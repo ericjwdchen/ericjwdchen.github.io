@@ -4,7 +4,7 @@ title: Bookshelf
 weight: 1
 ---
 
-One star books (<span class="primary-color">★</span>) are certainly worth reading if you have prior interest in the subject matter, and two star books (<span class="primary-color">★★</span>) are definitely worth reading regardless.
+One star books (<span class="primary-color">★</span>) are certainly worth reading if you have prior interest in the subject matter, and two star books (<span class="primary-color">★★</span>) are definitely worth reading regardless of prior interest.
 
 ## In Progress
 
@@ -14,6 +14,10 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 - **Whistlestop: My Favorite Stories from Presidential Campaign History** by John Dickerson
 
 ## 2017
+
+- **If the Universe Is Teeming with Aliens ... WHERE IS EVERYBODY?** by Stephen Webb <span class="primary-color">★</span>
+
+   When thinking about the Fermi Paradox, the uncertain and unknowable nature of many of these questions can make the discussion very esoteric. But Stephen Webb describes solutions to the Fermi Paradox in a totally accessible manner. I think it's an example of the best kind of science writing that doesn't over simplify for wow factor, but that gives a thorough and accessible treatment of the issues.
 
 - **The Man Who Knew: The Life and Times of Alan Greenspan** by Sebastian Mallaby <span class="primary-color">★</span>
 
