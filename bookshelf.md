@@ -15,6 +15,10 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## 2017
 
+- **Why Time Flies: A Mostly Scientific Investigation** by Alan Burdick <span class="primary-color">★</span>
+
+   This book is certainly an enjoyable read. I finished it in about a month with on-and-off reading. If it's not evident, this book is mainly about the brain—about two-thirds neuroscience, one-third philosophy. I would've preferred more philosophy than neuroscience, but the presentation of both topics is accessible and interesting.
+
 - **If the Universe Is Teeming with Aliens ... WHERE IS EVERYBODY?** by Stephen Webb <span class="primary-color">★</span>
 
    When thinking about the Fermi Paradox, the uncertain and unknowable nature of the paradox can make the discussion very esoteric. But Stephen Webb describes solutions to the Fermi Paradox in a totally accessible manner. I think it's an example of the best kind of science writing that doesn't over simplify for the wow factor, but that gives a thorough yet accessible treatment of the topic.

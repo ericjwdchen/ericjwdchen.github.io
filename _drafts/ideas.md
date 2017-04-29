@@ -1,5 +1,8 @@
 Blog posts to write
 
+The problem with elitism. "State school" comments. People will say they recognize that their achievements are mostly from circumstance and luck. But if this were the case, then how could comments like these be acceptable. This incongruity means that people don't *actually* believe that it was because of luck that they got to where they are. They believe that the skill and hard work plays the much larger role.
+
+
 Different kinds of material design scrollbars
 horizontally scrolling nav bar: affordances through pure css
 
