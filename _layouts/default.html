@@ -6,10 +6,9 @@
       <nav>
         <h1><a href="{{ site.url }}" title="Home">{{ site.title }}</a></h1>
         <div class="nav-links">
-          {% for weight in (1..1) %} {% for p in site.pages %} {% if p.weight == weight %}
+          {% for weight in (1..100) %} {% for p in site.pages %} {% if p.weight == weight %}
           <a href="{{ p.url }}"> {{ p.title }}</a>
           {% endif %} {% endfor %} {% endfor %}
-          <a title="Subscribe to ericjwdchen.org via RSS" href ="/rss.xml">rss</a>
         </div>
       </nav>
     </header>
