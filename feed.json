@@ -5,15 +5,15 @@ sitemap:
 ---
 
 {
-    "version": "https://jsonfeed.org/version/1",
-    "title": {{ site.name | smartify | jsonify }},
-    {% if site.description %}"description": {{ site.description | smartify | jsonify }},{% endif %}
-    "home_page_url": "{{ site.url }}/",
-    "feed_url": "{{ site.url }}/feed.json",
-    "icon": "{{ site.url }}/static/icons/hotlink-ok/identicon.png",
-    {% comment %}"favicon": "",{% endcomment %}
-    "expired": false,
-    "items": [
+  "version": "https://jsonfeed.org/version/1",
+  "title": {{ site.title | smartify | jsonify }},
+  {% if site.description %}"description": {{ site.description | smartify | jsonify }},{% endif %}
+  "home_page_url": "{{ site.header }}{{ site.url }}{{ site.baseurl }}",
+  "feed_url": "{{ site.header }}{{ site.url }}{{ site.baseurl }}feed.json",
+  "icon": "{{ site.header }}{{ site.url }}/assets/icons/android-chrome-256x256.png",
+  "favicon": "{{ site.header }}{{ site.url }}{{ site.baseurl }}assets/icons/favicon-16x16.png",
+  "expired": false,
+  "items": [
 {% for post in site.posts %}
         {
             "id": "{{ post.id }}",
