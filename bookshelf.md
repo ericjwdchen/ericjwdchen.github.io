@@ -11,9 +11,12 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 - **A Pattern Language: Towns, Buildings, Construction** by Christopher Alexander, Murray Silverstein, and Sara Ishikawa
 - **High Output Management** by Andrew Grove
 - **Sum** by David Eagleman
-- **Whistlestop: My Favorite Stories from Presidential Campaign History** by John Dickerson
 
 ## 2017
+
+- **Whistlestop: My Favorite Stories from Presidential Campaign History** by John Dickerson <span class="primary-color">★</span>
+
+  A light and enjoyable read. It's a collection of 15-minute or so stories, each about a past presidential campaign. A gentle reminder that as crazy as the news seem today, in one way or another, politics has always sort of been this way.
 
 - **Why Time Flies: A Mostly Scientific Investigation** by Alan Burdick <span class="primary-color">★</span>
 
