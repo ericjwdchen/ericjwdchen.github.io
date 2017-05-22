@@ -13,6 +13,12 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## 2017
 
+- **Born on Third Base: A One Percenter Makes the Case for Tackling Inequality, Bringing Wealth Home, and Committing to the Common Good** by Chuck Collins <span class="primary-color">★</span>
+
+  At times, the book reads a little one-dimensional in its interpretation of the issues facing the world today. But Chuck Collins does a fine job making the case for those in the 1% to give back, and he does so with many suggestions for practical actions.
+
+  If you agree with his assumptions and worldview, then this book will be a convincing and inspiring read. If you agree with some, but not all of Collins's points (as I do), then this book will be a provocative and ambitious read.
+
 - **Sum** by David Eagleman <span class="primary-color">★★</span>
 
   I first picked up this book after hearing about it on episode 77 of the [Hello Internet podcast](http://www.hellointernet.fm/). By coincidence, the author of the book, David Eagleman, is a neuroscientist who studies the perception of time. Turns out, Eagleman was heavily featured in another book I finished earlier this year called *Why Time Flies: A Mostly Scientific Investigation*.
