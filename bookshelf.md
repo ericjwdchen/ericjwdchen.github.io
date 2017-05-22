@@ -17,9 +17,9 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
   I first picked up this book after hearing about it on episode 77 of the [Hello Internet podcast](http://www.hellointernet.fm/). By coincidence, the author of the book, David Eagleman, is a neuroscientist who studies the perception of time. Turns out, Eagleman was heavily featured in another book I finished earlier this year called *Why Time Flies: A Mostly Scientific Investigation*.
 
-  Sum is not what you might expect from an academic. It's purely a work of fiction, an imaginative exploration of conceptions of the afterlife. Its sections are short, often only two or three pages in a paperpack-sized book. Some of the conceptions begin to feel repetitive, but they are all short enough so that even those that drag do not drag for so long.
+  *Sum* is not what you expect from someone whose career is as an academic. It's purely a work of fiction, an imaginative exploration of conceptions of the afterlife. Its sections are short, often spanning only two or three pages. Some of the conceptions begin to feel repetitive, but they are all short enough that something new is always around the corner.
 
-  I'm sure everyone can find a couple of the conceptions particularly intellectually stimulating for themselves. For me, I found the first (Sum) and the second to last (Search) the most memorable.
+  I'm sure everyone will find a couple of the conceptions particularly intellectually stimulating for themselves. For me, I found the first (Sum) and the second to last (Search) the most memorable.
 
 - **Whistlestop: My Favorite Stories from Presidential Campaign History** by John Dickerson <span class="primary-color">★</span>
 
