@@ -17,7 +17,7 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
   At times, the book reads a little one-dimensional in its interpretation of the issues facing the world today. But Chuck Collins does a fine job making the case for those in the 1% to give back, and he does so with many suggestions for practical actions.
 
-  If you agree with his assumptions and worldview, then this book will be a convincing and inspiring read. If you agree with some, but not all of Collins's points (as I do), then this book will be a provocative and ambitious read.
+  If you agree with his assumptions and worldview, then this book will be a convincing and inspiring read. If you agree with some, but not all of Collins's points (as I do), then this book will be a provocative and ambitious read. 
 
 - **Sum** by David Eagleman <span class="primary-color">★★</span>
 
