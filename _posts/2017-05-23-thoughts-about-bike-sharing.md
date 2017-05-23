@@ -5,7 +5,7 @@ title: Thoughts about Bike-sharing
 
 As I was coming out of an exam a couple of days ago, I saw something I've seen a couple times before.
 
-![bike_truck.png](/assets/2017/05/bike_truck.png)*The truck that redistributes bike-sharing bicycles.*
+![bike_truck.jpg](/assets/2017/05/bike_truck.jpg)*The truck that redistributes bike-sharing bicycles.*
 
 I've seen this bicycle redistribution truck around campus a few times since [Princeton started its partnership in 2016 with Zagster](https://www.zagster.com/press/princeton-university-expands-popular-zagster-bike-share) to launch bike-sharing on campus. The program has 10 or so bike docking locations on campus that support a fleet of 50 bikes.
 
