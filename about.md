@@ -4,11 +4,11 @@ title: About
 weight: 1
 ---
 
-![Eric Chen headshot](assets/2015/01/headshot-eric-chen.jpg){: .img-right .img-circular}
+Hey there! I'm Eric Chen.
 
-Hey there! I'm Eric Chen. test
+![Eric Chen headshot](/assets/2015/01/headshot-eric-chen.jpg){: .img-right .img-circular}
 
-I live in Wisconsin and am a sophomore at [Princeton University][pu]. In my past, I attended [The Lawrenceville School][ls]. I like technology, podcasts, and cooking.
+I'm from Wisconsin and will be a junior this fall at [Princeton University][pu]. In my past, I attended [The Lawrenceville School][ls]. I like technology, podcasts, and cooking.
 
 You can find me on [Twitter][twitter], [LinkedIn][linkedin],[^1] and [Github][github]. A full feed of this site is also available through [RSS][rss] and [Twitter][twitter site]. My email is eric~at~ericjwdchen.org.
 
