@@ -4,7 +4,7 @@ title: About
 weight: 1
 ---
 
-![Eric Chen headshot](/assets/2015/01/headshot-eric-chen.jpg){: .img-right .img-circular}
+![Eric Chen headshot](assets/2015/01/headshot-eric-chen.jpg){: .img-right .img-circular}
 
 Hey there! I'm Eric Chen.
 
