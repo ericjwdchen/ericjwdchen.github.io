@@ -6,7 +6,7 @@ weight: 1
 
 Hey there! I'm Eric Chen.
 
-![bike_truck.jpg](/assets/2017/05/bike_truck.jpg)*The truck that redistributes bike-sharing bicycles.*
+![Eric Chen headshot](assets/2015/01/eric-chen.jpg)
 
 I'm from Wisconsin and will be a junior this fall at [Princeton University][pu]. In my past, I attended [The Lawrenceville School][ls]. I like technology, podcasts, and cooking.
 
