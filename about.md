@@ -6,7 +6,7 @@ weight: 1
 
 Hey there! I'm Eric Chen.
 
-![Eric Chen headshot](/assets/2015/01/headshot-eric-chen.jpg){: .img-right .img-circular}
+![Eric Chen headshot](/assets/2015/01/eric-chen.jpg){: .img-right .img-circular}
 
 I live in Wisconsin and am a sophomore at [Princeton University][pu]. In my past, I attended [The Lawrenceville School][ls]. I like technology, podcasts, and cooking.
 
