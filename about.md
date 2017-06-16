@@ -6,7 +6,7 @@ weight: 1
 
 ![Eric Chen headshot](assets/2015/01/headshot-eric-chen.jpg){: .img-right .img-circular}
 
-Hey there! I'm Eric Chen.
+Hey there! I'm Eric Chen. test
 
 I live in Wisconsin and am a sophomore at [Princeton University][pu]. In my past, I attended [The Lawrenceville School][ls]. I like technology, podcasts, and cooking.
 
