@@ -13,11 +13,19 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## 2017
 
+- **Sapiens: A Brief History of Humankind** by Yuval Noah Harari <span class="primary-color">★★</span>
+
+  I was tuned into *Sapiens* from its inclusion in [Bill Gates's 2016 summer reading list](https://www.gatesnotes.com/About-Bill-Gates/Summer-Books-2016). Who would've thought: Bill Gates has a pretty good taste in books 😉.
+
+  *Sapiens* is a pleasant read for two reasons: comfortable prose and clear theses. This is not to say that the book is simplistic or boring. It's the opposite: that the language and structure of the book do so much to keep it an engaging read. I almost couldn't help but read more.
+
+  One thing I will note is that I was surprised (pleasantly so) by the "philosophy" in the pages of the book. I found myself generally agreeable to many of Yuval Noah Harari's posits and propositions. But a different perspective on these philosophical points might cloud your perception of the work.
+
 - **Born on Third Base: A One Percenter Makes the Case for Tackling Inequality, Bringing Wealth Home, and Committing to the Common Good** by Chuck Collins <span class="primary-color">★</span>
 
   At times, the book reads a little one-dimensional in its interpretation of the issues facing the world today. But Chuck Collins does a fine job making the case for those in the 1% to give back, and he does so with many suggestions for practical actions.
 
-  If you agree with his assumptions and worldview, then this book will be a convincing and inspiring read. If you agree with some, but not all of Collins's points (as I do), then this book will be a provocative and ambitious read. 
+  If you agree with his assumptions and worldview, then this book will be a convincing and inspiring read. If you agree with some, but not all of Collins's points (as I do), then this book will be a provocative and ambitious read.
 
 - **Sum** by David Eagleman <span class="primary-color">★★</span>
 
