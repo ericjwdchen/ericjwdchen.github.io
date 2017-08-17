@@ -13,6 +13,12 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## 2017
 
+- **How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness** by Russ Roberts <span class="primary-color">★★</span>
+
+- **Shop Class as Soulcraft: An Inquiry into the Value of Work** by Matthew B. Crawford <span class="primary-color">★</span>
+
+- **The Great Escape: Health, Wealth, and the Origins of Inequality** by Angus Deaton <span class="primary-color">★</span>
+
 - **Sapiens: A Brief History of Humankind** by Yuval Noah Harari <span class="primary-color">★★</span>
 
   I was tuned into *Sapiens* from its inclusion in [Bill Gates's 2016 summer reading list](https://www.gatesnotes.com/About-Bill-Gates/Summer-Books-2016). Who would've thought: Bill Gates has a pretty good taste in books 😉.
