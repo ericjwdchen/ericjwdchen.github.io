@@ -15,6 +15,8 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 - **A Beautiful Question: Finding Nature's Deep Design** by Frank Wilczek <span class="primary-color">★</span>
 
+  > From his immersion in the quantum world, where contradiction and truth are near neighbors, Neils Bohr drew the lesson of *complementarity:* no one perspective exhausts reality, and different perspectives may be valuable, yet mutually exclusive.
+
 - **How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness** by Russ Roberts <span class="primary-color">★★</span>
 
 - **Shop Class as Soulcraft: An Inquiry into the Value of Work** by Matthew B. Crawford <span class="primary-color">★</span>
