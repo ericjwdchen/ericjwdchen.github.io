@@ -9,17 +9,18 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 ## In Progress
 
 - **A Pattern Language: Towns, Buildings, Construction** by Christopher Alexander, Murray Silverstein, and Sara Ishikawa
+
 - **High Output Management** by Andrew Grove
 
 ## 2017
 
 - **A Beautiful Question: Finding Nature's Deep Design** by Frank Wilczek <span class="primary-color">★</span>
 
-I particularly enjoyed this snippet found in the last chapter of the book:
+  I particularly enjoyed this snippet found in the last chapter of the book:
 
   > From his immersion in the quantum world, where contradiction and truth are near neighbors, Neils Bohr drew the lesson of *complementarity:* no one perspective exhausts reality, and different perspectives may be valuable, yet mutually exclusive.
 
-I think it's prudent to be humble in the correctness of your opinions and views, and to recognize that others may have some of the answers too. Especially as time goes by, our collective understanding involves. So at any one point in time, no one will have all of the answers.
+  I think it's prudent to be humble in the correctness of your opinions and views, and to recognize that others may have some of the answers too. Especially as time goes by, our collective understanding involves. So at any one point in time, no one will have all of the answers.
 
 However, take this opinion of mine with a grain of salt, it's just one person's perspective.
 
