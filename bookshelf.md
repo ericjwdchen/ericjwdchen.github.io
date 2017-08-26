@@ -22,7 +22,7 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
   I think it's prudent to be humble in the correctness of your opinions and views, and to recognize that others may have some of the answers too. Especially as time goes by, our collective understanding involves. So at any one point in time, no one will have all of the answers.
 
-However, take this opinion of mine with a grain of salt, it's just one person's perspective.
+  However, take this opinion of mine with a grain of salt, it's just one person's perspective.
 
 - **How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness** by Russ Roberts <span class="primary-color">★★</span>
 
