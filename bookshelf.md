@@ -13,6 +13,8 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## 2017
 
+- **A Beautiful Question: Finding Nature's Deep Design** by Frank Wilczek <span class="primary-color">★</span>
+
 - **How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness** by Russ Roberts <span class="primary-color">★★</span>
 
 - **Shop Class as Soulcraft: An Inquiry into the Value of Work** by Matthew B. Crawford <span class="primary-color">★</span>
