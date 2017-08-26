@@ -8,7 +8,7 @@ Hey there! I'm Eric Chen.
 
 ![Eric Chen headshot](/assets/2015/01/eric-chen.jpg){: .img-right .img-circular}
 
-I live in Wisconsin and am a sophomore at [Princeton University][pu]. In my past, I attended [The Lawrenceville School][ls]. I like technology, podcasts, and cooking.
+I live in Wisconsin and am a junior at [Princeton University][pu]. In my past, I attended [The Lawrenceville School][ls]. I like technology, podcasts, and cooking. Take a look at my virtual [bookshelf][bookshelf].
 
 You can find me on [Twitter][twitter], [LinkedIn][linkedin],[^1] and [Github][github]. A full feed of this site is also available through [RSS][rss] and [Twitter][twitter site]. My email is eric~at~ericjwdchen.org.
 
@@ -20,7 +20,7 @@ You can find me on [Twitter][twitter], [LinkedIn][linkedin],[^1] and [Github][gi
 [github]: https://github.com/ericjwdchen
 [rss]: http://ericjwdchen.org/rss.xml
 [twitter site]: https://twitter.com/ericjwdchen_org
-
+[bookshelf]: http://ericjwdchen.org/bookshelf
 
 ## How the Sausage is Made
 
