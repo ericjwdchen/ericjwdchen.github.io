@@ -12,7 +12,15 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 - **High Output Management** by Andrew Grove
 
+- **Bad Religion: How We Became a Nation of Heretics** by Ross Douthat
+
 ## 2017
+
+- **Privilege: The Making of an Adolescent Elite at St. Paul's School** by Shamus Rahman Khan <span class="primary-color">★</span>
+
+  I went to high school at The Lawrenceville School, an east coast boarding school similar to St. Paul's. And this line from Shamus Rahman Khan rings true to me:
+
+  > And, most important, while students were repeatedly told that we were among the best of the best, why was it that so many of the best came from among the rich?
 
 - **A Beautiful Question: Finding Nature's Deep Design** by Frank Wilczek <span class="primary-color">★</span>
 
