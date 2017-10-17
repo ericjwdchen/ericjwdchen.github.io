@@ -3,12 +3,11 @@
  */
 
 // The ID of the extension we want to talk to.
-var editorExtensionId = "abcdefghijklmnoabcdefhijklmnoabc";
+var editorExtensionId = "efmhmgncpkobpfffneaaehddmimndnpd";
 
 
-chrome.management.getAll(function(items) {
-  for (var i = 0; i < items.length; i++) {
-    var item = items[i];
-    console.log(item.id + " : (" + item.type + ") " + item.name);
-  }
+
+chrome.runtime.sendMessage(editorExtensionId, {type: 'auth', session: window.location.search.substr(1)}, function(response) {
+	window.open('', '_self', '');
+	window.close();
 });
