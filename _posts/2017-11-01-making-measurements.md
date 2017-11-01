@@ -16,10 +16,10 @@ As I write this, the iPhone X is about to launch, and I'm surprised by how many 
 [Jefferson Graham of USA Today in a Q&A article](https://www.usatoday.com/story/tech/talkingtech/2017/10/28/we-answer-your-questions-iphone-x/810712001/):
 > + [Q:] Gary Moskowitz: "What's the size of the iPhone X?" [A:] That would be 5.8 inches, the largest screen size ever for an iPhone. The iPhone 8 Plus is 5.5 inches.
 
-[Tony Merevick of Thrillist in an article titled "The iPhone X Packs a Bigger Screen than the iPhone 8 plus on a Smaller Body"](https://www.thrillist.com/news/nation/iphone-x-size-dimensions):
+[Tony Merevick of Thrillist in an article titled "The iPhone X Packs a Bigger Screen than the iPhone 8 Plus on a Smaller Body"](https://www.thrillist.com/news/nation/iphone-x-size-dimensions):
 > Out of all the big new features Apple packed into its game-changing new iPhone X, the phone's stunning edge-to-edge OLED display is easily the biggest. In fact, it's the biggest screen the company has ever packed into an iPhone in its 10-year history. And yet, the iPhone X itself is actually smaller than the iPhone 8 Plus and iPhone 7 Plus in terms of height and width.
 
-Here's the issue. The iPhone X has a roughly 19:9 aspect ratio. This means the screen is approximately twice as tall as it is wide. Previous iPhones have had 16:9 (iPhone 5 and later) or 3:2 aspect ratios (iPhone 4s and earlier).
+Here's the crux of the issue. The iPhone X has a roughly 19:9 aspect ratio. This means the screen is approximately twice as tall as it is wide. Previous iPhones have had 16:9 (iPhone 5 and later) or 3:2 aspect ratios (iPhone 4s and earlier).
 
 Of course, no one is actually interested in the diagonal of a screen (it's the *area* of the screen that matters), but if two screens have the same aspect ratio, then screen diagonal is a fine proxy.
 
