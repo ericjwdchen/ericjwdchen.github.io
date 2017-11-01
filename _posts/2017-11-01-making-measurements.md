@@ -3,7 +3,7 @@ layout: post
 title: Making Measurements
 ---
 
-I'm writing this right when the iPhone X is coming out, and I'm surprised by how many phone reviewers seem to equate screen size to the diagonal length of the display.
+As I write this, the iPhone X is about to launch, and I'm surprised by how many phone reviewers seem to equate screen size to the diagonal length of the display.
 
 [Jim Dalrymple](http://www.loopinsight.com/2017/10/31/first-look-iphone-x/):
 > However, when you turn it on, the iPhone X is all screen. It doesn’t have the big top and bottom of the iPhone Plus models—it’s just screen. It’s beautiful.
@@ -24,3 +24,9 @@ However, if two screens have different aspect ratios, then the diagonal length o
 Taken to its limit, I can make a screen size of enormous diagonal length but minuscule screen area by continuing to elongate the rectangle and shrink its width.
 
 Not all tech reviewers have overlooked this fact. Phone Arena [did the math](https://www.phonearena.com/news/Apple-iPhone-Xs-5.8-inch-screen-is-actually-smaller-than-the-5.5-inch-iPhone-8-Plus-display_id98116), and the screen area of the 5.8 inch iPhone X is 2.6% smaller than the 5.5 inch iPhone Plus.
+
+Ideally, as phones move to different shapes (with cutouts, notches, and curved edges), we can talk about screen area instead of diagonal length. Even screen area isn't a perfect proxy of the screen size, though. Because at the end of the day, a bigger screen size is only useful if it lets you *do* or *see* more. For some use cases, like watching a movie, this might mean that an 18:9 ratio with smaller screen area than 3:2 ratio is actually better. Or consider on laptops, where vertical space is often at a premium, so 3:2 ratio is preferred to 16:9 ratio, all else being equal.
+
+This is all just to say that screen size cannot be summed up by one metric (as is often the case, things are more grey than they are black and white). But if I had to pick one metric, I certainly wouldn't choose screen diagonal.[^1] Wouldn't it be simpler if we just quoted screen area? 
+
+[^1]: I don't know the validity of this fact, but I recall that television manufacturers were a big proponent of diagonal measuring, especially as TVs moved from 4:3 aspect ratio to 16:9 aspect ratio. A flat-screen LCD at 16:9 with the same screen area as a CRT display at 4:3 could suddenly be marketed as significantly "larger".
