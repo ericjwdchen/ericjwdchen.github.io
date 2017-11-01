@@ -37,7 +37,7 @@ This is all to say that screen size cannot be summed up by one metric (as is oft
 
 [^1]: In fact, the "diagonal" reported for phones like the iPhone X and Galaxy Note 8 are not even their actual diagonal. Even though these screens have rounded corners, when measuring the diagonal, the companies are measuring as if the screen were an actual rectangle.
 
-    This is from Apple's site:
+    [From Apple's iPhone X tech specs](https://www.apple.com/iphone-x/specs/):
 
     > The iPhone X display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 5.85 inches diagonally (actual viewable area is less).
 
