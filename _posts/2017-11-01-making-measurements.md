@@ -5,7 +5,7 @@ title: Making Measurements
 
 As I write this, the iPhone X is about to launch, and I'm surprised by how many phone reviewers seem to equate screen size to the diagonal length of the display.
 
-[Jim Dalrymple](http://www.loopinsight.com/2017/10/31/first-look-iphone-x/):
+[Jim Dalrymple of The Loop](http://www.loopinsight.com/2017/10/31/first-look-iphone-x/):
 > However, when you turn it on, the iPhone X is all screen. It doesn’t have the big top and bottom of the iPhone Plus models—it’s just screen. It’s beautiful.
 >
 > The iPhone 8 has a 4.7-inch screen; the iPhone 8 Plus a 5.5-inch screen and the iPhone X a 5.8-inch screen.
