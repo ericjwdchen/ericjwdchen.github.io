@@ -27,11 +27,11 @@ However, if two screens have different aspect ratios, then the diagonal length o
 
 ![dimensions.png](/assets/2017/11/dimensions.png)*Screen size != screen area.*
 
-Taken to its limit, I can make a screen size of enormous diagonal length but minuscule screen area by continuing to elongate the rectangle and shrink its width.
+I can continue elongating the diagonal while maintaining a constant screen area by making the rectangle skinnier. There is no limit to how much longer I can make the diagonal, while keeping screen area constant.
 
 Not all tech reviewers have overlooked this fact. Phone Arena [did the math](https://www.phonearena.com/news/Apple-iPhone-Xs-5.8-inch-screen-is-actually-smaller-than-the-5.5-inch-iPhone-8-Plus-display_id98116), and the screen area of the 5.8 inch iPhone X is 2.6% smaller than the 5.5 inch iPhone Plus.
 
-Ideally, as phones move to different shapes (with cutouts, notches, and curved edges), we can talk about screen area instead of diagonal length.[^1] Even screen area isn't a perfect proxy of the screen size, though. Because at the end of the day, a bigger screen size is only useful if it lets you *do* or *see* more. For some use cases, like watching a movie, this might mean that an 18:9 ratio with smaller screen area than 3:2 ratio is actually better. Or consider on laptops, where vertical space is often at a premium, so 3:2 ratio is preferred to 16:9 ratio, all else being equal.
+Ideally, as phones move to different shapes (with cutouts, notches, and curved edges), we can talk about screen area instead of diagonal length.[^1] Even screen area isn't a perfect proxy of the screen size, though. Because at the end of the day, a bigger screen size is only useful if it lets you *do* or *see* more. For some use cases, like watching a movie, this might mean that an 19:9 ratio with smaller screen area than 3:2 ratio is actually better. Or consider on laptops, where vertical space is often at a premium, so 3:2 ratio is preferred to 16:9 ratio, all else being equal.
 
 This is all to say that screen size cannot be summed up by one metric (as is often the case, things are more grey than they are black and white). But if I had to pick one metric, I certainly wouldn't choose screen diagonal.[^2] Wouldn't it be simpler if we just quoted screen area?
 
