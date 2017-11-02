@@ -23,8 +23,10 @@ As I write this, the iPhone X is about to launch, and I'm surprised by how many 
 > The 5.8-inch screen is the biggest on an iPhone to date...
 
 [David Gewirtz of ZDNet](http://www.zdnet.com/article/iphone-x-or-iphone-8-price-size-camera-all-factor-in-your-buying-decision/):
-> Earlier this year, my wife donated her 6s Plus to me as an extra 4K camera, and bought an SE. She found the physical size of the Plus phone to be too large. That's one of the more interesting elements of the iPhone X -- it has more screen, in a smaller package.
+> She [my wife] found the physical size of the Plus phone to be too large. That's one of the more interesting elements of the iPhone X -- it has more screen, in a smaller package.
+>
 > ...
+>
 > It [iPhone X] is getting you more screen size in less space than the 8 Plus.
 
 <hr>
