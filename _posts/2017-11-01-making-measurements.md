@@ -26,12 +26,8 @@ As I write this, the iPhone X is about to launch, and I'm surprised by how many 
 
 [David Gewirtz of ZDNet](http://www.zdnet.com/article/iphone-x-or-iphone-8-price-size-camera-all-factor-in-your-buying-decision/):
 > Earlier this year, my wife donated her 6s Plus to me as an extra 4K camera, and bought an SE. She found the physical size of the Plus phone to be too large. That's one of the more interesting elements of the iPhone X -- it has more screen, in a smaller package.
-
-    ...
-
-    See, here's the thing. The iPhone 8 Plus' physical size is 3.07 by 6.24 inches. The iPhone X, with it's larger display, is physically considerably smaller. At 2.79 by 5.65 inches, it's closer in size to an iPhone 8 at 2.65 by 5.45 inches.
-
-    In other words, if you want the biggest possible display, but in a smaller phone, the iPhone X might be the phone for you.
+> ...
+> It [iPhone X] is getting you more screen size in less space than the 8 Plus.
 
 <hr>
 
@@ -45,7 +41,7 @@ However, if two screens have different aspect ratios, then the diagonal length o
 
 I can continue elongating the diagonal while maintaining a constant screen area by making the rectangle skinnier. There is no limit to how much longer I can make the diagonal, while keeping screen area constant.
 
-Not all tech reviewers have overlooked this fact. Phone Arena [did the math](https://www.phonearena.com/news/Apple-iPhone-Xs-5.8-inch-screen-is-actually-smaller-than-the-5.5-inch-iPhone-8-Plus-display_id98116), and the screen area of the 5.8 inch iPhone X is 2.6% smaller than the 5.5 inch iPhone Plus.
+Not all tech reviewers have overlooked this fact. Phone Arena [did the math](https://www.phonearena.com/news/Apple-iPhone-Xs-5.8-inch-screen-is-actually-smaller-than-the-5.5-inch-iPhone-8-Plus-display_id98116), and the screen area of the 5.8 inch iPhone X is 2.6% smaller than the 5.5 inch iPhone Plus. Vlad Savov of The Verge has also [been on top of this fact](https://www.theverge.com/tldr/2017/3/30/15120824/screen-aspect-ratio-mathematics-galaxy-s8-lg-g6).
 
 Ideally, as phones move to different shapes (with cutouts, notches, and curved edges), we can talk about screen area instead of diagonal length.[^1] Even screen area isn't a perfect proxy of the screen size, though. Because at the end of the day, a bigger screen size is only useful if it lets you *do* or *see* more. For some use cases, like watching a movie, this might mean that an 19:9 ratio with smaller screen area than 3:2 ratio is actually better. Or consider on laptops, where vertical space is often at a premium, so 3:2 ratio is preferred to 16:9 ratio, all else being equal.
 
