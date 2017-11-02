@@ -29,6 +29,9 @@ As I write this, the iPhone X is about to launch, and I'm surprised by how many 
 >
 > It [iPhone X] is getting you more screen size in less space than the 8 Plus.
 
+[Brian X. Chen of The New York Times](https://www.nytimes.com/2017/11/01/technology/personaltech/apple-iphone-x-review.html):
+> First, the basics: The iPhone X has a 5.8-inch screen that is larger than the 5.5-inch display on the iPhone 8 Plus and the 4.7-inch screen on the iPhone 8. Yet the iPhone X’s overall body is smaller than that of the iPhone 8 Plus (though a little bit larger than that of the iPhone 8).
+
 <hr>
 
 Here's the crux of the issue. The iPhone X has a roughly 19:9 aspect ratio. This means the screen is approximately twice as tall as it is wide. Previous iPhones have had 16:9 (iPhone 5 and later) or 3:2 aspect ratios (iPhone 4s and earlier).
