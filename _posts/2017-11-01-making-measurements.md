@@ -3,6 +3,8 @@ layout: post
 title: Making Measurements
 ---
 
+Update: added more articles about the diagonal of the screen.
+
 As I write this, the iPhone X is about to launch, and I'm surprised by how many phone reviewers seem to equate screen size to the diagonal length of the display.
 
 [Jim Dalrymple of The Loop](http://www.loopinsight.com/2017/10/31/first-look-iphone-x/):
@@ -18,6 +20,20 @@ As I write this, the iPhone X is about to launch, and I'm surprised by how many 
 
 [Tony Merevick of Thrillist in an article titled "The iPhone X Packs a Bigger Screen than the iPhone 8 Plus on a Smaller Body"](https://www.thrillist.com/news/nation/iphone-x-size-dimensions):
 > Out of all the big new features Apple packed into its game-changing new iPhone X, the phone's stunning edge-to-edge OLED display is easily the biggest. In fact, it's the biggest screen the company has ever packed into an iPhone in its 10-year history. And yet, the iPhone X itself is actually smaller than the iPhone 8 Plus and iPhone 7 Plus in terms of height and width.
+
+[Scott Stein of CNET](https://www.cnet.com/news/iphone-x-review-day-three/):
+> The 5.8-inch screen is the biggest on an iPhone to date, and the first Apple handset to use OLED (organic light-emitting display) technology versus the LED/LCD in all previous iPhones.
+
+[David Gewirtz of ZDNet](http://www.zdnet.com/article/iphone-x-or-iphone-8-price-size-camera-all-factor-in-your-buying-decision/):
+> Earlier this year, my wife donated her 6s Plus to me as an extra 4K camera, and bought an SE. She found the physical size of the Plus phone to be too large. That's one of the more interesting elements of the iPhone X -- it has more screen, in a smaller package.
+
+    ...
+
+    See, here's the thing. The iPhone 8 Plus' physical size is 3.07 by 6.24 inches. The iPhone X, with it's larger display, is physically considerably smaller. At 2.79 by 5.65 inches, it's closer in size to an iPhone 8 at 2.65 by 5.45 inches.
+
+    In other words, if you want the biggest possible display, but in a smaller phone, the iPhone X might be the phone for you.
+
+<hr>
 
 Here's the crux of the issue. The iPhone X has a roughly 19:9 aspect ratio. This means the screen is approximately twice as tall as it is wide. Previous iPhones have had 16:9 (iPhone 5 and later) or 3:2 aspect ratios (iPhone 4s and earlier).
 
