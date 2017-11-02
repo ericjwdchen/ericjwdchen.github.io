@@ -3,9 +3,7 @@ layout: post
 title: Making Measurements
 ---
 
-Update: added more articles about the diagonal of the screen.
-
-As I write this, the iPhone X is about to launch, and I'm surprised by how many phone reviewers seem to equate screen size to the diagonal length of the display.
+As I write this, the iPhone X is about to launch, and I'm surprised by how many phone reviewers seem to conflate screen size to the diagonal length of the display.
 
 [Jim Dalrymple of The Loop](http://www.loopinsight.com/2017/10/31/first-look-iphone-x/):
 > However, when you turn it on, the iPhone X is all screen. It doesn’t have the big top and bottom of the iPhone Plus models—it’s just screen. It’s beautiful.
@@ -22,7 +20,7 @@ As I write this, the iPhone X is about to launch, and I'm surprised by how many 
 > Out of all the big new features Apple packed into its game-changing new iPhone X, the phone's stunning edge-to-edge OLED display is easily the biggest. In fact, it's the biggest screen the company has ever packed into an iPhone in its 10-year history. And yet, the iPhone X itself is actually smaller than the iPhone 8 Plus and iPhone 7 Plus in terms of height and width.
 
 [Scott Stein of CNET](https://www.cnet.com/news/iphone-x-review-day-three/):
-> The 5.8-inch screen is the biggest on an iPhone to date, and the first Apple handset to use OLED (organic light-emitting display) technology versus the LED/LCD in all previous iPhones.
+> The 5.8-inch screen is the biggest on an iPhone to date...
 
 [David Gewirtz of ZDNet](http://www.zdnet.com/article/iphone-x-or-iphone-8-price-size-camera-all-factor-in-your-buying-decision/):
 > Earlier this year, my wife donated her 6s Plus to me as an extra 4K camera, and bought an SE. She found the physical size of the Plus phone to be too large. That's one of the more interesting elements of the iPhone X -- it has more screen, in a smaller package.
