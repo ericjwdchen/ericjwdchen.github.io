@@ -19,39 +19,49 @@ As I write this, the iPhone X is about to launch, and I'm surprised by how many 
 
     > [Q:] Gary Moskowitz: "What's the size of the iPhone X?" [A:] That would be 5.8 inches, the largest screen size ever for an iPhone. The iPhone 8 Plus is 5.5 inches.
 
-[Tony Merevick of Thrillist in an article titled "The iPhone X Packs a Bigger Screen than the iPhone 8 Plus on a Smaller Body"](https://www.thrillist.com/news/nation/iphone-x-size-dimensions):
-> Out of all the big new features Apple packed into its game-changing new iPhone X, the phone's stunning edge-to-edge OLED display is easily the biggest. In fact, it's the biggest screen the company has ever packed into an iPhone in its 10-year history. And yet, the iPhone X itself is actually smaller than the iPhone 8 Plus and iPhone 7 Plus in terms of height and width.
+* [Tony Merevick of Thrillist in an article titled "The iPhone X Packs a Bigger Screen than the iPhone 8 Plus on a Smaller Body"](https://www.thrillist.com/news/nation/iphone-x-size-dimensions):
 
-[Scott Stein of CNET](https://www.cnet.com/news/iphone-x-review-day-three/):
-> The 5.8-inch screen is the biggest on an iPhone to date...
+    > Out of all the big new features Apple packed into its game-changing new iPhone X, the phone's stunning edge-to-edge OLED display is easily the biggest. In fact, it's the biggest screen the company has ever packed into an iPhone in its 10-year history. And yet, the iPhone X itself is actually smaller than the iPhone 8 Plus and iPhone 7 Plus in terms of height and width.
 
-[David Gewirtz of ZDNet](http://www.zdnet.com/article/iphone-x-or-iphone-8-price-size-camera-all-factor-in-your-buying-decision/):
-> She [my wife] found the physical size of the Plus phone to be too large. That's one of the more interesting elements of the iPhone X -- it has more screen, in a smaller package.
->
-> ...
->
-> It [iPhone X] is getting you more screen size in less space than the 8 Plus.
+* [Scott Stein of CNET](https://www.cnet.com/news/iphone-x-review-day-three/):
 
-[Brian X. Chen of The New York Times](https://www.nytimes.com/2017/11/01/technology/personaltech/apple-iphone-x-review.html):
-> First, the basics: The iPhone X has a 5.8-inch screen that is larger than the 5.5-inch display on the iPhone 8 Plus and the 4.7-inch screen on the iPhone 8.
+    > The 5.8-inch screen is the biggest on an iPhone to date...
 
-[Steve Kovach of Business Insider](http://www.businessinsider.com/iphone-x-hands-on-photos-first-impressions-2017-10)
-> The best part is the screen. At 5.8 inches, it's slightly larger than the iPhone 8 Plus screen, but the iPhone X's body is only a little larger than the iPhone 8.
+* [David Gewirtz of ZDNet](http://www.zdnet.com/article/iphone-x-or-iphone-8-price-size-camera-all-factor-in-your-buying-decision/):
 
-[Todd Haselton of CNBC](https://www.cnbc.com/2017/10/31/apple-iphone-x-review-the-best-smartphone-you-can-buy.html)
-> It's [The iPhone X is] also easier to hold than the larger iPhone 8 Plus but offers a larger screen (5.8 inches versus 5.5 inches) since the display runs from edge to edge and top to bottom.
+    > She [my wife] found the physical size of the Plus phone to be too large. That's one of the more interesting elements of the iPhone X -- it has more screen, in a smaller package.
+    >
+    > ...
+    >
+    > It [iPhone X] is getting you more screen size in less space than the 8 Plus.
 
-[Julian Chokkattu of Digital Trends](https://www.digitaltrends.com/cell-phone-reviews/apple-iphone-x-review/)
-> What we like most about the iPhone X is its size. It feels compact — it’s slightly larger than the 4.7-inch iPhone 8, but it has a bigger screen than the 5,5-inch iPhone 8 Plus. The X is comfortable in the hand, and it feels remarkable to have so much more screen real estate than a cumbersome "plus-sized" phone.
+* [Brian X. Chen of The New York Times](https://www.nytimes.com/2017/11/01/technology/personaltech/apple-iphone-x-review.html):
 
-[Stuart Miles of Pocket-lint](http://www.pocket-lint.com/review/142227-apple-iphone-x-review-the-future-of-apple-smartphones)
-> Sporting a 5.8-inch screen, the display real-estate is bigger than the iPhone 8 Plus, but the chassis is considerably smaller, thanks to the shift in the display aspect.
+    > First, the basics: The iPhone X has a 5.8-inch screen that is larger than the 5.5-inch display on the iPhone 8 Plus and the 4.7-inch screen on the iPhone 8.
 
-[Ed Baig of USA Today](https://www.usatoday.com/story/tech/columnist/baig/2017/10/31/iphone-x-first-look-face-id-passes-our-quick-tests-and-animojis-addictive/815985001/)
-> The display, the largest screen ever on an iPhone despite the fact that the overall size of the X is only marginally taller than the iPhone 8, is beautiful.
+* [Steve Kovach of Business Insider](http://www.businessinsider.com/iphone-x-hands-on-photos-first-impressions-2017-10)
 
-[Gareth Beavis of TechRadar](http://www.techradar.com/reviews/iphone-x)
-> If you've used any of the iPhone Plus range, you'll get on instantly with this handset. It's got a bigger screen than any other iPhone, and yet it's smaller than the iPhone 7 Plus.
+    > The best part is the screen. At 5.8 inches, it's slightly larger than the iPhone 8 Plus screen, but the iPhone X's body is only a little larger than the iPhone 8.
+
+* [Todd Haselton of CNBC](https://www.cnbc.com/2017/10/31/apple-iphone-x-review-the-best-smartphone-you-can-buy.html)
+
+    > It's [The iPhone X is] also easier to hold than the larger iPhone 8 Plus but offers a larger screen (5.8 inches versus 5.5 inches) since the display runs from edge to edge and top to bottom.
+
+* [Julian Chokkattu of Digital Trends](https://www.digitaltrends.com/cell-phone-reviews/apple-iphone-x-review/)
+
+    > What we like most about the iPhone X is its size. It feels compact — it’s slightly larger than the 4.7-inch iPhone 8, but it has a bigger screen than the 5,5-inch iPhone 8 Plus. The X is comfortable in the hand, and it feels remarkable to have so much more screen real estate than a cumbersome "plus-sized" phone.
+
+* [Stuart Miles of Pocket-lint](http://www.pocket-lint.com/review/142227-apple-iphone-x-review-the-future-of-apple-smartphones)
+
+    > Sporting a 5.8-inch screen, the display real-estate is bigger than the iPhone 8 Plus, but the chassis is considerably smaller, thanks to the shift in the display aspect.
+
+* [Ed Baig of USA Today](https://www.usatoday.com/story/tech/columnist/baig/2017/10/31/iphone-x-first-look-face-id-passes-our-quick-tests-and-animojis-addictive/815985001/)
+
+    > The display, the largest screen ever on an iPhone despite the fact that the overall size of the X is only marginally taller than the iPhone 8, is beautiful.
+
+* [Gareth Beavis of TechRadar](http://www.techradar.com/reviews/iphone-x)
+
+    > If you've used any of the iPhone Plus range, you'll get on instantly with this handset. It's got a bigger screen than any other iPhone, and yet it's smaller than the iPhone 7 Plus.
 
 <hr>
 
