@@ -70,11 +70,6 @@ This is all to say that screen size cannot be summed up by one metric (as is oft
 
 [^1]: Some reviewers, though, have gotten it right.
 
-    [Mark Spoonauer of Tom's Guide](https://www.tomsguide.com/us/iphone-x,review-4800.html)
-    > It's worth noting that this 5.8-inch screen gives you less viewing area than the 5.5-inch iPhone 8 Plus, because the iPhone X’s screen has a narrower aspect ratio.
-
-    [Neil Cybart of Above Avalon](https://www.aboveavalon.com/notes/2017/10/31/iphone-x)
-    > iPhone X has a little bit less screen real estate (in terms of area) than iPhone Plus. The 5.8-inch screen has a more vertical element than its iPhone Plus sibling.
 
 [^2]: In fact, the "diagonal" reported for phones like the iPhone X and Galaxy Note 8 are not even their actual diagonal. Even though these screens have rounded corners, when measuring the diagonal, the companies are measuring as if the screen were an actual rectangle.
 
