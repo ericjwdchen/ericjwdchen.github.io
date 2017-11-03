@@ -63,7 +63,7 @@ As I write this, the iPhone X is about to launch, and I'm surprised by how many 
 
     > If you've used any of the iPhone Plus range, you'll get on instantly with this handset. It's [iPhone X has] got a bigger screen than any other iPhone, and yet it's smaller than the iPhone 7 Plus.
 
-*[Alex Cranz of Gizmodo](https://gizmodo.com/i-hate-how-much-i-love-the-iphone-x-1820086867):
+* [Alex Cranz of Gizmodo](https://gizmodo.com/i-hate-how-much-i-love-the-iphone-x-1820086867):
 
     > In fact, its [iPhone X's] display is actually larger than the 5.5-inch screen on the physically larger iPhone 8 Plus.
 
