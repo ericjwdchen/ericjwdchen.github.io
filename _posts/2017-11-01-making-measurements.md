@@ -5,16 +5,16 @@ title: Making Measurements
 
 As I write this, the iPhone X is about to launch, and I'm surprised by how many phone reviewers (I've found 13) seem to conflate screen size to the diagonal length of the display.[^1]
 
-[Jim Dalrymple of The Loop](http://www.loopinsight.com/2017/10/31/first-look-iphone-x/):
-> However, when you turn it on, the iPhone X is all screen. It doesn’t have the big top and bottom of the iPhone Plus models—it’s just screen. It’s beautiful.
->
-> The iPhone 8 has a 4.7-inch screen; the iPhone 8 Plus a 5.5-inch screen and the iPhone X a 5.8-inch screen.
+* [Jim Dalrymple of The Loop](http://www.loopinsight.com/2017/10/31/first-look-iphone-x/):
+    > However, when you turn it on, the iPhone X is all screen. It doesn’t have the big top and bottom of the iPhone Plus models—it’s just screen. It’s beautiful.
+    >
+    > The iPhone 8 has a 4.7-inch screen; the iPhone 8 Plus a 5.5-inch screen and the iPhone X a 5.8-inch screen.
 
-[Kif Leswing of Business Insider in an article titled "The iPhone X is smaller than the iPhone 8 Plus, but it has the largest iPhone screen Apple has ever made"](http://www.businessinsider.com/iphone-x-screen-size-vs-iphone-8-plus-2017-10):
-> The iPhone X actually features Apple's biggest phone display, measuring 5.8 inches on the diagonal, which is even bigger than the display on Apple's largest iPhone, the iPhone 8 Plus, which measures 5.5 inches.
+* [Kif Leswing of Business Insider in an article titled "The iPhone X is smaller than the iPhone 8 Plus, but it has the largest iPhone screen Apple has ever made"](http://www.businessinsider.com/iphone-x-screen-size-vs-iphone-8-plus-2017-10):
+    > The iPhone X actually features Apple's biggest phone display, measuring 5.8 inches on the diagonal, which is even bigger than the display on Apple's largest iPhone, the iPhone 8 Plus, which measures 5.5 inches.
 
-[Jefferson Graham of USA Today in a Q&A article](https://www.usatoday.com/story/tech/talkingtech/2017/10/28/we-answer-your-questions-iphone-x/810712001/):
-> [Q:] Gary Moskowitz: "What's the size of the iPhone X?" [A:] That would be 5.8 inches, the largest screen size ever for an iPhone. The iPhone 8 Plus is 5.5 inches.
+* [Jefferson Graham of USA Today in a Q&A article](https://www.usatoday.com/story/tech/talkingtech/2017/10/28/we-answer-your-questions-iphone-x/810712001/):
+    > [Q:] Gary Moskowitz: "What's the size of the iPhone X?" [A:] That would be 5.8 inches, the largest screen size ever for an iPhone. The iPhone 8 Plus is 5.5 inches.
 
 [Tony Merevick of Thrillist in an article titled "The iPhone X Packs a Bigger Screen than the iPhone 8 Plus on a Smaller Body"](https://www.thrillist.com/news/nation/iphone-x-size-dimensions):
 > Out of all the big new features Apple packed into its game-changing new iPhone X, the phone's stunning edge-to-edge OLED display is easily the biggest. In fact, it's the biggest screen the company has ever packed into an iPhone in its 10-year history. And yet, the iPhone X itself is actually smaller than the iPhone 8 Plus and iPhone 7 Plus in terms of height and width.
