@@ -9,15 +9,13 @@ permalink:        pretty
 title:            Eric Chen
 url:              //ericjwdchen.org
 paginate:         5
-baseurl:          
+baseurl:
 header:           "http:"
 author:
   name:           Eric Chen
   url:            https://twitter.com/ericjwdchen_org
   email:          eric@ericjwdchen.org
 
-gems:
-  - jekyll-sitemap
 
 sass:
   style: :compressed
