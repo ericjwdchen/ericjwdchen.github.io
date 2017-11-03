@@ -3,7 +3,7 @@ layout: post
 title: Making Measurements
 ---
 
-As I write this, the iPhone X is about to launch, and I'm surprised by how many phone reviewers (I've found 12 so far) seem to conflate screen size to the diagonal length of the display.[^1]
+As I write this, the iPhone X is about to launch, and I'm surprised by how many phone reviewers (I've found 13) seem to conflate screen size to the diagonal length of the display.[^1]
 
 [Jim Dalrymple of The Loop](http://www.loopinsight.com/2017/10/31/first-look-iphone-x/):
 > However, when you turn it on, the iPhone X is all screen. It doesn’t have the big top and bottom of the iPhone Plus models—it’s just screen. It’s beautiful.
