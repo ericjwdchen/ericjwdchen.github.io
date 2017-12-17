@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Normalized Points
+title: Normalized Scoring
 ---
 
 One issue that I see with advanced analytics in basketball is that they aren't great for cross-era comparisons. For example, points per possession and offensive efficiency (points per 100 possessions) both adjust for pace of play by recognizing that more possessions naturally lead to more points. However, a possession-based statistic doesn't recognize the fact that, across eras, the expected value of a possession changes. In the 2002-2003 regular season, the Dallas Mavericks were the highest rated team in terms of offensive efficiency with 96.4 points per 100 possessions. In the 2016-2017 regular season, the Philadelphia 76ers were the *worst* rated team in terms of offensive efficiency with 100.7 points per 100 possessions. The inflation of the expected value of a possession is likely due to [changes in NBA rules that favor offense](http://www.espn.com/espn/playbook/story/_/id/8449538/offenses-scoring-control-time-tweak-some-rules), as well as the increased use of the 3-point shot.
