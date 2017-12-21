@@ -8,17 +8,20 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## In Progress
 
-- **A Pattern Language: Towns, Buildings, Construction** by Christopher Alexander, Murray Silverstein, and Sara Ishikawa
-
-- **High Output Management** by Andrew Grove
-
-- **Bad Religion: How We Became a Nation of Heretics** by Ross Douthat
 
 ## 2017
 
+- **The Millionaire Next Door: The Surprising Secrets of America's Wealthy** by  Thomas J. Stanley and William D. Danko. <span class="primary-color">★</span>
+
+  *The Millionaire Next Door* first came to my attention by recommendation from a co-worker this summer. I've been following personal finance communities online for a while now, so many of the ideas and insights were familiar to me. The key takeaway from this book is to separate *wealth* from *income*. When people aspire to be rich, they are aspiring for wealth. The lessons and strategies in this book are best seen early in your career, and I'm glad to have seen them now. The real test, though, is how well I live out these lessons once I leave university in the next couple of years.
+
+- **Bad Religion: How We Became a Nation of Heretics** by Ross Douthat <span class="primary-color">★</span>
+
+  Previously, I read and enjoyed one of Ross Douthat's other books, *Privilege: Harvard and the Education of the Ruling Class*. I don't agree with all of Douthat's politics or opinions, but I believe it's important to consider as many differing viewpoints as possible. His thoughtful writing and well-argued positions have made me really think about my beliefs and the reasons why I hold them. In *Bad Religion*, Douthat does a fine job of presenting his views with sufficient context and argument for all, including myself, to understand. I can't say that I thought much about the decaying moral fabric of American Christianity before reading *Bad Religion*, but Douthat makes a strong argument for its importance. Again, it really is Douthat's background, politics, and worldview that I find most valuable because they force me to question my own beliefs.
+
 - **Privilege: The Making of an Adolescent Elite at St. Paul's School** by Shamus Rahman Khan <span class="primary-color">★</span>
 
-  I went to high school at The Lawrenceville School, an east coast boarding school similar to St. Paul's. And this line from Shamus Rahman Khan rings true to me:
+  I went to The Lawrenceville School, an east coast boarding school similar to St. Paul's. And this line from Shamus Rahman Khan rings true to me:
 
   > And, most important, while students were repeatedly told that we were among the best of the best, why was it that so many of the best came from among the rich?
 
@@ -45,6 +48,11 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
   *Sapiens* is a pleasant read for two reasons: comfortable prose and clear theses. This is not to say that the book is simplistic or boring. It's the opposite: that the language and structure of the book do so much to keep it an engaging read. I almost couldn't help but read more.
 
   One thing I will note is that I was surprised (pleasantly so) by the "philosophy" in the pages of the book. I found myself generally agreeable to many of Yuval Noah Harari's posits and propositions. But a different perspective on these philosophical points might cloud your perception of the work.
+
+
+  - **A Pattern Language: Towns, Buildings, Construction** by Christopher Alexander, Murray Silverstein, and Sara Ishikawa
+
+  I only made it partway through this book. The parts that I did read were quite enjoyable. This book highlights how important physical spaces are in shaping and molding human experience.
 
 - **Born on Third Base: A One Percenter Makes the Case for Tackling Inequality, Bringing Wealth Home, and Committing to the Common Good** by Chuck Collins <span class="primary-color">★</span>
 
