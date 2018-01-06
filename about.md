@@ -8,9 +8,9 @@ Hey there! I'm Eric Chen.
 
 ![Eric Chen headshot](/assets/2015/01/eric-chen.jpg){: .img-right .img-circular}
 
-I live in Wisconsin and am a junior at [Princeton University][pu]. In my past, I attended [The Lawrenceville School][ls]. I like technology, podcasts, and cooking. Take a look at my virtual [bookshelf][bookshelf].
+I'm from Wisconsin and am a junior at [Princeton University][pu]. In my past, I attended [The Lawrenceville School][ls]. I take interest in technology, finance, podcasts, and cooking. Take a look at my [bookshelf][bookshelf] to see what books I've read recently.
 
-You can find me on [Twitter][twitter], [LinkedIn][linkedin],[^1] and [Github][github]. A full feed of this site is also available through [RSS][rss] and [Twitter][twitter site]. My email is eric~at~ericjwdchen.org.
+You can find me on [Twitter][twitter], [LinkedIn][linkedin],[^1] and [Github][github]. If you like the site, check out the [Feeds][feeds] page to find ways to subscribe. My email is eric~at~ericjwdchen.org.
 
 [pu]: http://www.princeton.edu/
 [ls]: http://www.lawrenceville.org/index.aspx
@@ -18,13 +18,11 @@ You can find me on [Twitter][twitter], [LinkedIn][linkedin],[^1] and [Github][gi
 [twitter]: https://twitter.com/ericjwdchen
 [linkedin]: https://www.linkedin.com/in/ericjwdchen
 [github]: https://github.com/ericjwdchen
-[rss]: http://ericjwdchen.org/rss.xml
-[twitter site]: https://twitter.com/ericjwdchen_org
-[bookshelf]: http://ericjwdchen.org/bookshelf
+[feeds]: http://ericjwdchen.org/feeds/
 
 ## How the Sausage is Made
 
-This site is built on [Jekyll][jekyll], forked originally from [Poole][poole], and generously hosted on [GitHub Pages][gp]. The repository for the website is [here][repo].
+This site is built on [Jekyll][jekyll], forked originally from [Poole][poole], and generously hosted on [GitHub Pages][gp]. All posts are composed in the [Atom][atom] text editor. The repository for the website is [here][repo].
 
 Math equations are created using [MathJax][mj]. Syntax highlighting for code snippets is done with [highlight.js][h.js] using the Solarized Light theme.
 
@@ -33,6 +31,7 @@ The [logo][l] is an homage to the brown [Zune 30][Zune 30], Microsoft's deeply f
 [jekyll]: http://jekyllrb.com/
 [poole]: http://getpoole.com/
 [gp]: https://pages.github.com/
+[atom]: https://atom.io/
 [repo]: https://github.com/ericjwdchen/ericjwdchen.github.io
 
 [mj]: https://www.mathjax.org/
