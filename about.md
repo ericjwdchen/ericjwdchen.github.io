@@ -14,6 +14,7 @@ You can find me on [Twitter][twitter], [LinkedIn][linkedin],[^1] and [Github][gi
 
 [pu]: http://www.princeton.edu/
 [ls]: http://www.lawrenceville.org/index.aspx
+[bookshelf]: http://ericjwdchen.org/bookshelf/
 
 [twitter]: https://twitter.com/ericjwdchen
 [linkedin]: https://www.linkedin.com/in/ericjwdchen
