@@ -8,10 +8,15 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## In Progress
 
+## 2018
+
+- **Irrational Exuberance** by Robert J. Shiller <span class="primary-color">★</span>
+
+  In light of the extraordinary rise of cryptocurrency, I thought it would be a good idea to read Robert Shiller's thoughts on bubbles and speculation. That was a good idea. While the bubble is in a new asset class, the phenomena and patterns that Shiller describes have many parallels in crypto.
 
 ## 2017
 
-- **The Millionaire Next Door: The Surprising Secrets of America's Wealthy** by  Thomas J. Stanley and William D. Danko. <span class="primary-color">★</span>
+- **The Millionaire Next Door: The Surprising Secrets of America's Wealthy** by Thomas J. Stanley and William D. Danko. <span class="primary-color">★</span>
 
   *The Millionaire Next Door* first came to my attention by recommendation from a co-worker this summer. I've been following personal finance communities online for a while now, so many of the ideas and insights were familiar to me. The key takeaway from this book is to separate *wealth* from *income*. When people aspire to be rich, they are aspiring for wealth. The lessons and strategies in this book are best seen early in your career, and I'm glad to have seen them now. The real test, though, is how well I live out these lessons once I leave university in the next couple of years.
 
