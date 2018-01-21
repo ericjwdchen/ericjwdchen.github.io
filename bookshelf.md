@@ -68,8 +68,7 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
   One thing I will note is that I was surprised (pleasantly so) by the "philosophy" in the pages of the book. I found myself generally agreeable to many of Yuval Noah Harari's posits and propositions. But a different perspective on these philosophical points might cloud your perception of the work.
 
-
-  - **A Pattern Language: Towns, Buildings, Construction** by Christopher Alexander, Murray Silverstein, and Sara Ishikawa
+- **A Pattern Language: Towns, Buildings, Construction** by Christopher Alexander, Murray Silverstein, and Sara Ishikawa
 
   I only made it partway through this book. The parts that I did read were quite enjoyable. This book highlights how important physical spaces are in shaping and molding human experience.
 
