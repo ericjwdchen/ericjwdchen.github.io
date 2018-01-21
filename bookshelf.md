@@ -8,6 +8,8 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## In Progress
 
+- **The Lords of Strategy: The Secret Intellectual History of the New Corporate World** by Walter Kiechel
+
 ## 2018
 
 - **The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google** by Scott Galloway <span class="primary-color">★★</span>
