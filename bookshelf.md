@@ -10,6 +10,18 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## 2018
 
+- **The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google** by Scott Galloway <span class="primary-color">★★</span>
+
+  I enjoy the sharp wit and insight that Scott Galloway has in his Youtube series, and his book is no different. Galloway is to the point and blunt about the amazing benefits and problems that are the result of Facebook, Google, Amazon, and Apple accruing unmatched talent, capital, and data.
+
+  Also of value is Galloway's chapter about how you should approach and shape your career in light of these new dynamics created by large tech companies. He gives cogent advice, and it's the most valuable part of the book for me. Galloway's career talk brings the same blunt clarity as his business insight. For example, on following your passion,
+
+  > People will tell you to "follow your passion." This, again, is bullshit... People who tell you to follow your passion are already rich.
+  > ...
+  > No kid dreams of being a tax accountant. However, the best tax accountants on the planet fly first class and marry people better looking than themselves—both things they are likely to be passionate about.
+
+  You won't agree with all of Galloway's opinions, but I think you'll find enough of them to be useful, and some extremely so. I have.
+
 - **Irrational Exuberance** by Robert J. Shiller <span class="primary-color">★</span>
 
   In light of the extraordinary rise of cryptocurrency, I thought it would be a good idea to read Robert Shiller's thoughts on bubbles and speculation. That was a good idea. While the bubble is in a new asset class, the phenomena and patterns that Shiller describes have many parallels in crypto.
@@ -125,7 +137,7 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
   > It is plain that the president of a university cannot transmit to the students his own values directly. his duties are so extensive that to conduct classes on a large scale is a practical impossibility. He must therefore utilize intermediaries, men of similar convictions, to do the job. This academic freedom forbids. It is therefore an appalling yet indisputable fact that because of the restraints of "academic freedom," the president of Yale has far less influence on the student body than have scores of influential professors who are allowed—in fact encouraged—to teach just as they will , to traffic, within loose limits, in whatever values they choose.
   >
-  >It is curious that the Corporation spends so much time and effort in selecting a president.
+  > It is curious that the Corporation spends so much time and effort in selecting a president.
 
 - **On Boxing** by Joyce Carol Oates <span class="primary-color">★★</span>
 
