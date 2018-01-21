@@ -12,12 +12,14 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 - **The Four: The Hidden DNA of Amazon, Apple, Facebook, and Google** by Scott Galloway <span class="primary-color">★★</span>
 
-  I enjoy the sharp wit and insight that Scott Galloway has in his Youtube series, and his book is no different. Galloway is to the point and blunt about the amazing benefits and problems that are the result of Facebook, Google, Amazon, and Apple accruing unmatched talent, capital, and data.
+  I enjoy Scott Galloway's sharp wit and insight in his Youtube series [Winners & Losers in a Digital Age](https://www.youtube.com/playlist?list=PL67plOPT3Am0JbnL_LjU2X1DfraHvVsWd), and his book is no different. Galloway is to the point and blunt about the benefits and problems that are the result of Facebook, Google, Amazon, and Apple accruing unmatched talent, capital, and data.
 
   Also of value is Galloway's chapter about how you should approach and shape your career in light of these new dynamics created by large tech companies. He gives cogent advice, and it's the most valuable part of the book for me. Galloway's career talk brings the same blunt clarity as his business insight. For example, on following your passion,
 
   > People will tell you to "follow your passion." This, again, is bullshit... People who tell you to follow your passion are already rich.
+  >
   > ...
+  >
   > No kid dreams of being a tax accountant. However, the best tax accountants on the planet fly first class and marry people better looking than themselves—both things they are likely to be passionate about.
 
   You won't agree with all of Galloway's opinions, but I think you'll find enough of them to be useful, and some extremely so. I have.
