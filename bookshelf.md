@@ -4,7 +4,7 @@ title: Bookshelf
 weight: 1
 ---
 
-One star books (<span class="primary-color">★</span>) are certainly worth reading if you have prior interest in the subject matter, and two star books (<span class="primary-color">★★</span>) are definitely worth reading regardless of prior interest.
+One star books (<span class="primary-color">★</span>) are certainly worth reading if you have prior interest in the subject matter, and two star books (<span class="primary-color">★★</span>) are definitely worth reading regardless of prior interest. This list also includes books that I started but never finished.
 
 ## In Progress
 
@@ -35,6 +35,8 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 - **The Millionaire Next Door: The Surprising Secrets of America's Wealthy** by Thomas J. Stanley and William D. Danko. <span class="primary-color">★</span>
 
   *The Millionaire Next Door* first came to my attention by recommendation from a co-worker this summer. I've been following personal finance communities online for a while now, so many of the ideas and insights were familiar to me. The key takeaway from this book is to separate *wealth* from *income*. When people aspire to be rich, they are aspiring for wealth. The lessons and strategies in this book are best seen early in your career, and I'm glad to have seen them now. The real test, though, is how well I live out these lessons once I leave university in the next couple of years.
+
+- [Unfinished] **Contested Tastes: Foie Gras and the Politics of Food** by Michaela DeSoucey
 
 - **Bad Religion: How We Became a Nation of Heretics** by Ross Douthat <span class="primary-color">★</span>
 
