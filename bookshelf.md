@@ -11,6 +11,10 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## 2018
 
+- **Let's Explore Diabetes with Owls** by David Sedaris <span class="primary-color">★</span>
+
+  Many of the essays are quite enjoyable. A few fell a bit flat for me.
+
 - **The Lords of Strategy: The Secret Intellectual History of the New Corporate World** by Walter Kiechel <span class="primary-color">★</span>
 
   The book details the history of strategy consulting—tracing the roots of BCG, Bain, and McKinsey with a strong focus on the actions of the "lords" of these firms. I did not enjoy this book as much as I thought I would. I found it dense with history and minutiae, which, if you are involved in the consulting industry, I imagine would be of great interest to you.
