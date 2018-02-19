@@ -8,6 +8,12 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## In Progress
 
+- **More Than You Know: Finding Financial Wisdom in Unconventional Places** by Michael J. Mauboussin
+
+- **Traders' Tales: A Chronicle of Wall Street Myths, Legends, and Outright Lies** by Ron Insana
+
+- **A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market** by Edward O. Thorp
+
 
 ## 2018
 
