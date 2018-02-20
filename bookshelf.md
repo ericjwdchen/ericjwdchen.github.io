@@ -15,7 +15,7 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## 2018
 
-- **Traders' Tales: A Chronicle of Wall Street Myths, Legends, and Outright Lies** by Ron Insana <span class="primary-color">★</span>
+- **Traders' Tales: A Chronicle of Wall Street Myths, Legends, and Outright Lies** by Ron Insana
 
   A collection of short stories about Wall Street and traders. A light and easy read, but the stories tend to get more repetitive as the book goes on.
 
