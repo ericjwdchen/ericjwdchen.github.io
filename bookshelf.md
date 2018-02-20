@@ -10,12 +10,14 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 - **More Than You Know: Finding Financial Wisdom in Unconventional Places** by Michael J. Mauboussin
 
-- **Traders' Tales: A Chronicle of Wall Street Myths, Legends, and Outright Lies** by Ron Insana
-
 - **A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market** by Edward O. Thorp
 
 
 ## 2018
+
+- **Traders' Tales: A Chronicle of Wall Street Myths, Legends, and Outright Lies** by Ron Insana <span class="primary-color">★</span>
+
+  A collection of short stories about Wall Street and traders. A light and easy read, but the stories tend to get more repetitive as the book goes on.
 
 - **Let's Explore Diabetes with Owls** by David Sedaris <span class="primary-color">★</span>
 
