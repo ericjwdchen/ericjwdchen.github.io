@@ -10,10 +10,11 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 - **More Than You Know: Finding Financial Wisdom in Unconventional Places** by Michael J. Mauboussin
 
-- **A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market** by Edward O. Thorp
-
-
 ## 2018
+
+- **A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market** by Edward O. Thorp <span class="primary-color">★</span>
+
+  At times, this books reads too self-congragulatory. Ed Thorp makes sure to point out that he foresaw Bernie Madoff's Ponzi Scheme, predicted problems with CDOs and CDSs, and was both responsible for the fantastic successes of his hedge fund Princeton Newport Partners, while having no knowledge or responsibility for his firms tie ups with Michael Milken and junk bonds. That being said, Thorp's story is an interesting one, and his autobiography is worth reading for his thoughts about learning, risk, and success.
 
 - **Traders' Tales: A Chronicle of Wall Street Myths, Legends, and Outright Lies** by Ron Insana
 
