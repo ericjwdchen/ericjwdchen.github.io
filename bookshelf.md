@@ -10,7 +10,13 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 - **More Than You Know: Finding Financial Wisdom in Unconventional Places** by Michael J. Mauboussin
 
+- **John Adams: Party of One** by James Grant
+
 ## 2018
+
+- **Coming to My Senses: The Making of a Counterculture Cook** by Alice Waters <span class="primary-color">★</span>
+
+  The best parts of this memoir are the frequent italicized passages where Alice Waters focuses on thoughts and philosophies instead of recounting specific moments from the past. This book reminded me of how important the food that we eat is to our being, and the care and intention our food deserves.
 
 - **A Man for All Markets: From Las Vegas to Wall Street, How I Beat the Dealer and the Market** by Edward O. Thorp <span class="primary-color">★</span>
 
