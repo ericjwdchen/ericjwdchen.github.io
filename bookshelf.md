@@ -14,6 +14,11 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## 2018
 
+- **The Triumph of Christianity: How a Forbidden Religion Swept the World
+Book** by Bart D. Ehrman <span class="primary-color">★★</span>
+
+  I had little knowledge of the history of the early Christian church before reading this. But Bart Ehrman comes at the topic from a balanced historical view that explains the remarkable story of Christinaity's beginnings and growth as a religion in ancient Rome.
+
 - **Coming to My Senses: The Making of a Counterculture Cook** by Alice Waters <span class="primary-color">★</span>
 
   The best parts of this memoir are the frequent italicized passages where Alice Waters focuses on thoughts and philosophies instead of recounting specific moments from the past. This book reminded me of how important the food that we eat is to our being, and the care and intention our food deserves.
