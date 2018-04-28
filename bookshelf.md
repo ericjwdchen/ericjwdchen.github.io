@@ -10,9 +10,13 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 - **More Than You Know: Finding Financial Wisdom in Unconventional Places** by Michael J. Mauboussin
 
-- **John Adams: Party of One** by James Grant
+- **Zealot: The Life and Times of Jesus of Nazareth** by Reza Aslan
 
 ## 2018
+
+- **God: A Human History** by	Reza Aslan <span class="primary-color">★</span>
+
+  I'm in the middle of a little kick of reading about religious history. Religion speaks volumes about human nature, and there's a lot for me to learn. In *God: A Human History* Reza Aslan proposes a cohesive interpretation of humanity's relationship with God, showing how from the beginning of religious thought, God in all its incarnations is in some sense *human*. I thought Aslan's narrative was at times simplistic, but always fascinating.
 
 - **The Triumph of Christianity: How a Forbidden Religion Swept the World
 Book** by Bart D. Ehrman <span class="primary-color">★★</span>
