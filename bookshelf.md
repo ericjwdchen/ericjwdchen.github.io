@@ -10,13 +10,16 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 - **More Than You Know: Finding Financial Wisdom in Unconventional Places** by Michael J. Mauboussin
 
-- **Skin in the Game: Hidden Asymmetries in Daily Life ** by Nassim Nicholas Taleb
 
 ## 2018
 
+- **Skin in the Game: Hidden Asymmetries in Daily Life** by Nassim Nicholas Taleb <span class="primary-color">★</span>
+
+  This is the first work of Nassim Nicholas Taleb's that I've read, which was a mistake. *Skin in the Game* makes many references to characters and ideas developed in Taleb's previous works (e.g. Fat Tony), and Taleb assumes familiarity with them. The "skin in the game" idea is a good one, though, even if at times it is belabored or stretched beyond its explanatory power.
+
 - **Zealot: The Life and Times of Jesus of Nazareth** by Reza Aslan <span class="primary-color">★★</span>
 
-  > Jesus of Nazareth--Jesus the *man*--is every bit as compelling, charismatic, and praiseworty as Jesus the Christ.
+  > Jesus of Nazareth--Jesus the *man*--is every bit as compelling, charismatic, and praiseworthy as Jesus the Christ.
 
   What a fascinating perspective on Jesus the *man*. It's hard to separate historical fact from theology, but Reza Aslan takes a thorough approach with success. Christianity has shaped the Western world for two millennia, and it's important to understand its roots and the figure at its center.
 
