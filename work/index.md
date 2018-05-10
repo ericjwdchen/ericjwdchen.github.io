@@ -2,6 +2,7 @@
 layout: page
 title: Work
 weight: 1
+exclude: 'yes'
 ---
 
 A collection of projects I've worked on recently.
