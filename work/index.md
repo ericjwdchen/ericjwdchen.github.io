@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Work
-weight: 1
+weight: 0
 exclude: 'yes'
 ---
 
