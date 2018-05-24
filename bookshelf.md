@@ -10,8 +10,6 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 - **More Than You Know: Finding Financial Wisdom in Unconventional Places** by Michael J. Mauboussin
 
-- **Being Simon Haines** by Tom Vaughan MacAulay
-
 ## 2018
 
 - **Skin in the Game: Hidden Asymmetries in Daily Life** by Nassim Nicholas Taleb <span class="primary-color">★</span>
