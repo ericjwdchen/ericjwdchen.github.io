@@ -8,7 +8,7 @@ Hey there! I'm Eric Chen.
 
 ![Eric Chen headshot](/assets/2015/01/eric-chen.jpg){: .img-right .img-circular}
 
-I'm from Wisconsin and am a junior at [Princeton University][pu]. In my past, I attended [The Lawrenceville School][ls]. I take interest in technology, finance, transportation, podcasts, and cooking. Take a look at the [bookshelf][bookshelf] to see what I've read recently.
+I'm from Wisconsin and am a senior at [Princeton University][pu]. In my past, I attended [The Lawrenceville School][ls]. I take interest in technology, finance, transportation, podcasts, and cooking. Take a look at the [bookshelf][bookshelf] to see what I've read recently.
 
 You can find me on [Twitter][twitter], [LinkedIn][linkedin],[^1] and [Github][github]. If you like the site, check out the [Feeds][feeds] page to find ways to subscribe. My email is eric~at~ericjwdchen.org.
 
