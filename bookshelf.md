@@ -8,6 +8,10 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## In Progress
 
+- **Paul: A Biography** by N.T. Wright
+
+- **Den of Thieves** by James B. Stewart
+
 - **More Than You Know: Finding Financial Wisdom in Unconventional Places** by Michael J. Mauboussin
 
 ## 2018
