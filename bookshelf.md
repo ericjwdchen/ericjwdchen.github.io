@@ -10,11 +10,11 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 - **Paul: A Biography** by N.T. Wright
 
-- **Den of Thieves** by James B. Stewart
-
 - **More Than You Know: Finding Financial Wisdom in Unconventional Places** by Michael J. Mauboussin
 
 ## 2018
+
+- **Den of Thieves** by James B. Stewart <span class="primary-color">★</span>
 
 - **Skin in the Game: Hidden Asymmetries in Daily Life** by Nassim Nicholas Taleb <span class="primary-color">★</span>
 
