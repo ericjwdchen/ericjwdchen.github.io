@@ -10,13 +10,13 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 - **Why Religion?: A Personal Story** by Elaine Pagels
 
-- **Diary of a Very Bad Year: Confessions of an Anonymous Hedge Fund Manager** by Anonymous Hedge Fund Manager, n+1, and Keith Gessen
-
-- **Paul: A Biography** by N.T. Wright
-
 - **More Than You Know: Finding Financial Wisdom in Unconventional Places** by Michael J. Mauboussin
 
 ## 2018
+
+- **Diary of a Very Bad Year: Confessions of an Anonymous Hedge Fund Manager** by Anonymous Hedge Fund Manager, n+1, and Keith Gessen  <span class="primary-color">★★</span>
+
+   I got wind of this book by [recommendation from Matt Levine](https://twitter.com/matt_levine/status/1043230384320925696?lang=en). It's a series of transcribed interviews with an anonymous hedge fund manager throughout the 2008 financial crisis. I was in middle school during the crisis, so I sort of knew what was going on but most of it had limited impact on me. From this book, though, I *felt* like what it was like to live through a crisis. That's extremely useful.
 
 - **Den of Thieves** by James B. Stewart <span class="primary-color">★</span>
 
