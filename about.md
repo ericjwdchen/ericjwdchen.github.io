@@ -8,7 +8,7 @@ Hey there! I'm Eric Chen.
 
 ![Eric Chen headshot](/assets/2015/01/eric-chen.jpg){: .img-right .img-circular}
 
-I'm from Wisconsin and am a senior at [Princeton University][pu]. In my past, I attended [The Lawrenceville School][ls]. I take interest in technology, finance, transportation, podcasts, and cooking. Take a look at the [bookshelf][bookshelf] to see what I've read recently.
+I'm from Wisconsin and am a senior at [Princeton University][pu] studying Operations Research and Financial Engineering. Prior to Princeton, I attended [The Lawrenceville School][ls]. Currently, I take interest in technology, finance, transportation, history of religion, podcasts, and cooking. Take a look at the [bookshelf][bookshelf] to see what I've been reading recently.
 
 You can find me on [Twitter][twitter], [LinkedIn][linkedin],[^1] and [Github][github]. If you like the site, check out the [Feeds][feeds] page to find ways to subscribe. My email is eric~at~ericjwdchen.org.
 
@@ -23,7 +23,7 @@ You can find me on [Twitter][twitter], [LinkedIn][linkedin],[^1] and [Github][gi
 
 ## How the Sausage is Made
 
-This site is built on [Jekyll][jekyll], forked originally from [Poole][poole], and generously hosted on [GitHub Pages][gp]. All posts are composed in the [Atom][atom] text editor. The repository for the website is [here][repo].
+This site is built on [Jekyll][jekyll], forked originally from [Poole][poole], and generously hosted on [GitHub Pages][gp]. All posts are composed in the [Visual Studio Code][vscode] text editor. The repository for the website is [here][repo].
 
 Math equations are created using [MathJax][mj]. Syntax highlighting for code snippets is done with [highlight.js][h.js] using the Solarized Light theme.
 
@@ -32,7 +32,7 @@ The site favicon is an homage to the brown [Zune 30][Zune 30], Microsoft's deepl
 [jekyll]: http://jekyllrb.com/
 [poole]: http://getpoole.com/
 [gp]: https://pages.github.com/
-[atom]: https://atom.io/
+[vscode]: https://code.visualstudio.com/
 [repo]: https://github.com/ericjwdchen/ericjwdchen.github.io
 
 [mj]: https://www.mathjax.org/
