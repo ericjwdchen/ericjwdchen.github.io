@@ -8,7 +8,11 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## In Progress
 
+-**Origin Story: A Big History of Everything** by David Christian
+
 ## 2018
+
+- **Faith: A Journey For All** by Jimmy Carter <span class="primary-color">★</span>
 
 - **Why Religion?: A Personal Story** by Elaine Pagels <span class="primary-color">★★</span>
 
