@@ -8,7 +8,7 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## In Progress
 
--**Origin Story: A Big History of Everything** by David Christian
+- **Origin Story: A Big History of Everything** by David Christian
 
 ## 2018
 
