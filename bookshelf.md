@@ -8,6 +8,8 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## In Progress
 
+- **Into the Wild** by Jon Krakauer
+
 - **Origin Story: A Big History of Everything** by David Christian
 
 ## 2018
