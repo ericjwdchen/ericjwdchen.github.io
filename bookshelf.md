@@ -16,7 +16,7 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
   > It is easy, when you are young, to believe that what you desire is no less than what you deserve, to assume that if you want something badly enough, it is your God-given right to have it... But I came to appreciate that mountains make poor receptacles for dreams. And I lived to tell my tale.
 
-   I've been fascinated recently with stories of wilderness and mountaineering. I thought Jon Krakauer's *Into the Wild* captured the amazement and allure of the wilderness. The way Krakauer intertwines his own story with that of the subject of the book, Chris McCandless, makes the story all the more rich.
+   I've been fascinated recently with stories of wilderness and mountaineering. I thought Jon Krakauer's *Into the Wild* captured the amazement and allure of the wilderness. The way Krakauer intertwines his own story with that of the subject of the book, Chris McCandless, makes the story all the more rich. Fantastic.
 
 ## 2018
 
