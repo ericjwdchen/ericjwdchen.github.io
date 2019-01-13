@@ -8,9 +8,13 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## In Progress
 
-- **Origin Story: A Big History of Everything** by David Christian
+- **K2: Life and Death on the World's Most Dangerous Mountain** by David Roberts and Ed Viesturs
 
 ## 2019
+
+- **The Climb: Tragic Ambitions on Everest** by Anatoli Boukreev and G. Weston DeWalt <span class="primary-color">★</span>
+
+   This book gives you an unfiltered view of what it takes to lead a commercial expedition on Everest. Naturally, it lacks some of the narrative drama you find in other accounts.
 
 - **Into the Wild** by Jon Krakauer <span class="primary-color">★★</span>
 
