@@ -8,9 +8,10 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## In Progress
 
-- **K2: Life and Death on the World's Most Dangerous Mountain** by David Roberts and Ed Viesturs
-
 ## 2019
+
+- **K2: Life and Death on the World's Most Dangerous Mountain** by David Roberts and Ed Viesturs <span class="primary-color">★</span>
+
 
 - **The Climb: Tragic Ambitions on Everest** by Anatoli Boukreev and G. Weston DeWalt <span class="primary-color">★</span>
 
