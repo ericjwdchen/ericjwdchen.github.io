@@ -8,6 +8,12 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 ## In Progress
 
+- **Tribe: On Homecoming and Belonging** by Sebastian Junger
+
+- **Into Thin Air** by Jon Krakauer
+
+- **Endurance: Shackleton's Incredible Voyage** by Alfred Lansing
+
 ## 2019
 
 - **K2: Life and Death on the World's Most Dangerous Mountain** by David Roberts and Ed Viesturs <span class="primary-color">★</span>
