@@ -70,7 +70,7 @@ html {
   background: var(--body-bg);
 }
 
-@media (min-width: var(--responsive-large)) {
+@media (min-width: 600px) {
   html {
     font-size: 120%;
   }
@@ -102,7 +102,7 @@ h4,
 h5,
 h6 {
   font-weight: normal;
-  line-height: 1.25;
+  line-height: 1.2;
   margin: 1em 0 .8rem 0; // .8rem for baseline adjustment
 }
 
@@ -181,7 +181,7 @@ header {
   margin: 0 .2em;
 }
 
-@media (min-width: var(--responsive-large)) {
+@media (min-width: 600px) {
   .nav-links a {
     margin: 0 .5em;
   }
