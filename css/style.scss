@@ -23,7 +23,6 @@
   --page-width: 90vw;
   --max-page-width: 700px;
   --large-spacing: 2rem;
-  --responsive-large: 600px;
 }
 
 /* Dark Mode */
@@ -66,7 +65,7 @@ body {
 
 html {
   color: var(--body-color);
-  font: 110%/1.5 Georgia, serif;
+  font: 110%/1.6 Georgia, serif;
   background: var(--body-bg);
 }
 
