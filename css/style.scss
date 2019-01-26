@@ -136,10 +136,9 @@ ul, ol, dl {
 }
 
 blockquote {
-  background-color: var(--light-grey);
   border-left: 3px solid var(--grey);
-  margin: 0 0 1rem 0;
-  padding: .5rem .5rem .5rem 1rem;
+  margin: 0 0 1em 0;
+  padding: .5em .5em .5em 1em;
 }
 
 blockquote p:first-child {
@@ -172,7 +171,7 @@ header {
 }
 
 .nav-links {
-  margin-bottom: 1rem;
+  margin-bottom: 1em;
   text-transform: lowercase;
 }
 
