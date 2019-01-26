@@ -5,6 +5,7 @@ title: Two Safari Quibbles
 
 **Update:** Since I originally wrote this post, [Safari has gained favicon support](https://www.macrumors.com/2018/06/05/safari-12-favicons/). This change was enough to make me switch to Safari from Chrome.
 
+<hr>
 
 As a student, the flexibility of a PC is indispensable. And judging by the technology used by my peers, this is true of near *every* student. However, it is still true that the majority of my computing (maybe ~60%) happens in the web browser.
 
