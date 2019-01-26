@@ -10,7 +10,7 @@ Hey there! I'm Eric Chen.
 
 I'm from Wisconsin and am a senior at [Princeton University][pu] studying Operations Research and Financial Engineering. Prior to Princeton, I attended [The Lawrenceville School][ls]. Currently, I take interest in technology, finance, transportation, history of religion, podcasts, and cooking. Take a look at the [bookshelf][bookshelf] to see what I've been reading recently.
 
-You can find me on [Twitter][twitter], [LinkedIn][linkedin],[^1] and [Github][github]. If you like the site, check out the [Feeds][feeds] page to find ways to subscribe. My email is eric~at~ericjwdchen.org.
+You can find me on [Twitter][twitter], [LinkedIn][linkedin],[^1] and [Github][github]. If you like the site, check out the [Feeds][feeds] page to subscribe. My email is eric~at~this_domain.
 
 [pu]: http://www.princeton.edu/
 [ls]: http://www.lawrenceville.org/index.aspx
@@ -27,7 +27,7 @@ This site is built on [Jekyll][jekyll], forked originally from [Poole][poole], a
 
 Math equations are created using [MathJax][mj]. Syntax highlighting for code snippets is done with [highlight.js][h.js] using the Solarized Light theme.
 
-The site favicon is an homage to the brown [Zune 30][Zune 30], Microsoft's deeply flawed yet iconic iPod competitor and my favorite electronic device. Mine was white, but brown makes for a better logo.
+The site's favicon is an homage to the brown [Zune 30][Zune 30], Microsoft's deeply flawed yet iconic iPod competitor and my favorite electronic device. Mine was white, but brown makes for a better logo.
 
 [jekyll]: http://jekyllrb.com/
 [poole]: http://getpoole.com/
