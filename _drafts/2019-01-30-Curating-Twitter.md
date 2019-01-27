@@ -9,3 +9,8 @@ However, there are many more people I would like to follow. Some of these people
 
 In the past, I've just visited these people's Twitter page directly every week or so and skimmed for their most interesting content. While this keeps them out of my daily Twitter feed, I still need to sift through many tweets to find the most interesting ones. I decided to write a small Python script to show me someone's best tweets from the past week. This way, I can see collated results for multiple users all at once and not have to sift through their posts.
 
+
+
+run python script automatically
+generate a text file
+email that text file
