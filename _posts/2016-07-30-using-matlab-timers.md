@@ -1,13 +1,13 @@
 ---
 layout: post
-title: <code>Wait()</code> on MATLAB Timer Objects
+title: Wait() on MATLAB Timer Objects
 ---
 
 Unsurprisingly, MATLAB's [timer object][timer object] is great for scheduling code to run at specified time intervals.
 
 However, consider the following test case:
 
-```MATLAB
+```matlab
 function [] = timerTest
 
 % initialize a timer
@@ -37,7 +37,7 @@ But I wanted to process a matrix that the timer first had to populate, meaning t
 
 Turn out, it's just this simple:
 
-```MATLAB
+```matlab
 start(t)
 wait(t)
 ```
