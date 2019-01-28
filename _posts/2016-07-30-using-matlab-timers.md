@@ -7,7 +7,7 @@ Unsurprisingly, MATLAB's [timer object][timer object] is great for scheduling co
 
 However, consider the following test case:
 
-```Matlab
+```MATLAB
 function [] = timerTest
 
 % initialize a timer
@@ -37,7 +37,7 @@ But I wanted to process a matrix that the timer first had to populate, meaning t
 
 Turn out, it's just this simple:
 
-```
+```MATLAB
 start(t)
 wait(t)
 ```
