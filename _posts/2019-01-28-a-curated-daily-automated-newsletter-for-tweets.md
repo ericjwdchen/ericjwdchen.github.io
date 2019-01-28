@@ -27,4 +27,241 @@ I am using a couple of tools to get this job done:
 
 One key part of curation is how much to curate. First, I score all of their tweets from the past week using `score = (# of favorites) * (# of retweets)`, e.g. 5 favorites and 10 retweets gives a score of 50. Uing the past week of data, I calculate the cutoff score for the 90th percentile. Then, of the tweets that they had in the past day, if they are above the cutoff, I include them in the daily digest email. As a final step, I have a max absolute limit for tweets I will include.
 
-The code is below. Note, I have omitted parts of the code specific to my personal Twitter/Gmail accounts. You will need to replace those with strings for your specific accounts.
+The code is below. Note, I have omitted parts of the code specific to my personal Twitter/Gmail accounts. You will need to replace those with strings for your specific accounts. You can find all of these strings by searching for `REPLACE`.
+
+```python
+from dateutil.parser import parse
+from datetime import datetime, timezone, timedelta
+
+def send_email(user, pwd, recipient, subject, body):
+  """Sends email through Gmail based on arguments.
+
+  Based on:
+  https://docs.python.org/3.4/library/email-examples.html
+
+  Args:
+    user: A string for the Gmail address to send mail from, include @gmail.com.
+    pwd: A string for the Gmail account password corresponding to user.
+    recipient: A string or list of strings for email recipients.
+    subject: A string containing the email subject.
+    body: A string containing the email body in HTML.
+
+  Returns:
+    This function does not return any values.
+  """
+  import smtplib
+  from email.mime import multipart, text
+
+  # parse variables to use for email
+  FROM = user
+  TO = recipient if isinstance(recipient, list) else [recipient]
+  SUBJECT = subject
+  TEXT = body
+
+  # Create message container - the correct MIME type is multipart/alternative.
+  msg = multipart.MIMEMultipart('alternative')
+  msg['Subject'] = SUBJECT
+  msg['From'] = FROM
+  msg['To'] = ", ".join(TO)
+  msg.attach(text.MIMEText(TEXT, 'html'))  # Attach part into message container.
+
+  try:
+    server = smtplib.SMTP("smtp.gmail.com", 587)
+    server.ehlo()
+    server.starttls()
+    server.login(user, pwd)
+    server.sendmail(FROM, TO, msg.as_string())
+    server.close()
+    print('👍 successfully sent the mail')
+  except:
+    print("failed to send mail")
+
+
+def get_api():
+  """Generate instance of Twitter API using python-twitter.
+
+  Based on:
+  https://python-twitter.readthedocs.io/en/latest/getting_started.html
+
+  Returns:
+    This function returns an instance of the Twitter API that can be called.
+  """
+  import twitter
+
+  consumer_key = 'REPLACE-CONSUMER_KEY'
+  consumer_secret = 'REPLACE-SECRET'
+
+  access_token = 'REPLACE-ACCESS_TOKEN'
+  access_token_secret = 'REPLACE-TOKEN_SECRET'
+
+  return(twitter.Api(consumer_key=consumer_key,
+                     consumer_secret=consumer_secret,
+                     access_token_key=access_token,
+                     access_token_secret=access_token_secret,
+                     tweet_mode='extended',
+                     sleep_on_rate_limit=True))
+
+
+def get_tweets(api, screen_name, max_time_days=1):
+  """Get recent tweets from user in timeframe.
+
+  Based on:
+  https://github.com/bear/python-twitter/blob/master/examples/get_all_user_tweets.py
+  
+  Args:
+    api: An authenticated python-twitter API object.
+    screen_name: A string for the twitter user to get tweets from.
+    max_time_days: An integer for how many days of tweets to retrieve.
+
+  Returns:
+    A list of recent tweets from the user in the given timeframe.
+  """
+  fetch_size = 25
+  timeline = api.GetUserTimeline(screen_name=screen_name, count=fetch_size)
+  earliest_tweet = min(timeline, key=lambda x: x.id).id
+  earliest_tweet_date = parse(min(timeline, key=lambda x: x.created_at).created_at)
+  current_date = datetime.now(timezone.utc)
+  max_time_delta = timedelta(days=max_time_days)
+
+  while max_time_delta > current_date - earliest_tweet_date:
+    tweets = api.GetUserTimeline(screen_name=screen_name,
+                                 max_id=earliest_tweet - 1, count=fetch_size)
+    new_earliest = min(tweets, key=lambda x: x.id).id
+    earliest_tweet_date = parse(
+        min(tweets, key=lambda x: x.created_at).created_at)
+
+    if not tweets or new_earliest == earliest_tweet:
+      break
+    else:
+      earliest_tweet = new_earliest
+      timeline += tweets
+
+  timeline_filtered = [tweet for tweet in timeline if current_date -
+                        parse(tweet.created_at) < max_time_delta]
+  return timeline_filtered
+
+
+def score_tweet(tweet):
+  """Generate a significance score for a tweet
+  
+  Formula for scoring a tweet: (# favorites) * (# retweets)
+
+  Args:
+    tweet: A tweet to score.
+
+  Returns:
+    Integer for this tweet's score.
+  """
+  return((tweet.favorite_count) * (tweet.retweet_count))
+
+
+def curate_tweets(api=None, screen_name=None, curate_ratio=0.1, 
+                  digest_period_days=1, ranking_period_days=7, max_tweets=3):
+  import numpy as np
+
+  # establish a baseline for twitter engagement
+  historical_tweets = get_tweets(
+      api=api, screen_name=screen_name, max_time_days=ranking_period_days)
+  percentile_curate = (1 - curate_ratio) * 100
+  list_scores = [score_tweet(tweet) for tweet in historical_tweets]
+  cutoff_score = min(np.percentile(list_scores, percentile_curate), 1)
+
+  # filter the timeline
+  tweets_digest = get_tweets(
+      api=api, screen_name=screen_name, max_time_days=digest_period_days)
+  tweets_filter = [
+      tweet for tweet in tweets_digest if score_tweet(tweet) >= cutoff_score]
+  tweets_sort = sorted(tweets_filter, key=lambda x: score_tweet(
+      x), reverse=True)  # sort descending order
+  return(tweets_sort[:max_tweets])
+
+
+def clean_string(raw_string):
+  """Remove line breaks from a string
+
+  Args:
+    raw_string: A string to clean.
+
+  Returns:
+    A cleaned version of the string without line breaks.
+  """
+  return(
+      raw_string.
+      replace('\n', ' ').
+      replace('\r', '')
+  )
+
+
+def strings_to_html(list_strings):  
+  """Converts a list of strings to an unordered HTML list
+
+  Args:
+    list_strings: A list of strings to turn into an HTML list of those strings.
+
+  Returns:
+    An unordered HTML list of list_strings.
+  """
+  html = '<ul><li>' + '</li><li>'.join(list_strings) + '</li></ul>'
+  return(html)
+
+# convert a tweet to html text
+
+
+def tweet_to_html(tweet):
+  """Convert tweet object to string representation in HTML.
+
+  Args:
+    tweet: A tweet to convert to HTML.
+
+  Returns:
+    A string that is an HTML format for representing the tweet.
+  """  
+  tweet_text = clean_string(tweet.full_text)
+  tweet_url = 'https://twitter.com/i/web/status/' + tweet.id_str
+  return('%s (<a href="%s">→</a>)' % (tweet_text, tweet_url)) 
+
+
+def get_email_subject():
+  """Generate email subject based on current date.
+
+  Returns:
+    A string for the email subject.
+  """
+  string_curr_date = datetime.now(timezone.utc).strftime('%B %d, %Y')
+  return('Twitter digest for ' + string_curr_date)
+
+
+def tweets_to_html(tweets):
+  """Produce an html representation for a list of tweets.
+
+  Args:
+    tweets: A list of tweets to convert to HTML.
+
+  Returns:
+    A cleaned version of the string without line breaks.
+  """
+  if len(tweets) == 0:
+    return('')
+  else:
+    user = tweets[0].user
+    html = '<h3>%s (@%s)</h3>' % (user.name, user.screen_name)
+    list_html_tweets = [tweet_to_html(tweet) for tweet in tweets]
+    html += strings_to_html(list_html_tweets)
+    return(html)
+
+
+if __name__ == '__main__':
+  api = get_api()
+  list_screen_names = ['REPLACE-TWITTER_USER_NAME','REPLACE-TWITTER_USER_NAME']
+
+  body_text = ''
+  for screen_name in list_screen_names:
+    timeline_curate = curate_tweets(api=api, screen_name=screen_name)
+    body_text = ''.join([body_text, tweets_to_html(timeline_curate)])
+
+  send_email('REPLACE-SEND_FROM_USER@GMAIL.COM',
+             'REPLACE-PASSWORD',
+             'REPLACE-SEND_TO_USER@X.com',
+             get_email_subject(),
+             body_text)
+```
