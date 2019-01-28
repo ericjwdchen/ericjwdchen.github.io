@@ -7,7 +7,7 @@ Unsurprisingly, MATLAB's [timer object][timer object] is great for scheduling co
 
 However, consider the following test case:
 
-```
+```Matlab
 function [] = timerTest
 
 % initialize a timer
