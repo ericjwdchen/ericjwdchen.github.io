@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Curating Twitter
+title: An Automated Daily Newsletter of Tweets
 ---
 
 ## The Why
@@ -13,7 +13,7 @@ In the past, I've just visited these a few people's Twitter page directly every 
 
 ## The How
 
-I decided to write a Python script that emails me people's "best" tweets from the past day. This way, I can quickly and easily see the highlights from Twitter feeds that I am interested in without having to look through all of their posts.
+I decided to write a Python script that emails a daily newsletter of a  curated digest of people's "best" tweets. This way, I can quickly catch up on the highlights from lots of people's Twitter feeds.
 
 I am using a couple of tools to get this job done:
 
@@ -25,4 +25,4 @@ I am using a couple of tools to get this job done:
 
 One key part of curation is how much to curate. First, I score all of their tweets from the past week using `score = (# of favorites) * (# of retweets)`, e.g. 5 favorites and 10 retweets gives a score of 50. Uing the past week of data, I calculate the cutoff score for the 90th percentile. Then, of the tweets that they had in the past day, if they are above the cutoff, I include them in the daily digest email. As a final step, I have a max absolute limit for tweets I will include.
 
-The code is below, and I have omitted parts of the code specific to my personal Twitter/Gmail accounts.
+The code is below. Note, I have omitted parts of the code specific to my personal Twitter/Gmail accounts. You will need to replace those with strings for your specific accounts.
