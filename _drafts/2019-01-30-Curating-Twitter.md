@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Automated Daily Newsletter of Tweets
+title: A Curated, Daily, Automated Newsletter of Tweets
 ---
 
 ## The Why
@@ -13,7 +13,7 @@ In the past, I've just visited these a few people's Twitter page directly every 
 
 ## The How
 
-I decided to write a Python script that emails a daily newsletter of a  curated digest of people's "best" tweets. This way, I can quickly catch up on the highlights from lots of people's Twitter feeds.
+I decided to write a Python script that emails a daily newsletter of a curated digest of people's "best" tweets. This way, I can quickly catch up on the highlights from lots of people's Twitter feeds.
 
 I am using a couple of tools to get this job done:
 
