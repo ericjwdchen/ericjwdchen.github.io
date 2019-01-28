@@ -9,7 +9,7 @@ I decided to write a Python script that emails me a daily newsletter of a curate
 
 ## The Why
 
-I like to keep a high signal-to-noise ratio in my Twitter feed. I follow < 50 people, and I strongly prefer people that tweet relatively infrequently (< 10 tweets per day) and about things I find interesting almost all of the times.
+I like to keep a high signal-to-noise ratio in my Twitter feed. I follow < 50 people, and I strongly prefer people that tweet infrequently (< 5 tweets per day) and about things I find interesting almost every time.
 
 However, there are many more people I would like to follow. Some of these people either tweet too frequently or inconsistently about things that I find interesting. Now that Twitter has an algorithmic timeline, I wish you could specify what types of content you like to see, similar how the Youtube recommended videos work. But, they don't.
 
