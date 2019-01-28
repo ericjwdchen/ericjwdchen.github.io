@@ -198,8 +198,8 @@ footer {
 
 pre {
   display: block;
-  font-size: .9rem;
-  margin: 0 0 1rem 0;
+  font-size: .7em;
+  padding: 1rem 1rem 1rem 1rem;
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
@@ -207,7 +207,6 @@ pre {
 
 code,
 pre {
-  font-size: 0.7rem;
   font-family: Consolas, Monaco, monospace;
   width: 100%;
 }
