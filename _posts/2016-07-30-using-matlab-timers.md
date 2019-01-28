@@ -1,6 +1,6 @@
 ---
 layout: post
-title: `Wait()` on MATLAB Timer Objects
+title: Wait() on MATLAB Timer Objects
 ---
 
 Unsurprisingly, MATLAB's [timer object][timer object] is great for scheduling code to run at specified time intervals.
