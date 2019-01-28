@@ -198,11 +198,15 @@ footer {
 
 pre {
   display: block;
-  font-size: .7em;
+  font-size: .7rem;
   padding: 1rem 1rem 1rem 1rem;
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
+}
+
+code {
+  font-size: 0.9em;
 }
 
 code,
