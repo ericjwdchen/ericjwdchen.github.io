@@ -129,7 +129,7 @@ def score_tweet(tweet):
   Returns:
     Integer for this tweet's score.
   """
-  return(tweet.favorite_count * (tweet.retweet_count)
+  return(tweet.favorite_count * tweet.retweet_count)
 
 
 def curate_tweets(api, screen_name, curate_percentile=95, curate_days=1, 
