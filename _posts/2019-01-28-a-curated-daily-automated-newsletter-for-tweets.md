@@ -25,9 +25,9 @@ I am using a couple of tools to get this job done:
 
 - [Heroku](https://www.heroku.com): online environment for running the Python script remotely on a schedule
 
-One key part of curation is how much to curate. First, I score all of their tweets from the past week using `score = (# of favorites) * (# of retweets)`, e.g. 5 favorites and 10 retweets gives a score of 50. Uing the past week of data, I calculate the cutoff score for the 90th percentile. Then, of the tweets that they had in the past day, if they are above the cutoff, I include them in the daily digest email. As a final step, I have a max absolute limit for tweets I will include.
+One key part of curation is how much to curate. First, I score all of their tweets from the past week using `score = (# of favorites) * (# of retweets)`, e.g. 5 favorites and 10 retweets gives a score of 50. Uing the past week of data, I calculate the cutoff score for the 95th percentile. Then, of the tweets that they had in the past day, if they are above the cutoff, I include them in the daily digest email. As a final step, I have a max absolute limit for tweets I will include.
 
-The code is below. Note, I have omitted parts of the code specific to my personal Twitter/Gmail accounts. You will need to replace those with strings for your specific accounts. You can find all of these strings by searching for `REPLACE`.
+The code is below. Note, I have omitted parts of the code specific to my personal Twitter/Gmail accounts. You will need to replace those with strings for your specific accounts. You can find all of these strings by searching for `'REPLACE'`.
 
 ```python
 import twitter
