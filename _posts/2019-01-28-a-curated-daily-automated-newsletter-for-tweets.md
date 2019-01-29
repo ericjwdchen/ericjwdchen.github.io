@@ -30,6 +30,8 @@ One key part of curation is how much to curate. First, I score all of their twee
 The code is below. Note, I have omitted parts of the code specific to my personal Twitter/Gmail accounts. You will need to replace those with strings for your specific accounts. You can find all of these strings by searching for `REPLACE`.
 
 ```python
+import twitter
+import numpy as np
 from dateutil.parser import parse
 from datetime import datetime, timezone, timedelta
 
@@ -75,31 +77,6 @@ def send_email(user, pwd, recipient, subject, body):
     print('👍 successfully sent the mail')
   except:
     print("failed to send mail")
-
-
-def get_api():
-  """Generate instance of Twitter API using python-twitter.
-
-  Based on:
-  https://python-twitter.readthedocs.io/en/latest/getting_started.html
-
-  Returns:
-    This function returns an instance of the Twitter API that can be called.
-  """
-  import twitter
-
-  consumer_key = 'REPLACE-CONSUMER_KEY'
-  consumer_secret = 'REPLACE-SECRET'
-
-  access_token = 'REPLACE-ACCESS_TOKEN'
-  access_token_secret = 'REPLACE-TOKEN_SECRET'
-
-  return(twitter.Api(consumer_key=consumer_key,
-                     consumer_secret=consumer_secret,
-                     access_token_key=access_token,
-                     access_token_secret=access_token_secret,
-                     tweet_mode='extended',
-                     sleep_on_rate_limit=True))
 
 
 def get_tweets(api, screen_name, max_time_days=1):
@@ -152,28 +129,43 @@ def score_tweet(tweet):
   Returns:
     Integer for this tweet's score.
   """
-  return((tweet.favorite_count) * (tweet.retweet_count))
+  return(tweet.favorite_count * (tweet.retweet_count)
 
 
-def curate_tweets(api=None, screen_name=None, curate_ratio=0.1, 
-                  digest_period_days=1, ranking_period_days=7, max_tweets=3):
-  import numpy as np
+def curate_tweets(api, screen_name, curate_percentile=95, curate_days=1, 
+                  curate_max=3, baseline_days=7):
+  """Curate recent best tweets from a user.
 
+  Args:
+    api: A list of tweets to convert to HTML.
+    screen_name: A String of user whose timeline to curate from.
+    curate_percentile: Integer for percentile to use as cutoff for curating tweets. 
+      Only include tweets that score at or above the percentile.
+    curate_days: Integer for how many days to curate from.
+    curate_max: Integer for maximum number of tweets to return. If more tweets
+      reach the curate_percentile cutoff than curate_max, then include only the
+      highest scoring tweets.
+    baseline_days: Integer for how many days to form baseline score for this 
+      user's tweets. This baseline is used to calculate the cutoff score that
+      corresponds to curate_percentile.
+
+  Returns:
+    A list of curated Tweets for specified screen_name user. Sorted in 
+    descending order based on score.
+  """
   # establish a baseline for twitter engagement
-  historical_tweets = get_tweets(
-      api=api, screen_name=screen_name, max_time_days=ranking_period_days)
-  percentile_curate = (1 - curate_ratio) * 100
+  historical_tweets = get_tweets(api, screen_name, max_time_days=baseline_days)
   list_scores = [score_tweet(tweet) for tweet in historical_tweets]
-  cutoff_score = min(np.percentile(list_scores, percentile_curate), 1)
+  cutoff_score = min(np.percentile(list_scores, curate_percentile), 1)
 
   # filter the timeline
-  tweets_digest = get_tweets(
-      api=api, screen_name=screen_name, max_time_days=digest_period_days)
-  tweets_filter = [
-      tweet for tweet in tweets_digest if score_tweet(tweet) >= cutoff_score]
-  tweets_sort = sorted(tweets_filter, key=lambda x: score_tweet(
-      x), reverse=True)  # sort descending order
-  return(tweets_sort[:max_tweets])
+  tweets_digest = get_tweets(api, screen_name, max_time_days=curate_days)
+  tweets_filter = [tweet for tweet in tweets_digest
+                   if score_tweet(tweet) >= cutoff_score]
+  tweets_sort = sorted(tweets_filter,
+                       key=lambda x: score_tweet(x), reverse=True) 
+  # if there are more tweets than curate_max, return only the highest scoring
+  return(tweets_sort[:curate_max])
 
 
 def clean_string(raw_string):
@@ -204,8 +196,6 @@ def strings_to_html(list_strings):
   html = '<ul><li>' + '</li><li>'.join(list_strings) + '</li></ul>'
   return(html)
 
-# convert a tweet to html text
-
 
 def tweet_to_html(tweet):
   """Convert tweet object to string representation in HTML.
@@ -218,6 +208,7 @@ def tweet_to_html(tweet):
   """  
   tweet_text = clean_string(tweet.full_text)
   tweet_url = 'https://twitter.com/i/web/status/' + tweet.id_str
+  # '&ensp;' is a double space in html
   return('%s (<a href="%s">→</a>)' % (tweet_text, tweet_url)) 
 
 
@@ -249,19 +240,51 @@ def tweets_to_html(tweets):
     html += strings_to_html(list_html_tweets)
     return(html)
 
+def get_name(api, screen_name):
+  """Get the name associated with a Twitter screen_name.
 
-if __name__ == '__main__':
-  api = get_api()
-  list_screen_names = ['REPLACE-TWITTER_USER_NAME','REPLACE-TWITTER_USER_NAME']
+  Args:
+    api: An instance of authenticated Twitter API
+    screen_name: A string for twitter username to find name of
 
-  body_text = ''
+  Returns:
+    String which is the name for given Twitter screen_name.
+  """
+  user = api.GetUser(screen_name=screen_name)
+  return(user.name)
+
+
+def main():
+  # Twitter API authentication
+  CONSUMER_KEY = 'REPLACE'
+  CONSUMER_SECRET = 'REPLACE'
+  ACCESS_TOKEN = 'REPLACE'
+  ACCESS_TOKEN_SECRET = 'REPLACE'
+  api = twitter.Api(consumer_key=CONSUMER_KEY,
+                    consumer_secret=CONSUMER_SECRET,
+                    access_token_key=ACCESS_TOKEN,
+                    access_token_secret=ACCESS_TOKEN_SECRET,
+                    tweet_mode='extended',
+                    sleep_on_rate_limit=True)
+
+  # list of screen names to curate from, sort by Twitter name
+  list_screen_names = sorted([
+      'REPLACE',
+      'REPLACE',
+  ], key=lambda x: get_name(api, x).lower())
+
+  # send email
+  FROM_GMAIL = 'REPLACE'
+  GMAIL_PASSWORD = 'REPLACE'
+  TO_EMAIL = 'REPLACE'
+  subject = get_email_subject()
+  text = ''
   for screen_name in list_screen_names:
     timeline_curate = curate_tweets(api=api, screen_name=screen_name)
-    body_text = ''.join([body_text, tweets_to_html(timeline_curate)])
+    text = ''.join([text, tweets_to_html(timeline_curate)])
 
-  send_email('REPLACE-SEND_FROM_USER@GMAIL.COM',
-             'REPLACE-PASSWORD',
-             'REPLACE-SEND_TO_USER@X.com',
-             get_email_subject(),
-             body_text)
+  send_email(FROM_GMAIL, GMAIL_PASSWORD, TO_EMAIL, subject, text)
+
+if __name__ == '__main__':
+  main()
 ```
