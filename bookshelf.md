@@ -6,6 +6,16 @@ weight: 1
 
 One star books (<span class="primary-color">★</span>) are certainly worth reading if you have prior interest in the subject matter, and two star books (<span class="primary-color">★★</span>) are definitely worth reading regardless of prior interest. This list also includes books that I started, but never finished.
 
+Jump to a specific year:
+
+- [2016](#2016)
+
+- [2017](#2017)
+
+- [2018](#2018)
+
+- [2019](#2019)
+
 ## In Progress
 
 - **Tribe: On Homecoming and Belonging** by Sebastian Junger
