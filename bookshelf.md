@@ -10,11 +10,13 @@ One star books (<span class="primary-color">★</span>) are certainly worth read
 
 - **Tribe: On Homecoming and Belonging** by Sebastian Junger
 
-- **Into Thin Air** by Jon Krakauer
-
 - **Endurance: Shackleton's Incredible Voyage** by Alfred Lansing
 
 ## 2019
+
+- **Into Thin Air** by Jon Krakauer  <span class="primary-color">★★</span>
+
+   Like Jon Krakauer's other book *Into the Wild*, *Into Thin Air* is a compelling narrative, even if his account of the 1996 Everest expeditions is sometimes flawed (see *The Climb: Tragic Ambitions on Everest*). But Krakauer does a fantastic job of evoking the feeling of what it's like to climb Everest.
 
 - **K2: Life and Death on the World's Most Dangerous Mountain** by David Roberts and Ed Viesturs <span class="primary-color">★</span>
 
