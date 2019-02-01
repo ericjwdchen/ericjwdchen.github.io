@@ -4,7 +4,7 @@ title: Bookshelf
 weight: 1
 ---
 
-One star books (<span class="primary-color">★</span>) are certainly worth reading if you have prior interest in the subject matter, and two star books (<span class="primary-color">★★</span>) are definitely worth reading regardless of prior interest. This list also includes books that I started, but never finished.
+One star books (<span class="primary-color">★</span>) are certainly worth reading if you have prior interest in the subject matter, and two star books (<span class="primary-color">★★</span>) are definitely worth reading regardless of prior interest. This list includes a few books that I started, but never finished.
 
 Jump to a specific year:
 
