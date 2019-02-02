@@ -270,6 +270,16 @@ table {
   text-align: right;
 }
 
+// sticky top header on table
+thead {
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -ms-sticky;
+  position: -o-sticky;
+  position: sticky;
+  top: 0;
+}
+
 td,
 th {
   padding: .25rem .5rem;
@@ -277,6 +287,7 @@ th {
 
 th {
   border-bottom: 3px solid var(--grey);
+  position: sticky;
 }
 
 tr {

@@ -20,8 +20,8 @@ Below, are normalized scoring and PPG for all NBA Finals MVPs from 1990-2017. I 
 <div class="table-wrapper">
 <table>
 <tbody>
-<tr><th>Year</th><th>Player</th><th>Normalized Scoring</th><th>Points Per Game</th></tr>
- <tr><td>1990</td><td>Isiah Thomas (Detroit Pistons )</td><td>25.8%</td><td>27.6</td></tr>
+<thead><tr><th>Year</th><th>Player</th><th>Normalized Scoring</th><th>Points Per Game</th></tr></thead>
+ <tr><td>1990</td><td>Isiah Thomas (Detroit Pistons)</td><td>25.8%</td><td>27.6</td></tr>
  <tr><td>1991</td><td>Michael Jordan (Chicago Bulls)</td><td>30.8%</td><td>31.2</td></tr>
  <tr><td>1992</td><td>Michael Jordan (Chicago Bulls)</td><td>34.5%</td><td>35.8</td></tr>
  <tr><td>1993</td><td>Michael Jordan (Chicago Bulls)</td><td>38.4%</td><td>41.0</td></tr>
