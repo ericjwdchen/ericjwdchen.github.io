@@ -30,7 +30,7 @@ Jump to a specific year:
    >
    > Above the comforts of Base Camp, the expedition in fact became an almost Calvinistic undertaking... And in subjecting ourselves to week after week after week of toil, tedium, and suffering, it struck me that most of us were probably seeking, above all else, something like a state of grace.
 
-Like Jon Krakauer's other book that I've read *Into the Wild*, *Into Thin Air* is a compelling narrative, even if his account of the 1996 Everest expeditions is sometimes flawed (see *The Climb: Tragic Ambitions on Everest*). But Krakauer does a fantastic job of evoking the feeling of what it's like to climb Everest.
+   Like Jon Krakauer's other book that I've read *Into the Wild*, *Into Thin Air* is a compelling narrative, even if his account of the 1996 Everest expeditions is sometimes flawed (see *The Climb: Tragic Ambitions on Everest*). But Krakauer does a fantastic job of evoking the feeling of what it's like to climb Everest.
 
 - **K2: Life and Death on the World's Most Dangerous Mountain** by David Roberts and Ed Viesturs <span class="primary-color">★</span>
 
