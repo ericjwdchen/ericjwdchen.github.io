@@ -224,7 +224,7 @@ Book** by Bart D. Ehrman <span class="primary-color">★★</span>
 
   While I certainly don't agree with everything in this book, I thought it a worthwhile read. There are many more smart things than dumb things in this book.
 
-  > It is plain that the president of a university cannot transmit to the students his own values directly. his duties are so extensive that to conduct classes on a large scale is a practical impossibility. He must therefore utilize intermediaries, men of similar convictions, to do the job. This academic freedom forbids. It is therefore an appalling yet indisputable fact that because of the restraints of "academic freedom," the president of Yale has far less influence on the student body than have scores of influential professors who are allowed—in fact encouraged—to teach just as they will , to traffic, within loose limits, in whatever values they choose.
+  > It is plain that the president of a university cannot transmit to the students his own values directly. His duties are so extensive that to conduct classes on a large scale is a practical impossibility. He must therefore utilize intermediaries, men of similar convictions, to do the job. This academic freedom forbids. It is therefore an appalling yet indisputable fact that because of the restraints of "academic freedom," the president of Yale has far less influence on the student body than have scores of influential professors who are allowed—in fact encouraged—to teach just as they will , to traffic, within loose limits, in whatever values they choose.
   >
   > It is curious that the Corporation spends so much time and effort in selecting a president.
 
@@ -243,7 +243,5 @@ Book** by Bart D. Ehrman <span class="primary-color">★★</span>
 - **Flash Boys: A Wall Street Revolt** by Michael Lewis
 
   > They traded in the market the way card counters in a casino played blackjack: They played only when they had an edge.
-
-  As the saying goes, don't bring a knife to a gunfight. If you're an individual investor on Wall Street, the lesson from Michael Lewis's *Flash Boys* is that you have the knife, and the high frequency traders have the guns. It's a fools game—no different than roulette at the casino. The house knows the odds, and they're not in your favor.
 
   *Flash Boys*, if a little repetitive towards the end, was an enjoyable read written accessibly with solid characters and an easy to follow narrative.
