@@ -188,7 +188,7 @@ Book** by Bart D. Ehrman <span class="primary-color">★★</span>
 
    As a side benefit, Webb's disciplined discussion of the Fermi Paradox provides a framework that can be applied to many other common problems. We are often faced with problems with uncertain outcomes and equally uncertain probabilities. One choice we have is to throw up our hands and make decisions based on gut feeling. The other choice is to apply intuition and get *some* answer—which is certainly better than none at all. That's what Webb does in the book to great effect.
 
-   Note: I did not know this when I read the book, but Webb has released an updated version of the book that now includes 75 (up from 50) solutions to the Fermi Paradox. Bonus: If you have access to Springer Link (I have access through my college), you can [get a DRM-free PDF ](https://link.springer.com/book/10.1007%2F978-3-319-13236-5).
+   Note: I did not know this when I read the book, but Webb has released an updated version of the book that now includes 75 (up from 50) solutions to the Fermi Paradox. Bonus: If you have access to Springer Link (I have access through my college), you can [get a DRM-free PDF](https://link.springer.com/book/10.1007%2F978-3-319-13236-5).
 
 - **The Man Who Knew: The Life and Times of Alan Greenspan** by Sebastian Mallaby <span class="primary-color">★</span>
 
