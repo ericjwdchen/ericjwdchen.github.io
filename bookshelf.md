@@ -24,7 +24,7 @@ Jump to a specific year:
 
 ## 2019
 
-- **Into Thin Air** by Jon Krakauer  <span class="primary-color">★★</span>
+- **Into Thin Air** by Jon Krakauer  <span class="primary-color">★</span>
 
    > People who don't climb mountains—the great majority of humankind, that is to say—tend to assume that the sport is a reckless, Dionysian pursuit of ever escalating thrills. But the notion that climbers are merely adrenaline junkies chasing a righteous fix is a fallacy, at least in the case of Everest...
    >
@@ -34,8 +34,7 @@ Jump to a specific year:
 
 - **K2: Life and Death on the World's Most Dangerous Mountain** by David Roberts and Ed Viesturs <span class="primary-color">★</span>
 
-
-- **The Climb: Tragic Ambitions on Everest** by Anatoli Boukreev and G. Weston DeWalt <span class="primary-color">★</span>
+- **The Climb: Tragic Ambitions on Everest** by Anatoli Boukreev and G. Weston DeWalt
 
    This book gives you an unfiltered view of what it takes to lead a commercial expedition on Everest. Naturally, it lacks some of the narrative drama you find in other accounts.
 
@@ -47,7 +46,7 @@ Jump to a specific year:
 
 ## 2018
 
-- **Faith: A Journey For All** by Jimmy Carter <span class="primary-color">★</span>
+- **Faith: A Journey For All** by Jimmy Carter
 
 - **Why Religion?: A Personal Story** by Elaine Pagels <span class="primary-color">★★</span>
 
@@ -67,12 +66,11 @@ Jump to a specific year:
 
   What a fascinating perspective on Jesus the *man*. It's hard to separate historical fact from theology, but Reza Aslan takes a thorough approach with success. Christianity has shaped the Western world for two millennia, and it's important to understand its roots and the figure at its center.
 
-- **God: A Human History** by	Reza Aslan <span class="primary-color">★</span>
+- **God: A Human History** by Reza Aslan <span class="primary-color">★</span>
 
   I'm in the middle of a little kick of reading about religious history. Religion speaks volumes about human nature, and there's a lot for me to learn. In *God: A Human History* Reza Aslan proposes a cohesive interpretation of humanity's relationship with God, showing how from the beginning of religious thought, God in all its incarnations is in some sense *human*. I thought Aslan's narrative was at times simplistic, but always fascinating.
 
-- **The Triumph of Christianity: How a Forbidden Religion Swept the World
-Book** by Bart D. Ehrman <span class="primary-color">★★</span>
+- **The Triumph of Christianity: How a Forbidden Religion Swept the World Book** by Bart D. Ehrman <span class="primary-color">★★</span>
 
   I had little knowledge of the history of the early Christian church before reading this. But Bart Ehrman comes at the topic from a balanced historical view that explains the remarkable story of Christinaity's beginnings and growth as a religion in ancient Rome.
 
