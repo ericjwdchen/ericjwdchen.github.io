@@ -18,11 +18,16 @@ Jump to a specific year:
 
 ## In Progress
 
-- **Tribe: On Homecoming and Belonging** by Sebastian Junger
 
 - **Endurance: Shackleton's Incredible Voyage** by Alfred Lansing
 
 ## 2019
+
+- **Tribe: On Homecoming and Belonging** by Sebastian Junger <span class="primary-color">★</span>
+
+   > What would you risk dying for—and for whom—is perhaps the most profound question a person can ask themselves. The vast majority of people in modern society are ble to pass their whole lives without ever having to answer that question, which is both an enormous blessing and a significant loss.
+
+   Sebastian Junger's *Tribe* is concise and thought-provoking. It raises important questions about how we should organize ourselves in modern society.
 
 - **Into Thin Air** by Jon Krakauer  <span class="primary-color">★</span>
 
