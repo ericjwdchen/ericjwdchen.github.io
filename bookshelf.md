@@ -25,9 +25,9 @@ Jump to a specific year:
 
 - **Tribe: On Homecoming and Belonging** by Sebastian Junger <span class="primary-color">★</span>
 
-   > What would you risk dying for—and for whom—is perhaps the most profound question a person can ask themselves. The vast majority of people in modern society are ble to pass their whole lives without ever having to answer that question, which is both an enormous blessing and a significant loss.
+   > What would you risk dying for—and for whom—is perhaps the most profound question a person can ask themselves. The vast majority of people in modern society are able to pass their whole lives without ever having to answer that question, which is both an enormous blessing and a significant loss.
 
-   Sebastian Junger's *Tribe* is concise and thought-provoking. It raises important questions about how we should organize ourselves in modern society.
+   Sebastian Junger's *Tribe* is concise and thought-provoking. It raises important questions about how we should organize ourselves in modern society and what progress really looks like.
 
 - **Into Thin Air** by Jon Krakauer  <span class="primary-color">★</span>
 
