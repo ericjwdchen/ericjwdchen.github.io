@@ -18,7 +18,6 @@ Jump to a specific year:
 
 ## In Progress
 
-
 - **Endurance: Shackleton's Incredible Voyage** by Alfred Lansing
 
 ## 2019
