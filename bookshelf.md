@@ -22,7 +22,7 @@ Jump to a specific year:
 
 ## 2019
 
-- **Tribe: On Homecoming and Belonging** by Sebastian Junger <span class="primary-color">★</span>
+- **Tribe: On Homecoming and Belonging** by Sebastian Junger
 
    > What would you risk dying for—and for whom—is perhaps the most profound question a person can ask themselves. The vast majority of people in modern society are able to pass their whole lives without ever having to answer that question, which is both an enormous blessing and a significant loss.
 
