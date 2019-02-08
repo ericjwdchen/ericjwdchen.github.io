@@ -4,14 +4,33 @@ title: Character Counter
 weight: 0
 ---
 
-<p id="total">Characters: 0</p>
+<p id="total chars">Characters: 0</p>
 
-<textarea id="character count" rows="12" name="charcount" cols="60" wrap="virtual"  onkeyup="count();" placeholder="Enter Some Text"></textarea>
+<p id="total words">Words: 0</p>
+
+<textarea id="character count" rows="12" name="charcount" cols="60" wrap="virtual" onkeyup="count();" placeholder="Enter Some Text"></textarea>
 
 <script language="JavaScript">
   function count() {
-    var total = document.getElementById("character count").value;
-    //total = total.replace(/\s/g, '');
-    document.getElementById("total").innerHTML="Characters: " + total.length;
+    var input = document.getElementById("character count").value;
+    var num_characters = countCharacters(input);
+    var num_words = countWords(input);
+    //input = input.replace(/\s/g, '');
+    document.getElementById("total chars").innerHTML="Characters: " + num_characters;
+    document.getElementById("total words").innerHTML="Characters: " + num_words;
   }
+
+  function countWords(s){
+    s = s.replace(/(\r\n)+|\r+|\n+|\t+/i, " ")
+    s = s.replace(/(^\s*)|(\s*$)/gi,"");//exclude  start and end white-space
+    s = s.replace(/[ ]{2,}/gi," ");//2 or more space to 1
+    //s = s.replace(/\n /,"\n"); // exclude newline with a start spacing
+    return s.split(' ').filter(function(str){return str!="";}).length;
+    //return s.split(' ').filter(String).length; - this can also be used
+  }
+
+  function countCharacters(s){
+    return s.length
+  }
+
 </script>
