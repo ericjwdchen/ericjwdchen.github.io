@@ -6,50 +6,19 @@ weight: 0
 
 <p>This is a character counter.</p>
 
-<textarea id="character count" rows="12" name="charcount" cols="60" wrap="virtual" onkeyup="count();" placeholder="Enter Some Text"></textarea>
+<textarea id="character count" rows="12" name="charcount" cols="60" wrap="virtual" onkeydown="count();" placeholder="Enter Some Text"></textarea>
 
 <p id="total">Total Characters:0</p>
 
-<form method="POST">
+<script language="JavaScript">
 
-  <table border="0" cellspacing="0" cellpadding="0">
-      <tr>
-        <td width="100%">
-  <textarea rows="12" name="charcount" cols="60" wrap="virtual" onkeyup="count();"></textarea>
-        </td>
-      </tr>
-      <tr>
-        <td width="100%"><div align="right"><p><input type="button" value="Calculate Characters"
-        onClick="countit(this)"> <input type="text" name="displaycount" size="20"></p>
-        <div align="center"><center><p>This free script provided by
-        <a href="http://javascriptkit.com">JavaScript
-        Kit</a></p>
-        </center></div></div></td>
-      </tr>
-    </table>
-  
-  </form>
-  
-  <script language="JavaScript">
-  
-  function countit(what){
-  
-    //Character count script- by javascriptkit.com
-    //Visit JavaScript Kit (http://javascriptkit.com) for script
-    //Credit must stay intact for use
-  
-    formcontent=what.form.charcount.value
-    what.form.displaycount.value=formcontent.length
-  }
+function count()
+{
+  var total=document.getElementById("character count").value;
+  total=total.replace(/\s/g, '');
+  document.getElementById("total").innerHTML="Total Characters:"+total.length;
+}
 
-
-  function count()
-  {
-    var total=document.getElementById("character count").value;
-    total=total.replace(/\s/g, '');
-    document.getElementById("total").innerHTML="Total Characters:"+total.length;
-  }
-
-  </script>
+</script>
 
 
