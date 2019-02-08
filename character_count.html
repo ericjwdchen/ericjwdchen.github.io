@@ -1,23 +1,20 @@
 ---
 layout: page
-title: Archive
+title: Character Counter
 weight: 0
 ---
 
-<p>This is a character counter.</p>
-
-<textarea id="character count" rows="12" name="charcount" cols="60" wrap="virtual" onkeydown="count();"  onkeypress="count();"  onkeyup="count();" placeholder="Enter Some Text"></textarea>
+<textarea id="character count" rows="12" name="charcount" cols="60" wrap="virtual"  onkeypress="count();" placeholder="Enter Some Text"></textarea>
 
 <p id="total">Total Characters:0</p>
 
 <script language="JavaScript">
 
-function count()
-{
-  var total=document.getElementById("character count").value;
-  total=total.replace(/\s/g, '');
-  document.getElementById("total").innerHTML="Total Characters:"+total.length;
-}
+  function count() {
+    var total=document.getElementById("character count").value;
+    total=total.replace(/\s/g, '');
+    document.getElementById("total").innerHTML="Total Characters:"+total.length;
+  }
 
 </script>
 
