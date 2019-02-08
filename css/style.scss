@@ -107,25 +107,25 @@ h6 {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 2em;
 }
 
 h2 {
-  font-size: 1.75rem;
+  font-size: 1.75em;
 }
 
 h3 {
-  font-size: 1.3rem;
+  font-size: 1.3em;
 }
 
 h4 {
-  font-size: 1.3rem;
+  font-size: 1.3em;
   font-style: italic;
 }
 
 h5,
 h6 {
-  font-size: 1rem;
+  font-size: 1em;
 }
 
 p {
@@ -133,15 +133,14 @@ p {
 }
 
 ul, ol, dl {
-  margin: 1rem auto;
+  margin: 1em auto;
 }
 
 blockquote {
-  font-size: 0.9rem;
-  line-height: 0.9;
+  font-size: 0.9em;
   border-left: 3px solid var(--grey);
   margin: 0 0 1em 0;
-  padding: .5em .5em .5em 1em;
+  padding: .25em 0 .25em 1.5em;
 }
 
 blockquote p:first-child {
@@ -155,9 +154,9 @@ blockquote p:last-child {
 hr {
   border: none;
   color: var(--grey);
-  font-size: 1.5rem;
-  line-height: 1rem;
-  margin-bottom: 1rem;
+  font-size: 1.5em;
+  line-height: 1em;
+  margin-bottom: 1em;
   text-align: center;
 }
 
@@ -201,8 +200,8 @@ footer {
 
 pre {
   display: block;
-  font-size: .8rem;
-  padding: 1rem 1rem 1rem 1rem;
+  font-size: .8em;
+  padding: 1em 1em 1em 1em;
   white-space: pre-wrap;
   word-break: break-all;
   word-wrap: break-word;
@@ -220,15 +219,15 @@ pre {
 
 img {
   display: block;
-  margin: auto auto 1rem auto;
-  max-height: 30rem;
+  margin: auto auto 1em auto;
+  max-height: 30em;
   max-width: 100%;
   border: 1px solid var(--grey);
 }
 
 img + em {
   display: block;
-  font-size: .8rem;
+  font-size: .8em;
   text-align: center;
   // because img tag has no margins, need to add margin because no <p> wrap
   margin: 1em 0;
@@ -266,7 +265,7 @@ img + em {
 table {
   border: none;
   border-collapse: collapse;
-  margin-bottom: 1rem;
+  margin-bottom: 1em;
   margin-left: auto;
   margin-right: auto;
   min-width: 70%;
@@ -275,7 +274,7 @@ table {
 
 td,
 th {
-  padding: .25rem .5rem;
+  padding: .25em .5em;
 }
 
 th {
