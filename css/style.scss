@@ -103,6 +103,7 @@ h6 {
   font-weight: normal;
   line-height: 1.2;
   margin: 1em 0 .8rem 0; // .8rem for baseline adjustment
+  hyphens: none;
 }
 
 h1 {
@@ -136,6 +137,8 @@ ul, ol, dl {
 }
 
 blockquote {
+  font-size: 0.9rem;
+  line-height: 0.9;
   border-left: 3px solid var(--grey);
   margin: 0 0 1em 0;
   padding: .5em .5em .5em 1em;
