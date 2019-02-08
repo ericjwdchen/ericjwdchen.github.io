@@ -17,12 +17,12 @@ weight: 0
     var num_words = countWords(input);
     //input = input.replace(/\s/g, '');
     document.getElementById("total chars").innerHTML="Characters: " + num_characters;
-    document.getElementById("total words").innerHTML="Characters: " + num_words;
+    document.getElementById("total words").innerHTML="Words: " + num_words;
   }
 
   function countWords(s){
     s = s.replace(/(\r\n)+|\r+|\n+|\t+/i, " ")
-    s = s.replace(/(^\s*)|(\s*$)/gi,"");//exclude  start and end white-space
+    // s = s.replace(/(^\s*)|(\s*$)/gi,"");//exclude  start and end white-space
     s = s.replace(/[ ]{2,}/gi," ");//2 or more space to 1
     //s = s.replace(/\n /,"\n"); // exclude newline with a start spacing
     return s.split(' ').filter(function(str){return str!="";}).length;
