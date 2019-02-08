@@ -65,13 +65,13 @@ body {
 
 html {
   color: var(--body-color);
-  font: 110%/1.6 Georgia, serif;
+  font: 110%/1.6 Palatino, Georgia, serif;
   background: var(--body-bg);
 }
 
 @media (min-width: 600px) {
   html {
-    font-size: 120%;
+    font-size: 125%;
   }
 }
 
@@ -137,7 +137,7 @@ ul, ol, dl {
 }
 
 blockquote {
-  font-size: 0.9em;
+  font-size: 0.95em;
   border-left: 3px solid var(--grey);
   margin: 0 0 1em 0;
   padding: .25em 0 .25em 1.5em;
