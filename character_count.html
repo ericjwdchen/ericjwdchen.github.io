@@ -13,11 +13,8 @@ weight: 0
 <script language="JavaScript">
   function count() {
     var input = document.getElementById("character count").value;
-    var num_characters = countCharacters(input);
-    var num_words = countWords(input);
-    //input = input.replace(/\s/g, '');
-    document.getElementById("total chars").innerHTML="Characters: " + num_characters;
-    document.getElementById("total words").innerHTML="Words: " + num_words;
+    document.getElementById("total chars").innerHTML="Characters: " + countCharacters(input);
+    document.getElementById("total words").innerHTML="Words: " + countWords(input);
   }
 
   function countWords(s){
