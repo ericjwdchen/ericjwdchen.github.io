@@ -4,18 +4,14 @@ title: Character Counter
 weight: 0
 ---
 
+<p id="total">Characters: 0</p>
+
 <textarea id="character count" rows="12" name="charcount" cols="60" wrap="virtual"  onkeypress="count();" placeholder="Enter Some Text"></textarea>
 
-<p id="total">Total Characters:0</p>
-
 <script language="JavaScript">
-
   function count() {
     var total=document.getElementById("character count").value;
     total=total.replace(/\s/g, '');
-    document.getElementById("total").innerHTML="Total Characters:"+total.length;
+    document.getElementById("total").innerHTML="Characters: " + total.length;
   }
-
 </script>
-
-
