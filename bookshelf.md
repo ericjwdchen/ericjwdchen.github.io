@@ -20,6 +20,10 @@ Jump to a specific year:
 
 - **Endurance: Shackleton's Incredible Voyage** by Alfred Lansing
 
+- **The Mezzanine** by Nicholson Baker
+
+- **Wall Street: A History, Updated Edition** by Charles R. Geisst
+
 ## 2019
 
 - **Tribe: On Homecoming and Belonging** by Sebastian Junger
