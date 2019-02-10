@@ -18,13 +18,17 @@ Jump to a specific year:
 
 ## In Progress
 
-- **Endurance: Shackleton's Incredible Voyage** by Alfred Lansing
-
 - **The Mezzanine** by Nicholson Baker
 
 - **Wall Street: A History, Updated Edition** by Charles R. Geisst
 
 ## 2019
+
+- **Endurance: Shackleton's Incredible Voyage** by Alfred Lansing <span class="primary-color">★</span>
+
+   > "It is hard to realize one's position here," Macklin wrote, "living in a smoky, dirty, ramshackle little hut with only just sufficient room to cram us all in: drinking out of a common pot... and laying in close proximity to a man with a large discharging abscess—a horrible existence, but yet we are pretty happy...."
+
+   Wow. *Endurance* is a stunning survival story. The story of Shackleton and his crew remind me of themes from *Tribe: On Homecoming and Belonging*, which I just finished.
 
 - **Tribe: On Homecoming and Belonging** by Sebastian Junger
 
