@@ -23,20 +23,22 @@ You can find me on [Twitter][twitter], [LinkedIn][linkedin],[^1] and [Github][gi
 
 ## How the Sausage is Made
 
-This site is built on [Jekyll][jekyll], forked originally from [Poole][poole], and generously hosted on [GitHub Pages][gp]. All posts are composed in the [Visual Studio Code][vscode] text editor. The repository for the website is [here][repo].
+This site is built on [Jekyll][jekyll], originally forked from [Poole][poole], and generously hosted on [GitHub Pages][gp]. The Git repository for the website lives [here][repo].
 
-Math equations are created using [MathJax][mj]. Syntax highlighting for code snippets is done with [highlight.js][h.js] using the Solarized Light theme.
+All posts are composed in [Visual Studio Code][vscode], my text editor of choice.
 
-The site's favicon is an homage to the brown [Zune 30][Zune 30], Microsoft's deeply flawed yet iconic iPod competitor and my favorite electronic device. Mine was white, but brown makes for a better logo.
+Math equations are created using [MathJax][mj].
+
+The site's favicon is an homage to the brown [Zune 30][Zune 30], Microsoft's deeply flawed yet iconic iPod competitor, and my favorite electronic device. Mine was white, but the brown makes for a unique logo.
 
 [jekyll]: http://jekyllrb.com/
 [poole]: http://getpoole.com/
 [gp]: https://pages.github.com/
-[vscode]: https://code.visualstudio.com/
 [repo]: https://github.com/ericjwdchen/ericjwdchen.github.io
 
+[vscode]: https://code.visualstudio.com/
+
 [mj]: https://www.mathjax.org/
-[h.js]: https://highlightjs.org/
 
 [Zune 30]: http://en.wikipedia.org/wiki/Zune_30
 
