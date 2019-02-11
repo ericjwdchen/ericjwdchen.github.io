@@ -29,7 +29,7 @@ All posts are composed in [Visual Studio Code][vscode], my text editor of choice
 
 Math equations are created using [MathJax][mj].
 
-The site's favicon is an homage to the brown [Zune 30][Zune 30], Microsoft's deeply flawed yet iconic iPod competitor, and my favorite electronic device. Mine was white, but the brown makes for a unique logo.
+The site's favicon is an homage to the brown [Zune 30][Zune 30], Microsoft's deeply flawed yet iconic iPod competitor, and my favorite electronic device. Mine was white, but brown makes a better logo.
 
 [jekyll]: http://jekyllrb.com/
 [poole]: http://getpoole.com/
