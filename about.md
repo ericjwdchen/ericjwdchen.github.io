@@ -4,21 +4,20 @@ title: About
 weight: 1
 ---
 
-Hey there! I'm Eric Chen.
-
 ![Eric Chen headshot](/assets/2015/01/eric-chen.jpg){: .img-right .img-circular}
 
-I'm from Wisconsin and am a senior at [Princeton University][pu] studying Operations Research and Financial Engineering. Prior to Princeton, I attended [The Lawrenceville School][ls]. Currently, I take interest in technology, finance, transportation, history of religion, podcasts, and cooking. Take a look at the [bookshelf][bookshelf] to see what I've been reading recently.
+Hey there! I'm Eric Chen.
 
-You can find me on [Twitter][twitter], [LinkedIn][linkedin],[^1] and [Github][github]. If you like the site, check out the [Feeds][feeds] page to subscribe. My email is eric~at~this_domain.
+I'm from Wisconsin and am a senior at [Princeton University][pu] studying Operations Research and Financial Engineering. Prior to Princeton, I attended [The Lawrenceville School][ls]. Currently, I take interest in technology, finance, transportation, history of religion, podcasts, and cooking. Take a look at the [bookshelf][bookshelf] to see what I've been reading recently. You can find me on [Twitter][twitter] and [LinkedIn][linkedin].[^1] My email is eric~at~this_domain.
+
+If you like the site, check out the [Feeds][feeds] page to subscribe. 
 
 [pu]: http://www.princeton.edu/
 [ls]: http://www.lawrenceville.org/index.aspx
 [bookshelf]: http://ericjwdchen.org/bookshelf/
-
 [twitter]: https://twitter.com/ericjwdchen
 [linkedin]: https://www.linkedin.com/in/ericjwdchen
-[github]: https://github.com/ericjwdchen
+
 [feeds]: http://ericjwdchen.org/feeds/
 
 ## How the Sausage is Made
