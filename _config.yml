@@ -16,6 +16,8 @@ author:
   url:            https://twitter.com/ericjwdchen_org
   email:          eric@ericjwdchen.org
 
-
 sass:
   style: :compressed
+
+plugins:
+  - jekyll-seo-tag
