@@ -10,7 +10,7 @@ title:            Eric Chen
 url:              //ericjwdchen.org
 paginate:         5
 baseurl:
-header:           "http:"
+header:           "https:"
 author:
   name:           Eric Chen
   url:            https://twitter.com/ericjwdchen_org
