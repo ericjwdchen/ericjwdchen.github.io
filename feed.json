@@ -20,7 +20,7 @@ sitemap:
         "id": "{{ post.id }}",
         "title": {{ post.title | smartify | jsonify }},
         "content_html": {{ post.content | jsonify }},
-        "url": "{{ site.url }}{{ post.url }}",
+        "url": "{{ site.header }}{{ site.url }}{{ post.url }}",
         "summary": {{ post.excerpt | smartify | jsonify }},
         "date_published": "{{ post.date }}"
         "author": "{{ post.author }}"
