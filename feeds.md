@@ -4,8 +4,8 @@ title: Feeds
 weight: 2
 ---
 
-RSS feed: [http://ericjwdchen.org/rss.xml](http://ericjwdchen.org/rss.xml)
+RSS feed: [https://ericjwdchen.org/rss.xml](https://ericjwdchen.org/rss.xml)
 
-JSON feed: [http://ericjwdchen.org/feed.json](http://ericjwdchen.org/feed.json)
+JSON feed: [https://ericjwdchen.org/feed.json](https://ericjwdchen.org/feed.json)
 
 Twitter feed: [https://twitter.com/ericjwdchen_org](https://twitter.com/ericjwdchen_org)
