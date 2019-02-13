@@ -7,11 +7,10 @@ sitemap:
 {
   "version": "https://jsonfeed.org/version/1",
   "title": {{ site.title | smartify | jsonify }},
-  {% if site.description %}"description": {{ site.description | smartify | jsonify }},{% endif %}
   "home_page_url": "{{ site.url }}",
   "feed_url": "{{ site.url }}/feed.json",
+  {% if site.description %}"description": {{ site.description | smartify | jsonify }},{% endif %}
   "icon": "{{ site.url }}/assets/icons/android-chrome-256x256.png",
-  "favicon": "{{ site.url }}/assets/icons/favicon-16x16.png",
   "expired": false,
   "items":
   [
