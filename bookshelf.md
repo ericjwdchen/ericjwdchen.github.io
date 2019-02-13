@@ -4,7 +4,7 @@ title: Bookshelf
 weight: 1
 ---
 
-This page is inspired by [Patrick Collison's bookshelf](https://patrickcollison.com/bookshelf). One star books (<span class="primary-color">★</span>) are good (i.e. worth the read you have prior interest), and two star books (<span class="primary-color">★★</span>) are great (i.e. worth the read regardless of prior interest). This list includes some books that I started, but never finished.
+This page is inspired by [Patrick Collison's bookshelf](https://patrickcollison.com/bookshelf). One star books (<span class="primary-color">★</span>) are good and worth the read you have prior interest. Two star books (<span class="primary-color">★★</span>) are great and, for the large part, worth the read regardless of prior interest. This list includes some books that I started, but never finished.
 
 Jump to a specific year:
 
