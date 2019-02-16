@@ -8,9 +8,9 @@ weight: 1
 
 Hey there! I'm Eric Chen.
 
-I'm from Wisconsin and am a senior at [Princeton University][pu] studying Operations Research and Financial Engineering. Prior to Princeton, I attended [The Lawrenceville School][ls]. Currently, I take interest in technology, finance, transportation, history of religion, podcasts, and cooking. Take a look at the [bookshelf][bookshelf] to see what I've been reading recently. You can find me on [Twitter][twitter] and [LinkedIn][linkedin].[^1] My email is eric~at~this_domain.
+I'm from Wisconsin and am a senior at [Princeton University][pu] studying Operations Research and Financial Engineering. Prior to Princeton, I attended [The Lawrenceville School][ls]. Currently, I take interest in technology, finance, transportation, history of religion, podcasts, and cooking. Take a look at the [bookshelf][bookshelf] to see what I've been reading recently. Find me on [Twitter][twitter] and [LinkedIn][linkedin].[^1] My email is eric~at~this_domain.
 
-If you like the site, check out the [Feeds][feeds] page to subscribe. 
+If you like the site, check out the [Feeds][feeds] page to subscribe.
 
 [pu]: http://www.princeton.edu/
 [ls]: http://www.lawrenceville.org/index.aspx
@@ -24,9 +24,9 @@ If you like the site, check out the [Feeds][feeds] page to subscribe.
 
 This site is built on [Jekyll][jekyll], originally forked from [Poole][poole], and generously hosted on [GitHub Pages][gp].[^2] The Git repository for the website lives [here][repo].
 
-All posts are composed in [Visual Studio Code][vscode], my text editor of choice.
+I write all posts in [Visual Studio Code][vscode], my text editor of choice.
 
-Math equations are created using [MathJax][mj].
+Math equations are  using [MathJax][mj].
 
 The site's favicon is an homage to the brown [Zune 30][Zune 30], Microsoft's deeply flawed yet iconic iPod competitor, and my favorite electronic device. Mine was white, but brown makes a better logo.
 
