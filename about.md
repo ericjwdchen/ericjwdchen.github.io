@@ -26,7 +26,7 @@ This site is built on [Jekyll][jekyll], originally forked from [Poole][poole], a
 
 I write all posts in [Visual Studio Code][vscode], my text editor of choice.
 
-Math equations are  using [MathJax][mj].
+Math equations are formatted with [MathJax][mj].
 
 The site's favicon is an homage to the brown [Zune 30][Zune 30], Microsoft's deeply flawed yet iconic iPod competitor, and my favorite electronic device. Mine was white, but brown makes a better logo.
 
