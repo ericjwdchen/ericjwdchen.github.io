@@ -170,11 +170,11 @@ hr:after {
 
 header {
   font-size: 1.2rem;
-  margin: auto;
+  margin: var(--large-spacing);
+  text-align: center;
 }
 
 .nav-links {
-  margin-bottom: 1em;
   text-transform: lowercase;
 }
 
