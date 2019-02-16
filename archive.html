@@ -11,18 +11,21 @@ weight: 1
   {% if forloop.first %}
   <h2>{{ this_year }}</h2>
 
-  <ul>
+  
   {% endif %}
 
-  <li><p><a href="{{ post.url }}">{{ post.title }}</a><span class="archive-date grey smaller">{{ post.date | date: "%B %-d, %Y" }}</span></p></li>
+  <p>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <span class="archive-date grey smaller">{{ post.date | date: "%B %-d, %Y" }}</span>
+  </p>
 
   {% if forloop.last %}
-  </ul>
+  
   {% else %}
     {% if this_year != next_year %}
-    </ul></ul>
+    
     <h2>{{ next_year }}</h2>
-    <ul>
+    
     {% else %}
     {% endif %}
   {% endif %}
