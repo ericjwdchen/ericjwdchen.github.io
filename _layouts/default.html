@@ -5,7 +5,7 @@
   <body>
     <header class="text-center divider">
       <nav>
-        <div><a href="{{ site.url }}" title="Home">{{ site.title }}</a></div>
+        <h1><a href="{{ site.url }}" title="Home">{{ site.title }}</a></h1>
         <div class="nav-links">
           {% for weight in (1..10) %} {% for p in site.pages %} {% if p.weight == weight %}
           <a href="{{ p.url }}"> {{ p.title }}</a>
