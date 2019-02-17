@@ -26,7 +26,7 @@ Jump to a specific year:
 
    > Similarly, there are often unexpected plusses to some minor new development. What sugar-packet manufacturer could have known that people would take to flapping the packet back and forth to centrifuge its contents to the bottom, so that they could handily tear off the top?... An unpretentious technical invention—the straw, the sugar packet, the pencil, the windshield wiper—has been ornamented by a mute folklore of behavioral inventions, unregistered, unpatented, adopted and fine-tuned without comment or thought.
 
-   I'm split on *The Mezzanine*. I enjoyed the focus and introspection it brought every part of modern society. I would say the novel is similar to *Curb Your Enthusiasm* in the way it reveals truths and oddities about small and hidden parts of our lives. But, the stream of consciousness narrative device made it hard for me to keep the pages turning. It's a book that I appreciate, not love.
+   I'm split on *The Mezzanine*. I enjoyed the focus and introspection it brought every part of modern society. I would say the novel is similar to *Curb Your Enthusiasm*, which I adore, in the way it reveals truths and oddities about small and hidden parts of our lives. But, the stream of consciousness narrative device made it hard for me to keep the pages turning. It's a book that I appreciate, not love.
 
 - **Endurance: Shackleton's Incredible Voyage** by Alfred Lansing <span class="primary-color">★</span>
 
