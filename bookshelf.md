@@ -18,7 +18,6 @@ Jump to a specific year:
 
 ## In Progress
 
-
 - **Wall Street: A History, Updated Edition** by Charles R. Geisst
 
 ## 2019
