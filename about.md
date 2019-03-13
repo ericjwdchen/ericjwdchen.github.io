@@ -8,11 +8,12 @@ weight: 1
 
 Hey there! I'm Eric Chen.
 
-I'm from Wisconsin and am a senior at Princeton University studying Operations Research and Financial Engineering. Prior to Princeton, I attended The Lawrenceville School. Currently, I take interest in technology, finance, transportation, history of religion, podcasts, and cooking. Take a look at the [bookshelf][bookshelf] to see what I've been reading recently.
+I'm from Wisconsin and am a senior at [Princeton University][pu] studying Operations Research and Financial Engineering. Prior to Princeton, I attended [The Lawrenceville School][lv]. Currently, I take interest in technology, finance, transportation, history of religion, podcasts, and cooking. Take a look at the [bookshelf][bookshelf] to see what I've been reading recently.
 
 If you like the site, subscribe on the [Feeds][feeds] page. Find me on [Twitter][twitter] and [LinkedIn][linkedin].[^1] My email is eric~at~this_domain.
 
 [pu]: https://www.princeton.edu
+
 [lv]: https://www.lawrenceville.org
 
 [bookshelf]: http://ericjwdchen.org/bookshelf
