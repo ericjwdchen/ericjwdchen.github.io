@@ -12,7 +12,7 @@ I'm from Wisconsin and am a senior at Princeton University studying Operations R
 
 If you like the site, subscribe on the [Feeds][feeds] page. Find me on [Twitter][twitter] and [LinkedIn][linkedin].[^1] My email is eric~at~this_domain.
 
-[bookshelf]: http://ericjwdchen.org/bookshelf/
+[bookshelf]: http://ericjwdchen.org/bookshelf
 [twitter]: https://twitter.com/ericjwdchen
 [linkedin]: https://www.linkedin.com/in/ericjwdchen
 
@@ -28,14 +28,14 @@ Math equations are formatted with [MathJax][mj].
 
 The site's favicon is an homage to the brown [Zune 30][Zune 30], Microsoft's deeply flawed yet iconic iPod competitor, and my favorite electronic device. Mine was white, but brown makes a better logo.
 
-[jekyll]: https://jekyllrb.com/
-[poole]: http://getpoole.com/
-[gp]: https://pages.github.com/
+[jekyll]: https://jekyllrb.com
+[poole]: http://getpoole.com
+[gp]: https://pages.github.com
 [repo]: https://github.com/ericjwdchen/ericjwdchen.github.io
 
-[vscode]: https://code.visualstudio.com/
+[vscode]: https://code.visualstudio.com
 
-[mj]: https://www.mathjax.org/
+[mj]: https://www.mathjax.org
 
 [Zune 30]: https://en.wikipedia.org/wiki/Zune_30
 
