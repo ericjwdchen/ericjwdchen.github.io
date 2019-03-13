@@ -12,6 +12,9 @@ I'm from Wisconsin and am a senior at Princeton University studying Operations R
 
 If you like the site, subscribe on the [Feeds][feeds] page. Find me on [Twitter][twitter] and [LinkedIn][linkedin].[^1] My email is eric~at~this_domain.
 
+[pu]: https://www.princeton.edu
+[lv]: https://www.lawrenceville.org
+
 [bookshelf]: http://ericjwdchen.org/bookshelf
 [twitter]: https://twitter.com/ericjwdchen
 [linkedin]: https://www.linkedin.com/in/ericjwdchen
