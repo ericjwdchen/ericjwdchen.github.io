@@ -8,21 +8,19 @@ weight: 1
 
 Hey there! I'm Eric Chen.
 
-I'm from Wisconsin and am a senior at [Princeton University][pu] studying Operations Research and Financial Engineering. Prior to Princeton, I attended [The Lawrenceville School][ls]. Currently, I take interest in technology, finance, transportation, history of religion, podcasts, and cooking. Take a look at the [bookshelf][bookshelf] to see what I've been reading recently. Find me on [Twitter][twitter] and [LinkedIn][linkedin].[^1] My email is eric~at~this_domain.
+I'm from Wisconsin and am a senior at Princeton University studying Operations Research and Financial Engineering. Prior to Princeton, I attended The Lawrenceville School. Currently, I take interest in technology, finance, transportation, history of religion, podcasts, and cooking. Take a look at the [bookshelf][bookshelf] to see what I've been reading recently.
 
-If you like the site, check out the [Feeds][feeds] page to subscribe.
+If you like the site, subscribe on the [Feeds][feeds] page. Find me on [Twitter][twitter] and [LinkedIn][linkedin].[^1] My email is eric~at~this_domain.
 
-[pu]: http://www.princeton.edu/
-[ls]: http://www.lawrenceville.org/index.aspx
 [bookshelf]: http://ericjwdchen.org/bookshelf/
 [twitter]: https://twitter.com/ericjwdchen
 [linkedin]: https://www.linkedin.com/in/ericjwdchen
 
-[feeds]: http://ericjwdchen.org/feeds/
+[feeds]: https://ericjwdchen.org/feeds/
 
 ## How the Sausage is Made
 
-This site is built on [Jekyll][jekyll], originally forked from [Poole][poole], and generously hosted on [GitHub Pages][gp].[^2] The Git repository for the website lives [here][repo].
+This site is built on [Jekyll][jekyll], originally forked from [Poole][poole], and hosted on [GitHub Pages][gp].[^2] The Git repository for the website lives [here][repo].
 
 I write all posts in [Visual Studio Code][vscode], my text editor of choice.
 
