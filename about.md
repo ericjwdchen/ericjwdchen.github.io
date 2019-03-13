@@ -28,7 +28,7 @@ Math equations are formatted with [MathJax][mj].
 
 The site's favicon is an homage to the brown [Zune 30][Zune 30], Microsoft's deeply flawed yet iconic iPod competitor, and my favorite electronic device. Mine was white, but brown makes a better logo.
 
-[jekyll]: http://jekyllrb.com/
+[jekyll]: https://jekyllrb.com/
 [poole]: http://getpoole.com/
 [gp]: https://pages.github.com/
 [repo]: https://github.com/ericjwdchen/ericjwdchen.github.io
@@ -37,7 +37,7 @@ The site's favicon is an homage to the brown [Zune 30][Zune 30], Microsoft's dee
 
 [mj]: https://www.mathjax.org/
 
-[Zune 30]: http://en.wikipedia.org/wiki/Zune_30
+[Zune 30]: https://en.wikipedia.org/wiki/Zune_30
 
 [^1]: ["Hi, I’d like to add you to my professional network on LinkedIn.”](http://www.newyorker.com/cartoons/issue-cartoons/cartoons-from-the-october-5-2015-issue)
 
