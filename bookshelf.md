@@ -18,6 +18,8 @@ Jump to a specific year:
 
 ## In Progress
 
+- **Radical Markets: Uprooting Capitalism and Democracy for a Just Society** by Eric A. Posner and E. Glen Weyl
+
 - **Wall Street: A History, Updated Edition** by Charles R. Geisst
 
 ## 2019
