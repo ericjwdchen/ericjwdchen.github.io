@@ -24,7 +24,7 @@ Jump to a specific year:
 
 ## 2019
 
-- **Radical Markets: Uprooting Capitalism and Democracy for a Just Society** by Eric A. Posner and E. Glen Weyl
+- **Radical Markets: Uprooting Capitalism and Democracy for a Just Society** by Eric A. Posner and E. Glen Weyl  <span class="primary-color">★</span>
 
 - **The Mezzanine** by Nicholson Baker
 
