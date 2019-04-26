@@ -18,11 +18,13 @@ Jump to a specific year:
 
 ## In Progress
 
-- **Radical Markets: Uprooting Capitalism and Democracy for a Just Society** by Eric A. Posner and E. Glen Weyl
+- **Liar's Poker** by Michael Lewis
 
 - **Wall Street: A History, Updated Edition** by Charles R. Geisst
 
 ## 2019
+
+- **Radical Markets: Uprooting Capitalism and Democracy for a Just Society** by Eric A. Posner and E. Glen Weyl
 
 - **The Mezzanine** by Nicholson Baker
 
