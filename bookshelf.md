@@ -9,11 +9,8 @@ This page is inspired by [Patrick Collison's bookshelf](https://patrickcollison.
 Jump to a specific year:
 
 - [2016](#2016)
-
 - [2017](#2017)
-
 - [2018](#2018)
-
 - [2019](#2019)
 
 ## In Progress
