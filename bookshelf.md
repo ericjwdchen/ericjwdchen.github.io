@@ -15,11 +15,10 @@ Jump to a specific year:
 
 ## In Progress
 
-- **Liar's Poker** by Michael Lewis
-
-- **Wall Street: A History, Updated Edition** by Charles R. Geisst
 
 ## 2019
+
+- **Liar's Poker** by Michael Lewis <span class="primary-color">★</span>
 
 - **Radical Markets: Uprooting Capitalism and Democracy for a Just Society** by Eric A. Posner and E. Glen Weyl  <span class="primary-color">★</span>
 
