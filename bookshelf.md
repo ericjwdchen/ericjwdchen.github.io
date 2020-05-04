@@ -44,7 +44,7 @@ Jump to a specific year:
 
    Sebastian Junger's *Tribe* is concise and thought-provoking. It raises important questions about how we should organize ourselves in modern society and what progress really looks like.
 
-- **Into Thin Air** by Jon Krakauer  <span class="primary-color">★</span>
+- **Into Thin Air** by Jon Krakauer <span class="primary-color">★</span>
 
    > People who don't climb mountains—the great majority of humankind, that is to say—tend to assume that the sport is a reckless, Dionysian pursuit of ever escalating thrills. But the notion that climbers are merely adrenaline junkies chasing a righteous fix is a fallacy, at least in the case of Everest...
    >
