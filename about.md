@@ -27,7 +27,7 @@ If you like the site, subscribe on the [Feeds][feeds] page. Find me on [Twitter]
 
 ## How It's Made
 
-This site is built on [Jekyll][jekyll], originally forked from [Poole][poole], and hosted on [GitHub Pages][gp].[^2] The Git repository for the website lives [here][repo]. I write all posts in [Visual Studio Code][vscode]. Math equations are formatted with [MathJax][mj].
+This site is built on [Jekyll][jekyll], originally forked from [Poole][poole], and hosted on [GitHub Pages][gp]. The Git repository for the website lives [here][repo]. I write all posts in [Visual Studio Code][vscode]. Math equations are formatted with [MathJax][mj].
 
 The site's favicon is an homage to the brown [Zune 30][Zune 30], Microsoft's deeply flawed yet iconic iPod competitor and my favorite electronic device. Mine was white, but brown makes a better logo.
 
@@ -43,5 +43,3 @@ The site's favicon is an homage to the brown [Zune 30][Zune 30], Microsoft's dee
 [Zune 30]: https://en.wikipedia.org/wiki/Zune_30
 
 [^1]: ["Hi, I’d like to add you to my professional network on LinkedIn.”](http://www.newyorker.com/cartoons/issue-cartoons/cartoons-from-the-october-5-2015-issue)
-
-[^2]: At zero cost to me, thanks Github!
