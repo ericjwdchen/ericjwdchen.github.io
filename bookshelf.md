@@ -13,7 +13,11 @@ Jump to a specific year:
 - [2018](#2018)
 - [2019](#2019)
 
+<hr>
+
 ## In Progress
+
+
 
 
 ## 2019

@@ -8,7 +8,10 @@ weight: 1
 
 Hey there! I'm Eric Chen.
 
-I'm from Wisconsin and studied Operations Research and Financial Engineering at [Princeton University][pu]. Prior to Princeton, I attended [The Lawrenceville School][lv]. Currently, I take interest in technology, finance, transportation, history of religion, podcasts, and cooking. Take a look at the [bookshelf][bookshelf] to see what I've been reading recently.
+I'm from Wisconsin and studied Operations Research and Financial Engineering at [Princeton University][pu]. Currently, I'm interested in technology, finance, transportation, and podcasts. Take a look at the [bookshelf][bookshelf] to see what I've been reading recently.
+
+[comment]: <> Prior to Princeton, I attended [The Lawrenceville School][lv].
+
 
 If you like the site, subscribe on the [Feeds][feeds] page. Find me on [Twitter][twitter] and [LinkedIn][linkedin].[^1] My email is eric~at~this_domain.
 
@@ -22,13 +25,9 @@ If you like the site, subscribe on the [Feeds][feeds] page. Find me on [Twitter]
 
 [feeds]: https://ericjwdchen.org/feeds/
 
-## How the Sausage is Made
+## How It's Made
 
-This site is built on [Jekyll][jekyll], originally forked from [Poole][poole], and hosted on [GitHub Pages][gp].[^2] The Git repository for the website lives [here][repo].
-
-I write all posts in [Visual Studio Code][vscode], my text editor of choice.
-
-Math equations are formatted with [MathJax][mj].
+This site is built on [Jekyll][jekyll], originally forked from [Poole][poole], and hosted on [GitHub Pages][gp].[^2] The Git repository for the website lives [here][repo]. I write all posts in [Visual Studio Code][vscode]. Math equations are formatted with [MathJax][mj].
 
 The site's favicon is an homage to the brown [Zune 30][Zune 30], Microsoft's deeply flawed yet iconic iPod competitor and my favorite electronic device. Mine was white, but brown makes a better logo.
 
@@ -45,4 +44,4 @@ The site's favicon is an homage to the brown [Zune 30][Zune 30], Microsoft's dee
 
 [^1]: ["Hi, I’d like to add you to my professional network on LinkedIn.”](http://www.newyorker.com/cartoons/issue-cartoons/cartoons-from-the-october-5-2015-issue)
 
-[^2]: For free! Thanks Github 😁.
+[^2]: At zero cost to me, thanks Github!
