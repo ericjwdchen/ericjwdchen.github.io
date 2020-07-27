@@ -7,12 +7,12 @@ permalink: pretty
 
 # Setup
 title: Eric Chen
-url: https://ericjwdchen.org
+url: https://ericchen.cc
 paginate: 5
 author:
   name: Eric Chen
   url: https://twitter.com/ericjwdchen_org
-  email: eric@ericjwdchen.org
+  email:
 
 sass:
   style: :compressed
