@@ -19,11 +19,11 @@ If you like the site, subscribe on the [Feeds][feeds] page. Find me on [Twitter]
 
 [lv]: https://www.lawrenceville.org
 
-[bookshelf]: http://ericjwdchen.org/bookshelf
+[bookshelf]: /bookshelf
 [twitter]: https://twitter.com/ericjwdchen
 [linkedin]: https://www.linkedin.com/in/ericjwdchen
 
-[feeds]: https://ericjwdchen.org/feeds/
+[feeds]: /feeds
 
 ## How It's Made
 
