@@ -13,7 +13,7 @@ I'm from Wisconsin and studied Operations Research and Financial Engineering at 
 [comment]: <> Prior to Princeton, I attended [The Lawrenceville School][lv].
 
 
-If you like the site, subscribe on the [Feeds][feeds] page. Find me on [Twitter][twitter] and [LinkedIn][linkedin].[^1] My email is eric~at~this_domain.
+If you like the site, subscribe on the [Feeds][feeds] page. Find me on [Twitter][twitter] and [LinkedIn][linkedin].[^1]
 
 [pu]: https://www.princeton.edu
 
