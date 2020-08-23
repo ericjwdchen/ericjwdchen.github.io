@@ -10,14 +10,9 @@ Hey there! I'm Eric Chen.
 
 I'm from Wisconsin, studied Operations Research and Financial Engineering at [Princeton][pu], and working in Chicago now. Take a look at the [bookshelf][bookshelf] to see what I've been reading recently.
 
-[comment]: <> Prior to Princeton, I attended [The Lawrenceville School][lv].
-
-
 If you like the site, subscribe on the [Feeds][feeds] page. Find me on [Twitter][twitter] and [LinkedIn][linkedin].[^1]
 
 [pu]: https://www.princeton.edu
-
-[lv]: https://www.lawrenceville.org
 
 [bookshelf]: /bookshelf
 [twitter]: https://twitter.com/ericjwdchen
