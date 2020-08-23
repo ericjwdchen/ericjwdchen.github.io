@@ -8,7 +8,7 @@ weight: 1
 
 Hey there! I'm Eric Chen.
 
-I'm from Wisconsin and studied Operations Research and Financial Engineering at [Princeton University][pu]. Currently, I'm interested in technology, finance, transportation, and podcasts. Take a look at the [bookshelf][bookshelf] to see what I've been reading recently.
+I'm from Wisconsin, studied Operations Research and Financial Engineering at [Princeton][pu], and working in Chicago now. Take a look at the [bookshelf][bookshelf] to see what I've been reading recently.
 
 [comment]: <> Prior to Princeton, I attended [The Lawrenceville School][lv].
 
