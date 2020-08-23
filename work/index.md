@@ -18,4 +18,4 @@ This is a project that I worked on for my school newspaper. I built a brand-new 
 
 ![The Lawrence Laptop](/assets/2015/01/the-lawrence-laptop.png)*On the laptop.*
 
-[the lawrence]: http://ericjwdchen.org/work/the-lawrence
+[the lawrence]: /work/the-lawrence

@@ -60,4 +60,4 @@ Because “Dark Blue Tennessee” was never officially released, the only way to
 
 [tumblr analyzing taylor]: http://analyzingtaylor.tumblr.com/
 
-[histogram play counts]: http2014/09/24/graphing-the-play-counts-of-taylor-swift-songs/
+[histogram play counts]: 2014/09/24/graphing-the-play-counts-of-taylor-swift-songs/
