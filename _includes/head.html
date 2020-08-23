@@ -20,14 +20,10 @@
   <meta name="msapplication-TileColor" content="#b91d47">
   <meta name="msapplication-config" content="/assets/icons/browserconfig.xml?v=bOMEaEbz7O">
 
-  <!-- Mathjax -->
-  <script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    messageStyle: "none"
-  });
-  </script>
-  <!-- Although points to v. 2.7.5, will always load the latest version with latest.js -->
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-AMS_CHTML' async></script>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  
+
 
   <title>
     {% if page.title == "Home" %}
