@@ -51,4 +51,4 @@ Below, are normalized scoring and PPG for all NBA Finals MVPs from 1990-2017. I 
  <tr><td>2017</td><td>Kevin Durant (Golden State Warriors )</td><td>28.9%</td><td>35.2</td></tr>
 </tbody></table></div>
 
-[Link to download dataset](http://ericjwdchen.org/assets/2017/12/NBA_Finals_MVP_-_Normalized_Scoring.xlsx)
+[Link to download dataset](/assets/2017/12/NBA_Finals_MVP_-_Normalized_Scoring.xlsx)
