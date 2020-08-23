@@ -32,12 +32,12 @@ I also wanted the site to be easy to navigate. I ended up dividing the navigatio
 
 I decided to place less-used navigation in a secondary group, primarily featuring links that are 'bonus' to the physical newspaper: About, Masthead, Contact, etc.
 
-[the lawrence]: http://ericjwdchen.org/work/the_lawrence
+[the lawrence]: /work/the_lawrence
 [instant articles]: https://instantarticles.fb.com/
 [10k words]: http://recode.net/2016/01/05/twitter-considering-10000-character-limit-for-tweets/
 [amp]: https://www.ampproject.org/
 [idle words talk]: http://idlewords.com/talks/website_obesity.htm
-[old site screenshot]: http://ericjwdchen.org/assets/2015/01/the-lawrence-old.png
+[old site screenshot]: /assets/2015/01/the-lawrence-old.png
 
 ### Article Page
 

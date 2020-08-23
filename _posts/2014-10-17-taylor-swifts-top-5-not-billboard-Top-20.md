@@ -7,7 +7,7 @@ This also appeared in the October 17 Parents' Weekend edition of *The Lawrence*,
 
 <hr>
 
-There’s no need to beat around the bush; I’m a [Swiftie][swiftie urban dictionary]. I am a member and occasional contributor to [/r/TaylorSwift][reddit Taylor Swift], frequently peruse [AnalyzingTaylor.tumblr.com][tumblr analyzing taylor], and have created, for personal discovery and enrichment purposes, [a histogram][histogram play counts] detailing my play counts of every single Taylor Swift song—the histogram is skewed right, if you were wondering. Needless to say, I know Taylor’s music all too well. Those of you who don’t share the same passion could still benefit from adding some diversity to your musical selections. In honor of Swift’s upcoming album release, I urge you to shake off the mainstream and be a little hipster with this list of the top 5 Taylor Swift songs that never cracked the Billboard Top 20.
+There’s no need to beat around the bush; I’m a Swiftie. I am a member and occasional contributor to [/r/TaylorSwift][reddit Taylor Swift], frequently peruse [AnalyzingTaylor.tumblr.com][tumblr analyzing taylor], and have created, for personal discovery and enrichment purposes, [a histogram][histogram play counts] detailing my play counts of every single Taylor Swift song—the histogram is skewed right, if you were wondering. Needless to say, I know Taylor’s music all too well. Those of you who don’t share the same passion could still benefit from adding some diversity to your musical selections. In honor of Swift’s upcoming album release, I urge you to shake off the mainstream and be a little hipster with this list of the top 5 Taylor Swift songs that never cracked the Billboard Top 20.
 
 ## 1. Tim McGraw
 
@@ -54,12 +54,10 @@ These simple words on his goodbye note.</i></p></div>
 
 Because “Dark Blue Tennessee” was never officially released, the only way to listen to it is on YouTube with that terrible pitch shifting. In spite of that, the song still shines. It’s perhaps the most country of any song on this list. Taylor’s voice has a little twang, and the instrumentation is unapologetically small-town southern.
 
-[the lawrence top 5 article]: http://www.thelawrence.org/arts/the-definitive-t-swift-top-5
-
-[swiftie urban dictionary]: http://www.urbandictionary.com/define.php?term=swiftie
+[the lawrence top 5 article]: https://web.archive.org/web/20160111170411/http://www.thelawrence.org/arts/the-definitive-t-swift-top-5
 
 [reddit taylor swift]: http://www.reddit.com/r/Taylorswift
 
 [tumblr analyzing taylor]: http://analyzingtaylor.tumblr.com/
 
-[histogram play counts]: http://ericjwdchen.org/2014/09/24/graphing-the-play-counts-of-taylor-swift-songs/
+[histogram play counts]: http2014/09/24/graphing-the-play-counts-of-taylor-swift-songs/
