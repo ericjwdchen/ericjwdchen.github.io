@@ -8,17 +8,13 @@ weight: 1
 
 Hey there! I'm Eric Chen.
 
-I'm from Wisconsin, studied Operations Research and Financial Engineering at [Princeton][pu], and working in Chicago now. Take a look at the [bookshelf][bookshelf] to see what I've been reading recently.
-
-If you like the site, subscribe on the [Feeds][feeds] page. Find me on [Twitter][twitter] and [LinkedIn][linkedin].[^1]
+I'm from Wisconsin, studied Operations Research and Financial Engineering at [Princeton][pu], and working in Chicago now. Take a look at the [bookshelf][bookshelf] to see what I've been reading recently. Find me on [Twitter][twitter] and [LinkedIn][linkedin].[^1]
 
 [pu]: https://www.princeton.edu
 
 [bookshelf]: /bookshelf
 [twitter]: https://twitter.com/ericjwdchen
 [linkedin]: https://www.linkedin.com/in/ericjwdchen
-
-[feeds]: /feeds
 
 ## How It's Made
 
