@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Feeds
-weight: 2
+weight: 0
 ---
 
 RSS feed: [https://ericchen.cc/rss.xml](/rss.xml)
