@@ -70,15 +70,11 @@ body {
 
 html {
   color: var(--body-color);
-  font: 110%/1.6 Palatino, Georgia, serif;
+  font: 110% Palatino, Georgia, serif;
+  line-height: 1.6;
   background: var(--body-bg);
 }
 
-@media (min-width: 600px) {
-  html {
-    font-size: 125%;
-  }
-}
 
 /* Custom type */
 
